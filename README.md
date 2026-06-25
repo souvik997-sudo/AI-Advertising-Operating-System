@@ -1,62 +1,55 @@
-# 🚀 AI Advertising Operating System (AAOS)
+# 🚀 AI Advertising Operating System
 
-> A modular AI-powered Advertising & Marketing Operating System designed for creating high-quality marketing assets using structured workflows, psychology, SEO, branding and prompt engineering.
-
----
-
-# 📖 Overview
-
-AI Advertising Operating System (AAOS) is a documentation-driven knowledge base that helps AI models generate professional marketing content.
-
-Instead of relying on random prompts, AAOS follows a structured operating system approach.
+> Build Professional Marketing Assets with AI
 
 ---
 
-# 🎯 Goals
+## 📌 Overview
 
-- Create human-like advertising copy
-- Generate high-converting scripts
-- Improve SEO content quality
-- Standardize AI workflows
-- Build reusable marketing frameworks
-- Support multiple AI models
+AI Advertising Operating System is a complete AI-powered marketing framework designed to generate consistent, high-quality marketing assets using ChatGPT, Claude, Gemini, Grok, local LLMs and other AI systems.
 
----
+This project focuses on building an end-to-end advertising workflow that combines:
 
-# 🧠 Supported AI Models
-
-- ChatGPT
-- Claude
-- Gemini
-- Grok
-- OpenAI API
-- Ollama
-- Local LLMs
+- AI Identity
+- Buyer Psychology
+- Copywriting
+- Humanized Writing
+- SEO
+- Brand Analysis
+- UGC Framework
+- Advertising Scripts
+- Prompt Engineering
+- Quality Control
 
 ---
 
-# 📂 Project Structure
+## 🎯 Project Goal
 
-See each module for detailed documentation.
+The objective is to create a reusable AI Operating System that allows anyone to generate:
 
----
-
-# 🚧 Current Status
-
-Version: 2.0
-
-Status:
-
-🟢 Active Development
-
----
-
-# 👨‍💻 Author
-
-Souvik
+- Voice-over Scripts
+- Advertisement Scripts
+- Facebook Ads
+- Google Ads
+- Headlines
+- SEO Articles
+- Product Descriptions
+- Landing Pages
+- UGC Scripts
+- Social Media Content
+- Creative Briefs
+- Marketing Strategy
 
 ---
 
-# 📜 License
+## 👨‍💻 Author
 
-To be added.
+**Souvik**
+
+AI Marketing & Automation
+
+---
+
+## 🚧 Status
+
+Currently Under Active Development
