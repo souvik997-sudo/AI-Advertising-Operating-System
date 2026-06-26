@@ -2708,3 +2708,193 @@ AAOS should think like a marketing strategist before writing like a copywriter.
 
 ---
 
+## 12. Common Copywriting Mistakes
+
+### Overview
+
+Even well-designed marketing campaigns can fail because of poor copywriting.
+
+Understanding common mistakes helps AAOS generate content that is clearer, more persuasive, and more customer-focused.
+
+Avoiding these mistakes is just as important as following good copywriting principles.
+
+---
+
+### Mistake 1 – Focusing Only on Features
+
+Many businesses describe products without explaining why they matter.
+
+Weak:
+
+"Our scooter has a 120 km battery range."
+
+Better:
+
+"Travel farther with fewer charging stops, making your daily commute more convenient."
+
+Always translate features into customer benefits.
+
+---
+
+### Mistake 2 – Talking Too Much About the Business
+
+Customers care more about their own problems than the company.
+
+Weak:
+
+"We are the best digital marketing agency."
+
+Better:
+
+"Generate more qualified leads with data-driven digital marketing strategies."
+
+Keep the customer at the center of the message.
+
+---
+
+### Mistake 3 – Weak Headlines
+
+A headline that fails to attract attention reduces the effectiveness of the entire message.
+
+Avoid:
+
+* Generic headlines
+* Vague promises
+* Unclear wording
+
+The headline should immediately communicate value.
+
+---
+
+### Mistake 4 – Generic Call to Action
+
+Weak CTAs provide little motivation.
+
+Weak:
+
+"Contact Us"
+
+Better:
+
+"Book Your Free Consultation Today."
+
+The CTA should clearly explain the next step.
+
+---
+
+### Mistake 5 – Ignoring Customer Intent
+
+Different customers need different messages.
+
+Someone researching a product requires education.
+
+Someone ready to buy needs confidence and a clear CTA.
+
+Always match the copy to the customer's intent.
+
+---
+
+### Mistake 6 – Overpromising
+
+Avoid unrealistic claims.
+
+Examples:
+
+* "Guaranteed Success"
+* "Instant Results"
+* "Works for Everyone"
+
+Build trust through honesty and realistic expectations.
+
+---
+
+### Mistake 7 – Using Complex Language
+
+Complicated words reduce clarity.
+
+Write in simple, natural language that the target audience can easily understand.
+
+---
+
+### Mistake 8 – No Emotional Connection
+
+Facts inform.
+
+Emotions motivate.
+
+Good copy combines both.
+
+---
+
+### Mistake 9 – Lack of Proof
+
+Customers trust evidence more than opinions.
+
+Include:
+
+* Reviews
+* Testimonials
+* Certifications
+* Case studies
+* Demonstrations
+
+Support claims whenever possible.
+
+---
+
+### Mistake 10 – No Clear Structure
+
+Unorganized copy is difficult to read.
+
+Use:
+
+* Headlines
+* Short paragraphs
+* Bullet points
+* Logical flow
+
+Well-structured copy improves readability.
+
+---
+
+### AAOS Thinking Rule
+
+Before approving copy, verify:
+
+* Is the customer the focus?
+* Are benefits clearly explained?
+* Is the language simple?
+* Is the CTA strong?
+* Are claims supported?
+* Is the structure easy to follow?
+
+Revise any copy that fails these checks.
+
+---
+
+### Real Business Example
+
+Business:
+
+Bengal Colour Point
+
+Weak Copy:
+
+"We sell premium paint."
+
+Improved Copy:
+
+"Protect your home with premium paints designed for long-lasting durability, vibrant finishes, and lower maintenance over time."
+
+---
+
+### Key Takeaway
+
+Most copywriting problems are caused by unclear thinking, not poor writing.
+
+Understand the customer first.
+
+Write second.
+
+---
+
