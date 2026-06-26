@@ -423,3 +423,176 @@ It is about using the right words to solve the right problem for the right custo
 
 ---
 
+## 4. Understanding Customer Intent
+
+### Overview
+
+Every piece of effective copy begins with understanding customer intent.
+
+Customer intent explains why someone is searching, reading, clicking, or considering a product or service.
+
+AAOS should identify intent before choosing the messaging, framework, or call to action.
+
+---
+
+### What Is Customer Intent?
+
+Customer intent is the underlying reason behind a customer's action.
+
+The same customer may have different intentions at different stages of the buying journey.
+
+Understanding intent allows marketers to deliver the right message at the right time.
+
+---
+
+### Types of Customer Intent
+
+#### Informational Intent
+
+The customer wants to learn something.
+
+Examples:
+
+* What is SEO?
+* How do electric scooters work?
+* Benefits of solar panels
+
+Marketing Approach:
+
+Educate before selling.
+
+---
+
+#### Commercial Intent
+
+The customer is comparing different options before making a decision.
+
+Examples:
+
+* Best electric scooter under ₹1 lakh
+* Canva vs Photoshop
+* Best modular kitchen brands
+
+Marketing Approach:
+
+Highlight value, comparisons, testimonials, and unique advantages.
+
+---
+
+#### Transactional Intent
+
+The customer is ready to take action.
+
+Examples:
+
+* Buy electric scooter
+* Book interior designer
+* Order paint online
+
+Marketing Approach:
+
+Provide a strong CTA, pricing, offers, and a simple purchase process.
+
+---
+
+#### Navigational Intent
+
+The customer is looking for a specific brand or business.
+
+Examples:
+
+* Bankura EV Care
+* Dream Home Interior
+* Bengal Colour Point
+
+Marketing Approach:
+
+Build trust and make information easy to find.
+
+---
+
+### Search Intent vs Buying Intent
+
+Search intent explains why someone searches.
+
+Buying intent explains how close they are to making a purchase.
+
+A customer may search for information today and become ready to buy later.
+
+AAOS should adapt its messaging based on both.
+
+---
+
+### AAOS Thinking Rule
+
+Before writing copy, identify:
+
+* What is the customer's intent?
+* How much does the customer already know?
+* Are they researching or buying?
+* What information is most valuable at this stage?
+
+The message should match the customer's current intent rather than forcing a sale.
+
+---
+
+### Marketing Example
+
+Search Query:
+
+"Best electric scooter for daily office commute"
+
+Customer Intent:
+
+Commercial Investigation
+
+Weak Response:
+
+"Our showroom sells electric scooters."
+
+Intent-Based Response:
+
+"Compare reliable electric scooters designed for daily commuting, lower running costs, and comfortable city travel before making your decision."
+
+---
+
+### Key Takeaway
+
+Customers respond best when the message matches their intent.
+
+Understanding intent improves relevance, trust, and conversion.
+
+---
+
+## 5. Copywriting Frameworks
+
+### Overview
+
+Copywriting frameworks are structured methods that help marketers organize ideas into persuasive and customer-focused messages.
+
+Instead of writing randomly, frameworks provide a proven sequence that guides the audience from attention to action.
+
+AAOS uses different frameworks depending on the business objective, customer awareness level, and marketing channel.
+
+The following frameworks are included in this module:
+
+* AIDA
+* PAS
+* BAB
+* FAB
+* 4U
+* QUEST
+
+Each framework will be explained using the same structure:
+
+1. Definition
+2. Why It Works
+3. Best Use Cases
+4. When Not to Use
+5. AI Thinking Rules
+6. Real Business Example
+7. Prompt Template
+8. QA Checklist
+
+---
+
