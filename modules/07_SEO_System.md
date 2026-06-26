@@ -2521,3 +2521,107 @@ Every SEO recommendation should prioritize usefulness, accuracy, and long-term v
 
 ---
 
+# SEO QA Checklist
+
+Before publishing any SEO content, AAOS should verify that the content satisfies user needs, business objectives, and search quality standards.
+
+---
+
+## User Intent
+
+Verify that:
+
+* The primary search intent has been identified.
+* The content fully answers the user's question.
+* The content format matches the search intent.
+* The information is relevant to the target audience.
+
+---
+
+## Content Quality
+
+Confirm that:
+
+* The information is accurate.
+* The content is original.
+* The topic is covered comprehensively.
+* Examples are relevant.
+* The writing is clear and easy to understand.
+
+---
+
+## Keyword Optimization
+
+Verify that:
+
+* A primary keyword has been selected.
+* Secondary keywords support the topic naturally.
+* Semantic keywords are included where appropriate.
+* No keyword stuffing is present.
+
+---
+
+## On-Page SEO
+
+Check that:
+
+* The title is descriptive.
+* The meta description is clear.
+* The URL is simple and readable.
+* Heading hierarchy is logical.
+* Internal links are relevant.
+* Images include descriptive alt text.
+
+---
+
+## Technical SEO
+
+Confirm that:
+
+* The page is crawlable.
+* The page is indexable.
+* HTTPS is enabled.
+* Mobile usability is satisfactory.
+* Page speed is acceptable.
+* Structured data has been implemented where appropriate.
+
+---
+
+## EEAT
+
+Verify that the content demonstrates:
+
+* Experience
+* Expertise
+* Authoritativeness
+* Trustworthiness
+
+Avoid unsupported claims or misleading information.
+
+---
+
+## Humanization
+
+Confirm that:
+
+* The content sounds natural.
+* AI writing patterns have been removed.
+* The tone matches the brand.
+* The writing remains engaging and authentic.
+
+---
+
+## Final Validation
+
+Before publishing, AAOS should confirm:
+
+* User intent has been satisfied.
+* Business objectives are supported.
+* SEO best practices have been followed.
+* The content provides genuine value.
+* The page is ready for publication.
+
+Only after completing this checklist should the content be published.
+
+---
+
