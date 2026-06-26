@@ -825,6 +825,115 @@ A successful brand maintains one voice while adapting its tone to different audi
 
 ---
 
+# Competitive Analysis
+
+Competitive Analysis is the process of studying competing businesses to understand their strengths, weaknesses, positioning, pricing, messaging, and market presence.
+
+The goal is not to copy competitors.
+
+The goal is to identify opportunities to differentiate the brand and create stronger marketing strategies.
+
+---
+
+## Why Competitive Analysis Matters
+
+Understanding competitors helps a business:
+
+* Identify market gaps
+* Improve positioning
+* Develop a stronger USP
+* Create more effective marketing campaigns
+* Avoid common industry mistakes
+
+A business that understands its competitors can make better strategic decisions.
+
+---
+
+## Types of Competitors
+
+### Direct Competitors
+
+Businesses that offer similar products or services to the same target audience.
+
+Example:
+
+Two modular kitchen companies operating in the same city.
+
+---
+
+### Indirect Competitors
+
+Businesses that solve the same customer problem using different products or services.
+
+Example:
+
+A modular kitchen company and a ready-made furniture retailer.
+
+---
+
+## Areas to Analyze
+
+AAOS should compare competitors based on:
+
+* Products or Services
+* Pricing
+* Target Audience
+* Brand Positioning
+* USP
+* Marketing Messages
+* Social Media Presence
+* Customer Reviews
+* Visual Branding
+* Customer Experience
+
+---
+
+## Competitive Questions
+
+Before creating marketing content, AAOS should answer:
+
+* Who are the strongest competitors?
+* What are they doing well?
+* Where are they weak?
+* What opportunities exist?
+* How can this brand differentiate itself?
+
+---
+
+## Real Business Example
+
+Business:
+
+Dream Home Interior
+
+Competitors:
+
+Local interior design companies.
+
+Opportunity:
+
+Instead of competing only on price, position the brand around customized designs, premium quality, and personalized consultation.
+
+---
+
+## AAOS Thinking Rule
+
+Never imitate competitors.
+
+Study them to discover opportunities for differentiation.
+
+Every marketing campaign should strengthen the brand's unique position rather than replicate existing messages.
+
+---
+
+## Key Takeaway
+
+Competitive Analysis is not about copying successful businesses.
+
+It is about understanding the market well enough to build a stronger and more distinctive brand.
+
+---
+
 # Brand Analysis Framework
 
 ## 1. Business Information
