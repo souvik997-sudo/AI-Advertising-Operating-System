@@ -1267,3 +1267,179 @@ Without a solid technical foundation, even the best content may never reach its 
 
 ---
 
+# Off-Page SEO
+
+Off-Page SEO refers to all optimization activities that occur outside a website to improve its authority, trustworthiness, and search visibility.
+
+While On-Page SEO focuses on the website itself, Off-Page SEO focuses on how other websites and users perceive and reference your content.
+
+The primary objective is to build credibility and demonstrate that the website is a trusted source of information.
+
+---
+
+## Why Off-Page SEO Matters
+
+Search engines evaluate not only the quality of your content but also how the rest of the web responds to it.
+
+Strong Off-Page SEO helps to:
+
+* Build website authority
+* Increase trust
+* Improve search rankings
+* Strengthen brand reputation
+* Generate referral traffic
+
+Authority is earned through reputation, not manipulation.
+
+---
+
+## Backlinks
+
+A backlink is a hyperlink from another website pointing to your website.
+
+Search engines often treat high-quality backlinks as signals of trust and relevance.
+
+However, quality is far more important than quantity.
+
+---
+
+## Link Quality vs Quantity
+
+A few backlinks from trusted, relevant websites are generally more valuable than hundreds of low-quality links.
+
+High-quality backlinks are typically:
+
+* Relevant
+* Authoritative
+* Natural
+* Editorially earned
+* Contextually appropriate
+
+Avoid acquiring links solely for ranking purposes.
+
+---
+
+## Brand Mentions
+
+Search engines may also consider brand mentions across the web.
+
+Brand mentions can appear in:
+
+* News articles
+* Blogs
+* Industry publications
+* Podcasts
+* Social media
+* Online communities
+
+Consistent positive mentions strengthen brand recognition.
+
+---
+
+## Digital PR
+
+Digital Public Relations (Digital PR) focuses on earning visibility through valuable content and media coverage.
+
+Examples include:
+
+* Original research
+* Industry reports
+* Expert interviews
+* Press releases
+* Case studies
+
+Digital PR can naturally attract high-quality backlinks.
+
+---
+
+## Social Signals
+
+Although social media activity is not generally considered a direct ranking factor, it can increase:
+
+* Content visibility
+* Brand awareness
+* Website traffic
+* Content sharing
+
+Greater visibility often leads to more natural backlinks and brand mentions.
+
+---
+
+## Online Reputation
+
+Reviews and public perception influence user trust.
+
+Businesses should monitor and improve their online reputation through:
+
+* Customer reviews
+* Testimonials
+* Community engagement
+* Professional communication
+* Consistent branding
+
+Trust contributes to long-term brand authority.
+
+---
+
+## Relationship with EEAT
+
+Strong Off-Page SEO supports Google's EEAT principles by demonstrating:
+
+* Experience
+* Expertise
+* Authoritativeness
+* Trustworthiness
+
+External recognition helps reinforce credibility.
+
+---
+
+## Best Practices
+
+AAOS should:
+
+* Earn backlinks naturally.
+* Publish valuable content.
+* Build industry relationships.
+* Encourage genuine reviews.
+* Maintain a positive online reputation.
+* Focus on long-term authority instead of short-term ranking tactics.
+
+---
+
+## Common Mistakes
+
+Avoid:
+
+* Buying backlinks
+* Link farms
+* Spam directories
+* Automated link building
+* Excessive guest posting for links alone
+* Manipulative SEO practices
+
+These techniques may damage long-term search performance.
+
+---
+
+## AAOS Thinking Rule
+
+Before recommending any Off-Page SEO strategy, AAOS should ask:
+
+* Does this build genuine authority?
+* Would people naturally reference this content?
+* Is the strategy ethical and sustainable?
+* Does it improve trust rather than manipulate rankings?
+
+Authority should be earned through value.
+
+---
+
+## Key Takeaway
+
+Off-Page SEO is the process of building trust, authority, and reputation beyond your website.
+
+The strongest Off-Page SEO strategy is consistently creating valuable content that people genuinely want to reference, recommend, and share.
+
+---
+
