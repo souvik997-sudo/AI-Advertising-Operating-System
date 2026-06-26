@@ -313,3 +313,146 @@ AAOS recommends emphasizing food quality, customer experience, and family moment
 **End of Example 2**
 
 ---
+
+# Example 3 — Furniture Store
+
+## Business Information
+
+**Business Name:** UrbanWood Furniture
+
+**Industry:** Furniture
+
+**Business Category:** Home & Office Furniture
+
+**Products / Services:**
+
+* Sofa Sets
+* Beds
+* Dining Tables
+* Wardrobes
+* Office Furniture
+* Customized Furniture
+* Home Decor Accessories
+
+**Location:** Bengaluru, India
+
+---
+
+## Brand Identity
+
+**Mission:**
+
+To create stylish, durable, and functional furniture that enhances modern living.
+
+**Vision:**
+
+To become a trusted furniture brand known for quality craftsmanship and customer satisfaction.
+
+**Core Values:**
+
+* Quality
+* Innovation
+* Craftsmanship
+* Customer First
+* Reliability
+
+**Brand Personality:**
+
+Modern, Elegant, Trustworthy
+
+**Brand Voice:**
+
+Professional, Warm, Design-Focused
+
+---
+
+## Target Audience
+
+* Homeowners
+* Newly Married Couples
+* Office Owners
+* Interior Designers
+* Property Developers
+
+**Age Group:**
+
+25–55
+
+**Income Level:**
+
+Middle to Upper-Middle Income
+
+---
+
+## Customer Psychology
+
+### Pain Points
+
+* Poor furniture quality
+* Limited customization
+* High prices
+* Long delivery times
+
+### Desires
+
+* Stylish interiors
+* Durable furniture
+* Comfortable living
+* Value for money
+
+### Emotional Triggers
+
+* Pride
+* Comfort
+* Happiness
+* Security
+
+---
+
+## Market Analysis
+
+### Direct Competitors
+
+* Local Furniture Stores
+* Branded Furniture Retailers
+
+### USP
+
+Modern, customizable furniture built with quality materials and designed for long-term comfort.
+
+### Market Opportunity
+
+Increasing demand for premium yet affordable furniture for modern homes and offices.
+
+---
+
+## Marketing Strategy
+
+**Marketing Angle:**
+
+Furniture that transforms every space into a comfortable and stylish experience.
+
+**Content Style:**
+
+* Room Makeover Videos
+* Product Demonstrations
+* Customer Testimonials
+* Before & After Transformations
+* Interior Styling Tips
+
+**Primary CTA:**
+
+Visit Our Showroom Today
+
+---
+
+## AI Recommendation
+
+AAOS recommends focusing on lifestyle-based marketing, showcasing real customer spaces, product durability, and customization options through high-quality visuals and short-form videos.
+
+---
+
+**End of Example 3**
+
+---
+
