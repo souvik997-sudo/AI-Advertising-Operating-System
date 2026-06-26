@@ -2206,3 +2206,318 @@ It is about creating trustworthy, well-structured, and genuinely helpful content
 
 ---
 
+# SEO Workflow
+
+AAOS follows a structured SEO workflow to create content that is helpful, discoverable, and aligned with both user intent and search engine best practices.
+
+Every SEO project should follow a consistent process rather than relying on isolated optimization techniques.
+
+---
+
+## Step 1 — Understand the Business
+
+Identify:
+
+* Business Goals
+* Products or Services
+* Target Audience
+* Industry
+* Geographic Market
+* Competitors
+
+SEO should support business objectives, not just rankings.
+
+---
+
+## Step 2 — Identify Search Intent
+
+Determine what users are trying to accomplish.
+
+Classify the search intent as:
+
+* Informational
+* Navigational
+* Commercial Investigation
+* Transactional
+
+The content format should match the user's intent.
+
+---
+
+## Step 3 — Keyword Research
+
+Research:
+
+* Primary Keyword
+* Secondary Keywords
+* Long-Tail Keywords
+* Semantic Keywords
+* Related Entities
+
+Choose keywords based on relevance rather than search volume alone.
+
+---
+
+## Step 4 — Content Planning
+
+Plan the content before writing.
+
+Define:
+
+* Content Objective
+* Page Structure
+* Headings
+* Internal Links
+* User Questions
+* Call-to-Action
+
+A clear outline improves both quality and consistency.
+
+---
+
+## Step 5 — Content Creation
+
+Write content that is:
+
+* Helpful
+* Accurate
+* Comprehensive
+* Well-structured
+* User-focused
+
+The first draft should prioritize solving the user's problem.
+
+---
+
+## Step 6 — Humanization
+
+Review the draft to:
+
+* Improve readability
+* Remove AI patterns
+* Maintain brand voice
+* Enhance natural language
+* Strengthen engagement
+
+SEO content should always read naturally.
+
+---
+
+## Step 7 — SEO Optimization
+
+Optimize:
+
+* Title Tag
+* Meta Description
+* URL
+* Heading Structure
+* Internal Links
+* Images
+* Alt Text
+* Keyword Placement
+
+Optimization should improve discoverability without reducing readability.
+
+---
+
+## Step 8 — Quality Assurance
+
+Before publishing, verify:
+
+* Search intent is satisfied.
+* Information is accurate.
+* EEAT principles are followed.
+* Technical SEO requirements are met.
+* Content is easy to read.
+
+Only high-quality content should be published.
+
+---
+
+## Step 9 — Publish & Monitor
+
+After publishing:
+
+* Monitor rankings
+* Track organic traffic
+* Measure user engagement
+* Review click-through rates
+* Update outdated content
+
+SEO is an ongoing process, not a one-time task.
+
+---
+
+## SEO Workflow Diagram
+
+Business Analysis
+
+↓
+
+Search Intent
+
+↓
+
+Keyword Research
+
+↓
+
+Content Planning
+
+↓
+
+Content Creation
+
+↓
+
+Humanization
+
+↓
+
+SEO Optimization
+
+↓
+
+Quality Assurance
+
+↓
+
+Publish
+
+↓
+
+Monitor & Improve
+
+---
+
+## Workflow Rule
+
+AAOS should never begin SEO optimization before understanding the business, audience, and user intent.
+
+Optimization should support high-quality content—not compensate for poor content.
+
+---
+
+# AI Thinking Rules
+
+Before generating SEO content, AAOS should complete the SEO Workflow and evaluate every recommendation against user needs, business objectives, and search quality principles.
+
+The AI should follow these rules:
+
+---
+
+## Rule 1 — Prioritize User Intent
+
+Always identify what the user is trying to accomplish.
+
+Content should solve the user's problem before attempting to improve search rankings.
+
+---
+
+## Rule 2 — Write for People First
+
+Create content that is:
+
+* Helpful
+* Clear
+* Accurate
+* Engaging
+* Easy to understand
+
+SEO techniques should enhance the content, not dominate it.
+
+---
+
+## Rule 3 — Maintain EEAT
+
+Every recommendation should demonstrate:
+
+* Experience
+* Expertise
+* Authoritativeness
+* Trustworthiness
+
+Unsupported claims should never be presented as facts.
+
+---
+
+## Rule 4 — Optimize Naturally
+
+Use:
+
+* Primary Keywords
+* Secondary Keywords
+* Semantic Keywords
+* Related Entities
+
+All keywords should appear naturally within the content.
+
+Avoid keyword stuffing.
+
+---
+
+## Rule 5 — Build Topical Authority
+
+Cover topics comprehensively.
+
+Answer related questions.
+
+Connect supporting topics through logical internal links.
+
+AAOS should create knowledge, not isolated pages.
+
+---
+
+## Rule 6 — Respect Technical SEO
+
+Before recommending publication, verify:
+
+* Crawlability
+* Indexability
+* Mobile Friendliness
+* Page Speed
+* HTTPS
+* Structured Data (when applicable)
+
+Technical quality supports content quality.
+
+---
+
+## Rule 7 — Humanize AI Content
+
+AI-generated drafts should always be reviewed to:
+
+* Improve readability
+* Remove repetitive patterns
+* Maintain brand voice
+* Improve natural language
+
+Humanization is part of SEO quality.
+
+---
+
+## Rule 8 — Keep Content Updated
+
+SEO is not static.
+
+Content should be reviewed and updated whenever:
+
+* Information changes
+* Industry trends evolve
+* Statistics become outdated
+* Search intent shifts
+
+Fresh, accurate content provides long-term value.
+
+---
+
+## Final Rule
+
+**Research → Understand → Create → Humanize → Optimize → Verify → Publish**
+
+AAOS should never skip any step in this process.
+
+Every SEO recommendation should prioritize usefulness, accuracy, and long-term value over short-term ranking tactics.
+
+---
+
