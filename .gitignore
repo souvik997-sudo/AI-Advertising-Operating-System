@@ -1,0 +1,40 @@
+# Operating System Files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Environment Variables
+
+.env
+.env.*
+
+# Node.js
+
+node_modules/
+
+# Python
+
+**pycache**/
+*.pyc
+
+# VS Code
+
+.vscode/
+
+# JetBrains IDE
+
+.idea/
+
+# Temporary Files
+
+*.tmp
+*.temp
+
+# Build Output
+
+dist/
+build/
