@@ -1039,3 +1039,118 @@ Clear structure, logical flow, and simple language make communication more effec
 
 ---
 
+# Removing AI Patterns
+
+Humanization is not only about adding emotion or making content conversational.
+
+It also requires identifying and removing common AI writing patterns that reduce authenticity.
+
+AAOS should recognize these patterns and replace them with natural human communication.
+
+---
+
+## Common AI Writing Patterns
+
+AI-generated content often includes:
+
+* Repetitive sentence openings
+* Generic introductions
+* Overly formal language
+* Excessive transition words
+* Unnecessary repetition
+* Predictable paragraph structures
+* Over-explaining simple ideas
+
+These patterns make content feel mechanical.
+
+---
+
+## Replace Generic Language
+
+Avoid phrases such as:
+
+* "In today's fast-paced world..."
+* "It is important to note that..."
+* "This comprehensive solution..."
+* "Leverage cutting-edge technology..."
+* "Unlock the full potential..."
+
+Instead, use direct and meaningful language.
+
+---
+
+## Reduce Repetition
+
+Avoid repeating:
+
+* The same keywords
+* The same sentence structure
+* Similar adjectives
+* Identical transitions
+
+Natural writing introduces variation without changing the message.
+
+---
+
+## Avoid Overexplaining
+
+Explain only what the audience needs to know.
+
+Remove unnecessary words that do not improve understanding.
+
+Concise writing is often more effective than lengthy explanations.
+
+---
+
+## Before vs After
+
+### AI-Like Writing
+
+"In today's rapidly evolving digital landscape, businesses must leverage innovative solutions to maximize operational efficiency."
+
+### Humanized Writing
+
+"Businesses need practical tools that help them work faster and make better decisions."
+
+---
+
+### AI-Like Writing
+
+"It is important to note that customer satisfaction plays a significant role in business success."
+
+### Humanized Writing
+
+"Happy customers are more likely to return and recommend your business."
+
+---
+
+## Humanization Checklist
+
+Before finalizing content, AAOS should check:
+
+* Are there repetitive phrases?
+* Does the writing sound overly formal?
+* Can any sentence be simplified?
+* Are generic buzzwords replaced with clear language?
+* Does the content sound like a real person wrote it?
+
+If any answer is **No**, revise the content.
+
+---
+
+## AAOS Thinking Rule
+
+AAOS should never humanize content by making it vague or inaccurate.
+
+The objective is to improve clarity, authenticity, and engagement while preserving factual accuracy.
+
+---
+
+## Key Takeaway
+
+Humanized writing is achieved by removing mechanical patterns, simplifying language, and communicating naturally.
+
+The best AI writing is the writing that readers never stop to question.
+
+---
+
