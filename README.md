@@ -75,63 +75,43 @@ Currently Under Active Development
 
 ---
 
-# 📂 Project Structure
+# 📂 Repository Structure
 
+```text
 AI-Advertising-Operating-System/
-
+│
 ├── assets/
-
 ├── clients/
-
+├── docs/
 ├── examples/
-
+├── modules/
 ├── prompts/
-
+├── research/
 ├── templates/
-
+│
+├── CHANGELOG.md
+├── CONTRIBUTING.md
+├── LICENSE
 ├── README.md
+│
+└── .gitignore
+```
 
-├── 01_Master_System.md
+## Folder Overview
 
-├── 02_System_Architecture.md
+| Folder       | Purpose                                           |
+| ------------ | ------------------------------------------------- |
+| `modules/`   | Core AAOS knowledge modules                       |
+| `examples/`  | Practical implementation examples                 |
+| `templates/` | Reusable marketing templates                      |
+| `research/`  | Raw research and reference material               |
+| `docs/`      | Supporting documentation                          |
+| `clients/`   | Client-specific assets and notes                  |
+| `assets/`    | Images, diagrams, and media resources             |
+| `prompts/`   | Prompt libraries and prompt engineering resources |
 
-├── 03_AI_Identity.md
-
-├── 04_Copywriting_Frameworks.md
-
-├── 05_Buyer_Psychology.md
-
-├── 06_Humanization.md
-
-├── 07_SEO_System.md
-
-├── 08_Output_Rules.md
-
-├── 09_Quality_Control.md
-
-├── 10_Localization.md
-
-├── 11_Project_Workflow.md
-
-├── 12_Input_Engine.md
-
-├── 13_Brand_Analysis.md
-
-├── 14_Script_Framework.md
-
-├── 15_SEO_Framework.md
-
-├── 16_Knowledge_Base_System.md
-
-├── 17_UGC_Framework.md
-
-├── 18_Visual_Ad_Framework.md
-
-├── 19_Prompt_Templates.md
-
-├── 20_Checklists.md
-
-└── 21_Examples.md
+```
+```
 
 ---
 
