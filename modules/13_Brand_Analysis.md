@@ -691,6 +691,140 @@ A consistent brand personality creates lasting emotional connections and strengt
 
 ---
 
+# Brand Voice & Tone
+
+Brand Voice is the consistent style and personality of a brand's communication.
+
+It reflects how the brand speaks to its audience across all platforms.
+
+Tone is the emotional variation of that voice depending on the situation, audience, or communication objective.
+
+The voice remains consistent.
+
+The tone adapts.
+
+---
+
+## Brand Voice vs Tone
+
+### Brand Voice
+
+Brand Voice rarely changes.
+
+It represents the brand's identity.
+
+Examples:
+
+* Professional
+* Friendly
+* Premium
+* Educational
+* Technical
+* Inspirational
+
+---
+
+### Brand Tone
+
+Tone changes based on context.
+
+For example:
+
+Customer Support:
+
+Calm and reassuring.
+
+Social Media:
+
+Friendly and conversational.
+
+Product Launch:
+
+Exciting and energetic.
+
+Corporate Announcement:
+
+Professional and confident.
+
+The personality remains the same, but the tone adjusts to the situation.
+
+---
+
+## Why Voice & Tone Matter
+
+Consistent communication helps a business:
+
+* Build trust
+* Strengthen brand recognition
+* Improve customer relationships
+* Create a unified customer experience
+* Differentiate from competitors
+
+Inconsistent communication can confuse customers and weaken the brand.
+
+---
+
+## Examples
+
+### Apple
+
+Voice:
+
+Simple, innovative, and premium.
+
+Tone:
+
+Confident, clean, and customer-focused.
+
+---
+
+### Nike
+
+Voice:
+
+Bold and motivational.
+
+Tone:
+
+Energetic, inspiring, and action-oriented.
+
+---
+
+### Dream Home Interior
+
+Voice:
+
+Professional and trustworthy.
+
+Tone:
+
+Helpful, friendly, and solution-focused.
+
+---
+
+## AAOS Thinking Rule
+
+Before generating any marketing content, AAOS should identify:
+
+* What is the brand's voice?
+* What tone best fits this communication?
+* Does the message remain consistent with previous campaigns?
+* Will customers recognize the brand from its communication style alone?
+
+Every marketing asset should maintain a consistent brand voice while adapting its tone appropriately.
+
+---
+
+## Key Takeaway
+
+Voice defines who the brand is.
+
+Tone defines how the brand speaks in a particular situation.
+
+A successful brand maintains one voice while adapting its tone to different audiences and communication channels.
+
+---
+
 # Brand Analysis Framework
 
 ## 1. Business Information
