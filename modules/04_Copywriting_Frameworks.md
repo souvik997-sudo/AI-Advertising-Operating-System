@@ -596,3 +596,357 @@ Each framework will be explained using the same structure:
 
 ---
 
+### 5.1 AIDA Framework
+
+### Definition
+
+AIDA is one of the oldest and most widely used copywriting frameworks.
+
+It guides a customer through four psychological stages before encouraging action.
+
+AIDA stands for:
+
+* Attention
+* Interest
+* Desire
+* Action
+
+AAOS uses AIDA when the goal is to move a customer from awareness to conversion through a logical and persuasive flow.
+
+---
+
+### Why AIDA Works
+
+People rarely buy immediately after seeing a product.
+
+They first need to notice it, become interested, develop a desire, and finally decide to act.
+
+AIDA mirrors this natural decision-making process, making it effective for advertisements, landing pages, email campaigns, and sales copy.
+
+---
+
+### The Four Stages
+
+#### Attention
+
+Capture attention immediately.
+
+Use:
+
+* Strong headlines
+* Surprising facts
+* Questions
+* Bold statements
+* Customer pain points
+
+Goal:
+
+Make the audience stop and pay attention.
+
+---
+
+#### Interest
+
+Keep the audience engaged.
+
+Explain:
+
+* The problem
+* The opportunity
+* The context
+
+Show why the topic is relevant to the customer.
+
+---
+
+#### Desire
+
+Transform interest into desire.
+
+Focus on:
+
+* Benefits
+* Outcomes
+* Emotional value
+* Transformation
+* Social proof
+
+Customers should imagine a better future after using the product or service.
+
+---
+
+#### Action
+
+Guide the customer toward the next step.
+
+Examples:
+
+* Call Now
+* Book Today
+* Visit Our Store
+* Get a Free Quote
+* Start Your Free Trial
+
+A CTA should be simple, clear, and easy to follow.
+
+---
+
+### Best Use Cases
+
+AIDA performs well for:
+
+* Facebook Ads
+* Google Ads
+* Landing Pages
+* Product Pages
+* Email Marketing
+* Video Advertisements
+* UGC Ads
+* Sales Presentations
+
+---
+
+### When Not to Use
+
+AIDA may not be the best choice when:
+
+* The audience already knows the product in detail.
+* Educational content is the primary goal.
+* Complex B2B buying decisions require deeper technical explanations.
+
+---
+
+### AAOS Thinking Rule
+
+Before using AIDA, identify:
+
+* What grabs attention?
+* What builds interest?
+* What creates desire?
+* What action should the customer take?
+
+Each stage should naturally lead to the next.
+
+---
+
+### Real Business Example
+
+Business:
+
+Bankura EV Care
+
+Attention:
+
+"Still spending thousands on fuel every month?"
+
+Interest:
+
+"Daily commuting doesn't have to be expensive."
+
+Desire:
+
+"Switch to an electric scooter and enjoy lower running costs, quiet rides, and easy city travel."
+
+Action:
+
+"Visit our showroom today and experience the difference."
+
+---
+
+### Prompt Template
+
+"Write a marketing message using the AIDA framework.
+
+Business:
+Target Audience:
+Pain Point:
+Benefits:
+Desired Action:
+Tone:"
+
+---
+
+### QA Checklist
+
+Before finalizing AIDA-based copy, verify:
+
+* Does the headline attract attention?
+* Is the customer's interest maintained?
+* Does the copy create genuine desire?
+* Is the CTA clear?
+* Does the message flow naturally from one stage to the next?
+
+---
+
+### Key Takeaway
+
+AIDA works because it follows the natural psychological journey from noticing a message to taking action.
+
+When applied correctly, it creates clear, persuasive, and conversion-focused marketing content.
+
+---
+
+### 5.2 PAS Framework (Problem – Agitate – Solution)
+
+### Definition
+
+PAS stands for:
+
+* Problem
+* Agitate
+* Solution
+
+It is one of the most effective copywriting frameworks for capturing attention by focusing on the customer's pain before introducing a solution.
+
+Instead of starting with the product, PAS begins with the customer's problem.
+
+AAOS uses PAS when the objective is to create urgency, emotional engagement, and action.
+
+---
+
+### Why PAS Works
+
+People naturally pay attention to problems that affect their lives.
+
+By identifying the problem, amplifying its impact, and then presenting a relevant solution, PAS creates a logical and emotionally persuasive message.
+
+---
+
+### The Three Stages
+
+#### Problem
+
+Clearly identify the customer's biggest challenge.
+
+Examples:
+
+* Rising fuel costs
+* Slow business growth
+* Poor website performance
+* Time-consuming manual work
+
+The customer should immediately recognize their own situation.
+
+---
+
+#### Agitate
+
+Explain what happens if the problem continues.
+
+Focus on:
+
+* Frustration
+* Lost opportunities
+* Stress
+* Extra costs
+* Wasted time
+
+The purpose is not to create fear unnecessarily, but to help the customer understand why the problem deserves attention.
+
+---
+
+#### Solution
+
+Present the product or service as a practical and believable solution.
+
+Explain:
+
+* How it solves the problem
+* What benefits it provides
+* Why it is different
+* What action the customer should take next
+
+---
+
+### Best Use Cases
+
+PAS works well for:
+
+* Facebook Ads
+* Instagram Ads
+* UGC Videos
+* YouTube Ads
+* Landing Pages
+* Sales Pages
+* Service Promotions
+* Local Business Campaigns
+
+---
+
+### When Not to Use
+
+PAS may not be the best choice when:
+
+* The audience is looking for educational content.
+* The campaign is focused on inspiration rather than solving a problem.
+* The message is intended only for brand awareness.
+
+---
+
+### AAOS Thinking Rule
+
+Before using PAS, identify:
+
+* What is the customer's biggest problem?
+* Why does this problem matter?
+* How does the solution improve the customer's situation?
+* What action should the customer take?
+
+The solution should directly address the problem presented at the beginning.
+
+---
+
+### Real Business Example
+
+Business:
+
+Bankura EV Care
+
+Problem:
+
+"Fuel prices keep increasing every month."
+
+Agitate:
+
+"Daily commuting is becoming more expensive, putting extra pressure on your monthly budget."
+
+Solution:
+
+"Switch to an electric scooter and enjoy lower running costs, reliable daily travel, and long-term savings. Visit Bankura EV Care to explore your options."
+
+---
+
+### Prompt Template
+
+"Write a PAS-based advertisement.
+
+Business:
+Target Audience:
+Customer Problem:
+Consequences:
+Solution:
+CTA:
+Tone:"
+
+---
+
+### QA Checklist
+
+Before publishing PAS-based copy, verify:
+
+* Is the customer's main problem clearly identified?
+* Does the agitation feel realistic and relevant?
+* Is the solution practical and believable?
+* Does the CTA encourage immediate action?
+* Does the copy remain honest and customer-focused?
+
+---
+
+### Key Takeaway
+
+PAS is effective because it begins with the customer's reality.
+
+By solving a meaningful problem, marketing becomes more relevant, persuasive, and action-oriented.
+
+---
+
