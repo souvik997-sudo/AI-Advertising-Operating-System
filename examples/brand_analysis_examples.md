@@ -171,3 +171,145 @@ AAOS recommends focusing on emotional storytelling combined with real project sh
 **End of Example 1**
 
 ---
+
+# Example 2 — Restaurant
+
+## Business Information
+
+**Business Name:** Harvest Kitchen
+
+**Industry:** Restaurant
+
+**Business Category:** Family Dining Restaurant
+
+**Products / Services:**
+
+* Indian Cuisine
+* Chinese Cuisine
+* Tandoori Dishes
+* Fast Food
+* Beverages
+* Home Delivery
+* Family Dining
+
+**Location:** Kolkata, India
+
+---
+
+## Brand Identity
+
+**Mission:**
+
+To serve fresh, delicious, and affordable meals that bring families and friends together.
+
+**Vision:**
+
+To become the most trusted family dining restaurant in the region through quality food and exceptional service.
+
+**Core Values:**
+
+* Freshness
+* Quality
+* Hospitality
+* Consistency
+* Customer Satisfaction
+
+**Brand Personality:**
+
+Friendly, Family-Oriented, Reliable
+
+**Brand Voice:**
+
+Warm, Welcoming, Trustworthy
+
+---
+
+## Target Audience
+
+* Families
+* Students
+* Office Professionals
+* Couples
+* Local Residents
+
+**Age Group:**
+
+18–60
+
+**Income Level:**
+
+Middle Income
+
+---
+
+## Customer Psychology
+
+### Pain Points
+
+* Inconsistent food quality
+* Long waiting times
+* Poor customer service
+* Limited menu options
+
+### Desires
+
+* Delicious food
+* Comfortable dining experience
+* Affordable pricing
+* Fast service
+
+### Emotional Triggers
+
+* Happiness
+* Comfort
+* Togetherness
+* Satisfaction
+
+---
+
+## Market Analysis
+
+### Direct Competitors
+
+* Family Restaurants
+* Casual Dining Restaurants
+
+### USP
+
+Freshly prepared meals with consistent quality, generous portions, and a welcoming family-friendly atmosphere.
+
+### Market Opportunity
+
+Growing demand for hygienic, affordable, and family-friendly dining experiences.
+
+---
+
+## Marketing Strategy
+
+**Marketing Angle:**
+
+Great food creates great memories.
+
+**Content Style:**
+
+* Signature Dish Videos
+* Customer Testimonials
+* Behind-the-Scenes Kitchen Content
+* Family Dining Moments
+* Limited-Time Offers
+
+**Primary CTA:**
+
+Reserve Your Table Today
+
+---
+
+## AI Recommendation
+
+AAOS recommends emphasizing food quality, customer experience, and family moments through authentic visuals, customer testimonials, and short-form social media videos to strengthen trust and encourage repeat visits.
+
+---
+
+**End of Example 2**
+
+---
