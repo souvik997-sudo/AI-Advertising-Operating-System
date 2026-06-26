@@ -738,3 +738,149 @@ AAOS recommends focusing on lifestyle marketing, influencer collaborations, seas
 
 ---
 
+# Example 6 — Digital Marketing Agency
+
+## Business Information
+
+**Business Name:** GrowthPilot Digital
+
+**Industry:** Digital Marketing
+
+**Business Category:** Full-Service Digital Marketing Agency
+
+**Products / Services:**
+
+* Social Media Marketing
+* Search Engine Optimization (SEO)
+* Google Ads
+* Meta Ads
+* Content Marketing
+* Branding
+* Website Development
+* Marketing Automation
+
+**Location:** Hyderabad, India
+
+---
+
+## Brand Identity
+
+**Mission:**
+
+To help businesses achieve sustainable growth through data-driven digital marketing strategies.
+
+**Vision:**
+
+To become a trusted digital growth partner for startups, small businesses, and growing brands.
+
+**Core Values:**
+
+* Innovation
+* Transparency
+* Performance
+* Creativity
+* Customer Success
+
+**Brand Personality:**
+
+Professional, Strategic, Innovative
+
+**Brand Voice:**
+
+Confident, Educational, Results-Oriented
+
+---
+
+## Target Audience
+
+* Small Business Owners
+* Startups
+* E-commerce Brands
+* Local Businesses
+* Entrepreneurs
+
+**Age Group:**
+
+25–50
+
+**Income Level:**
+
+Business Owners & Decision Makers
+
+---
+
+## Customer Psychology
+
+### Pain Points
+
+* Low online visibility
+* Poor lead generation
+* Ineffective advertising
+* Lack of marketing expertise
+* Limited business growth
+
+### Desires
+
+* More qualified leads
+* Higher sales
+* Strong online presence
+* Better ROI
+* Business growth
+
+### Emotional Triggers
+
+* Confidence
+* Success
+* Trust
+* Growth
+
+---
+
+## Market Analysis
+
+### Direct Competitors
+
+* Digital Marketing Agencies
+* Freelance Marketing Consultants
+
+### USP
+
+Customized, data-driven marketing strategies focused on measurable business growth.
+
+### Market Opportunity
+
+Increasing demand for digital transformation and performance marketing among small and medium-sized businesses.
+
+---
+
+## Marketing Strategy
+
+**Marketing Angle:**
+
+Grow smarter with marketing that delivers measurable results.
+
+**Content Style:**
+
+* Client Success Stories
+* Case Studies
+* Marketing Tips
+* Educational Videos
+* Campaign Performance Breakdowns
+* Industry Insights
+
+**Primary CTA:**
+
+Book a Free Strategy Consultation
+
+---
+
+## AI Recommendation
+
+AAOS recommends building authority through educational content, real client case studies, performance reports, and actionable marketing insights to establish credibility and generate high-quality leads.
+
+---
+
+**End of Example 6**
+
+---
+
