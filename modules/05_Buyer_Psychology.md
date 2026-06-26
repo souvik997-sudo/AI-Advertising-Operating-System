@@ -1265,19 +1265,13 @@ Instead of describing features, explain how the customer's life improves after u
 
 ---
 
-### Rule 8 – End with a Clear Call to Action
+Rule 8 – Select the Appropriate Call to Action
 
-Every marketing asset should guide the customer toward a specific next step.
+The recommended call-to-action should match the customer's awareness level, buying motivation, and stage in the decision-making process.
 
-Examples:
+AAOS should determine the appropriate CTA based on buyer psychology.
 
-* Call now
-* Book today
-* Visit our showroom
-* Schedule a consultation
-* Order online
-
-The CTA should be clear, relevant, and easy to follow.
+The structure, wording, and formatting of the CTA are covered in the Output Rules and Copywriting Framework modules.
 
 ---
 
@@ -1290,7 +1284,7 @@ Before generating the final output, verify:
 * Does it build trust?
 * Does it answer likely objections?
 * Does it communicate value?
-* Does it include a clear CTA?
+* Has the appropriate CTA been selected based on customer psychology?
 * Does it sound natural and human?
 
 If any answer is "No", revise the content before presenting it.
@@ -1517,17 +1511,17 @@ This checklist ensures that the message is customer-focused, persuasive, and ali
 
 ## Call to Action
 
-* Is there a clear CTA?
-* Is the next step simple and easy to understand?
+• Has the appropriate CTA been selected?
+• Does the CTA match the customer's awareness level?
+• Is the next step simple and easy to understand?
 
 ---
 
-## Language Quality
+Language Alignment
 
-* Is the language natural?
-* Does it sound human instead of robotic?
-* Is the tone suitable for the target audience?
-* Is the grammar correct?
+• Does the communication align with the customer's psychology?
+• Is the tone appropriate for the customer's awareness level?
+• Is the message emotionally consistent?
 
 ---
 
@@ -1662,6 +1656,18 @@ This module directly supports:
 * Quality Control
 
 Buyer Psychology should always be applied before content generation begins.
+
+## Scope Note
+
+This module focuses on customer decision-making psychology.
+
+Brand strategy is covered in the Brand Analysis module.
+
+Messaging frameworks are covered in the Copywriting Framework module.
+
+Writing style and natural language optimization are covered in the Humanization module.
+
+SEO implementation is covered in the SEO System module.
 
 ---
 
