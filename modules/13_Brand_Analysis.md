@@ -431,6 +431,86 @@ A strong position makes marketing clearer, more consistent, and more memorable.
 
 ---
 
+# Unique Selling Proposition (USP)
+
+A Unique Selling Proposition (USP) is the distinct value that makes a brand different from its competitors.
+
+It explains why customers should choose one business over another when similar products or services are available.
+
+A strong USP is clear, relevant, and difficult for competitors to replicate.
+
+---
+
+## Why USP Matters
+
+A well-defined USP helps a business:
+
+* Stand out in a competitive market
+* Build customer preference
+* Increase brand recall
+* Communicate value clearly
+* Strengthen marketing campaigns
+
+Without a clear USP, marketing messages often become generic and fail to create a lasting impression.
+
+---
+
+## Characteristics of a Strong USP
+
+A good USP should be:
+
+* Unique
+* Customer-focused
+* Easy to understand
+* Relevant to customer needs
+* Consistent with the brand identity
+* Supported by real value
+
+Avoid making claims that cannot be verified.
+
+---
+
+## USP Examples
+
+### Domino's Pizza
+
+Fast and reliable pizza delivery.
+
+### Volvo
+
+Safety-focused automobiles.
+
+### Apple
+
+Premium technology with a seamless user experience.
+
+### Dream Home Interior
+
+Customized interior solutions designed around each client's lifestyle and space requirements.
+
+---
+
+## AAOS Thinking Rule
+
+Before generating any marketing asset, AAOS should identify:
+
+* What makes this business different?
+* Which customer problem does it solve better than competitors?
+* Why should customers trust this brand?
+* Can the USP be communicated in one clear sentence?
+
+The USP should remain consistent across all marketing channels.
+
+---
+
+## Key Takeaway
+
+A USP is not simply a product feature.
+
+It is the unique value that gives customers a compelling reason to choose one brand over another.
+
+---
+
 # Brand Analysis Framework
 
 ## 1. Business Information
