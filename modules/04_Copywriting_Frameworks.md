@@ -1851,3 +1851,169 @@ Its purpose is to earn the customer's attention so the rest of the message gets 
 
 ---
 
+## 7. Hook Writing
+
+### Overview
+
+A hook is the opening line of a marketing message.
+
+Its purpose is to immediately capture attention and encourage the audience to continue reading or watching.
+
+Without a strong hook, even excellent marketing content may fail to engage the audience.
+
+AAOS should always generate the hook before writing the rest of the copy.
+
+---
+
+### Why Hooks Matter
+
+People are exposed to thousands of advertisements every day.
+
+A hook determines whether the audience:
+
+* Stops scrolling
+* Pays attention
+* Becomes curious
+* Continues reading
+* Watches the full video
+
+The first few seconds are often the most important part of the entire message.
+
+---
+
+### Types of Hooks
+
+#### Problem Hook
+
+Start with a problem the audience recognizes.
+
+Example:
+
+"Still spending too much on fuel every month?"
+
+---
+
+#### Question Hook
+
+Ask a question that makes the audience think.
+
+Example:
+
+"Is your business wasting hours on repetitive work?"
+
+---
+
+#### Benefit Hook
+
+Lead with the biggest customer benefit.
+
+Example:
+
+"Save up to ₹3,000 every month on daily commuting."
+
+---
+
+#### Curiosity Hook
+
+Create curiosity without misleading the audience.
+
+Example:
+
+"The biggest mistake most homeowners make before renovating their kitchen."
+
+---
+
+#### Statistic Hook
+
+Use a relevant and verifiable fact.
+
+Example:
+
+"Many businesses lose valuable time every week because of manual workflows."
+
+Only use accurate information.
+
+---
+
+#### Story Hook
+
+Begin with a short relatable situation.
+
+Example:
+
+"Last year, one small business owner struggled to keep up with repetitive tasks..."
+
+---
+
+#### Contrast Hook
+
+Compare two situations.
+
+Example:
+
+"One decision can reduce your monthly fuel costs. Another can keep increasing them."
+
+---
+
+### AAOS Thinking Rule
+
+Before writing a hook, identify:
+
+* What immediately matters to the customer?
+* Which emotion should be triggered?
+* Does the hook encourage curiosity?
+* Is it relevant to the target audience?
+
+The hook should naturally lead into the rest of the message.
+
+---
+
+### Real Business Example
+
+Business:
+
+Dream Home Interior
+
+Weak Hook:
+
+"We design modular kitchens."
+
+Strong Hook:
+
+"Still struggling with a kitchen that feels crowded and difficult to organize?"
+
+---
+
+### Prompt Template
+
+"Generate 10 marketing hooks.
+
+Business:
+Target Audience:
+Pain Point:
+Main Benefit:
+Emotion:
+Tone:"
+
+---
+
+### QA Checklist
+
+Before publishing a hook, verify:
+
+* Does it capture attention within a few seconds?
+* Is it relevant to the audience?
+* Does it encourage curiosity?
+* Is it honest and believable?
+* Does it naturally connect to the next section?
+
+---
+
+### Key Takeaway
+
+A hook earns attention.
+
+Without attention, even the best marketing message will never be read.
+
+---
+
