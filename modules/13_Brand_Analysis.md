@@ -60,6 +60,91 @@ Marketing content should never be generated before the business has been properl
 
 ---
 
+# What Is a Brand?
+
+A brand is the overall perception that people have about a business, product, or service.
+
+It is not limited to a logo, company name, or visual identity.
+
+A brand is built through customer experiences, product quality, communication, trust, values, and reputation.
+
+Every interaction with a customer contributes to the brand.
+
+---
+
+## Brand Is Not Just a Logo
+
+Many businesses believe that branding starts and ends with a logo.
+
+In reality, a logo is only one visual element of a brand.
+
+A strong brand is defined by what customers think and feel when they hear the business name.
+
+---
+
+## Brand Is Not Just a Product
+
+Products can often be copied.
+
+A strong brand cannot.
+
+Competitors may sell similar products, but customers choose brands because of trust, reputation, emotional connection, and perceived value.
+
+---
+
+## Brand Perception
+
+Brand perception is how customers view a business based on their experiences and expectations.
+
+Positive brand perception leads to:
+
+* Higher trust
+* Better customer loyalty
+* Stronger word-of-mouth marketing
+* Increased perceived value
+* Higher conversion rates
+
+Negative experiences weaken the brand, regardless of product quality.
+
+---
+
+## Examples
+
+### Apple
+
+Customers associate the brand with innovation, premium quality, and simplicity.
+
+### Nike
+
+Customers associate the brand with performance, motivation, and athletic excellence.
+
+### Local Interior Business
+
+Customers may associate the brand with quality workmanship, reliability, and personalized service.
+
+---
+
+## AAOS Thinking Rule
+
+Before creating any marketing content, AAOS should identify:
+
+* What do customers currently think about the brand?
+* What should customers think about the brand?
+* What emotions should the brand create?
+* What values should the brand consistently communicate?
+
+Marketing should strengthen the desired brand perception, not contradict it.
+
+---
+
+## Key Takeaway
+
+A product is what a business sells.
+
+A brand is what customers remember.
+
+---
+
 # Purpose
 
 This module teaches the AI how to analyze a business before writing any marketing content.
