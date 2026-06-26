@@ -456,3 +456,144 @@ AAOS recommends focusing on lifestyle-based marketing, showcasing real customer 
 
 ---
 
+# Example 4 — EV Showroom
+
+## Business Information
+
+**Business Name:** EcoDrive Mobility
+
+**Industry:** Electric Vehicles
+
+**Business Category:** EV Showroom & Mobility Solutions
+
+**Products / Services:**
+
+* Electric Scooters
+* Electric Motorcycles
+* EV Accessories
+* Battery Services
+* Vehicle Financing Assistance
+* After-Sales Support
+
+**Location:** Pune, India
+
+---
+
+## Brand Identity
+
+**Mission:**
+
+To make sustainable transportation affordable, accessible, and reliable for everyone.
+
+**Vision:**
+
+To become a leading electric mobility brand by promoting clean, efficient, and eco-friendly transportation.
+
+**Core Values:**
+
+* Sustainability
+* Innovation
+* Reliability
+* Customer Satisfaction
+* Transparency
+
+**Brand Personality:**
+
+Innovative, Reliable, Eco-Friendly
+
+**Brand Voice:**
+
+Professional, Inspiring, Educational
+
+---
+
+## Target Audience
+
+* Daily Commuters
+* College Students
+* Working Professionals
+* Delivery Partners
+* Environmentally Conscious Customers
+
+**Age Group:**
+
+18–50
+
+**Income Level:**
+
+Middle Income
+
+---
+
+## Customer Psychology
+
+### Pain Points
+
+* Rising fuel costs
+* High vehicle maintenance
+* Environmental concerns
+* Limited knowledge about EV technology
+
+### Desires
+
+* Lower running costs
+* Eco-friendly transportation
+* Reliable daily commuting
+* Government incentives
+
+### Emotional Triggers
+
+* Savings
+* Responsibility
+* Innovation
+* Freedom
+
+---
+
+## Market Analysis
+
+### Direct Competitors
+
+* Local EV Dealerships
+* National EV Brands
+
+### USP
+
+Affordable electric mobility solutions with dependable after-sales service and expert customer guidance.
+
+### Market Opportunity
+
+Growing EV adoption supported by rising fuel prices and increasing environmental awareness.
+
+---
+
+## Marketing Strategy
+
+**Marketing Angle:**
+
+Drive the future with clean, smart, and affordable mobility.
+
+**Content Style:**
+
+* EV Comparison Videos
+* Cost Savings Calculators
+* Customer Success Stories
+* Test Ride Highlights
+* EV Education Content
+
+**Primary CTA:**
+
+Book Your Free Test Ride
+
+---
+
+## AI Recommendation
+
+AAOS recommends educating customers about long-term savings, environmental benefits, and everyday practicality while using testimonials, comparison content, and real ownership experiences to build trust.
+
+---
+
+**End of Example 4**
+
+---
+
