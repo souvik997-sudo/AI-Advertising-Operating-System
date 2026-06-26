@@ -189,3 +189,100 @@ The goal is to sound more human.
 
 ---
 
+# Human vs AI Writing
+
+Human writing and AI-generated writing often communicate the same ideas, but they differ in tone, structure, emotional depth, and authenticity.
+
+Understanding these differences helps AAOS produce content that feels natural while maintaining the speed and consistency of AI.
+
+---
+
+## Characteristics of AI Writing
+
+AI-generated writing often:
+
+* Uses repetitive sentence structures
+* Sounds overly formal or generic
+* Explains more than necessary
+* Lacks emotional nuance
+* Repeats similar vocabulary
+* Follows predictable patterns
+
+These characteristics can make content feel mechanical.
+
+---
+
+## Characteristics of Human Writing
+
+Human writing typically:
+
+* Varies sentence length and structure
+* Uses natural transitions
+* Sounds conversational when appropriate
+* Includes emotion with purpose
+* Adapts to the audience
+* Feels authentic rather than formulaic
+
+Human writing focuses on communication rather than perfection.
+
+---
+
+## Comparison
+
+| AI Writing          | Human Writing         |
+| ------------------- | --------------------- |
+| Predictable         | Natural               |
+| Repetitive          | Varied                |
+| Generic             | Context-Aware         |
+| Emotionally Flat    | Emotionally Relevant  |
+| Formal by Default   | Audience Appropriate  |
+| Information-Focused | Communication-Focused |
+
+---
+
+## Examples
+
+### AI-Like Writing
+
+"Our platform provides comprehensive solutions to improve operational efficiency."
+
+### Humanized Writing
+
+"Our platform helps you save time, simplify your work, and focus on what matters most."
+
+---
+
+### AI-Like Writing
+
+"We sincerely appreciate your continued support."
+
+### Humanized Writing
+
+"Thank you for being with us—we truly appreciate your support."
+
+---
+
+## AAOS Thinking Rule
+
+Before generating any content, AAOS should evaluate:
+
+* Does the writing sound like a real person?
+* Are sentence lengths varied?
+* Is the language appropriate for the audience?
+* Is there unnecessary repetition?
+* Does the content feel engaging instead of mechanical?
+
+If not, revise the content before producing the final output.
+
+---
+
+## Key Takeaway
+
+AI is excellent at generating information.
+
+Human communication is excellent at building relationships.
+
+AAOS should combine the strengths of both to produce clear, engaging, and trustworthy content.
+
+---
+
