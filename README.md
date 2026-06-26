@@ -133,6 +133,46 @@ AI-Advertising-Operating-System/
 
 ---
 
+---
+
+# 🚀 Installation
+
+## Prerequisites
+
+Before using AAOS, you should have:
+
+* Git
+* GitHub Account
+* Visual Studio Code
+* Basic Markdown Knowledge
+
+---
+
+## Clone the Repository
+
+```bash
+git clone https://github.com/souvik997-sudo/AI-Advertising-Operating-System.git
+```
+
+---
+
+## Open the Project
+
+```bash
+cd AI-Advertising-Operating-System
+code .
+```
+
+---
+
+## Explore the Repository
+
+Start your learning journey from the `modules/` directory.
+
+It is recommended to study the modules in numerical order, as each module builds upon the concepts introduced in the previous ones.
+
+---
+
 # 🔄 Development Workflow
 
 Business Research
