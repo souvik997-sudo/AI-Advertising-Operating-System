@@ -641,3 +641,219 @@ Successful SEO begins by understanding intent and creating content that fully sa
 
 ---
 
+# Keyword Research
+
+Keyword Research is the process of identifying the words and phrases that people use when searching for information, products, or services online.
+
+The goal is not to find the highest-volume keywords.
+
+The goal is to understand what users are searching for and create content that satisfies their intent.
+
+AAOS should use keyword research to guide content planning, not to force keywords into content.
+
+---
+
+## Why Keyword Research Matters
+
+Effective keyword research helps to:
+
+* Understand customer language
+* Discover user needs
+* Identify content opportunities
+* Improve search visibility
+* Attract qualified visitors
+* Build topical authority
+
+Keyword research should always begin with user intent.
+
+---
+
+## Primary Keyword
+
+The primary keyword represents the main topic of a page.
+
+Each page should focus on one primary keyword.
+
+Example:
+
+Primary Keyword:
+
+**Digital Marketing Strategy**
+
+---
+
+## Secondary Keywords
+
+Secondary keywords support the primary topic.
+
+They help search engines understand the content more completely.
+
+Example:
+
+* Online Marketing
+* Marketing Plan
+* Digital Advertising
+* Marketing Funnel
+
+---
+
+## Short-Tail vs Long-Tail Keywords
+
+### Short-Tail Keywords
+
+* Broad
+* High search volume
+* High competition
+
+Example:
+
+**SEO**
+
+---
+
+### Long-Tail Keywords
+
+* More specific
+* Lower competition
+* Higher conversion potential
+
+Example:
+
+**Best SEO strategy for small businesses**
+
+Long-tail keywords often provide better opportunities for new websites.
+
+---
+
+## Search Volume
+
+Search volume estimates how many times a keyword is searched during a specific period.
+
+Higher search volume does not always mean a better keyword.
+
+A keyword should be selected based on relevance, intent, and business goals.
+
+---
+
+## Keyword Difficulty
+
+Keyword Difficulty estimates how competitive it may be to rank for a keyword.
+
+High-difficulty keywords usually require:
+
+* Strong authority
+* High-quality content
+* Quality backlinks
+* Time
+
+New websites should balance competitive and low-competition keywords.
+
+---
+
+## Semantic Keywords
+
+Semantic keywords are words and phrases that are closely related to the main topic.
+
+They help search engines understand context.
+
+Example:
+
+Primary Keyword:
+
+**SEO**
+
+Semantic Keywords:
+
+* Search Engine
+* Ranking
+* Crawling
+* Indexing
+* Organic Traffic
+* SERP
+
+Semantic relevance is more valuable than repeating the same keyword.
+
+---
+
+## Topic Clusters
+
+Instead of creating isolated articles, organize content into related topic clusters.
+
+Example:
+
+Main Topic:
+
+**SEO**
+
+Supporting Topics:
+
+* Keyword Research
+* Technical SEO
+* On-Page SEO
+* Local SEO
+* Content SEO
+
+This structure strengthens topical authority.
+
+---
+
+## Entity-Based SEO
+
+Modern search engines understand entities, not just keywords.
+
+An entity is a clearly identifiable person, place, organization, concept, or product.
+
+Instead of repeating keywords, explain the topic using related entities and concepts.
+
+This improves contextual understanding.
+
+---
+
+## Best Practices
+
+AAOS should:
+
+* Start with search intent.
+* Select one primary keyword.
+* Use relevant secondary keywords.
+* Include semantic terms naturally.
+* Build topic clusters.
+* Avoid keyword stuffing.
+* Write for users first.
+
+---
+
+## Common Mistakes
+
+Avoid:
+
+* Keyword stuffing
+* Targeting too many primary keywords
+* Ignoring search intent
+* Choosing keywords based only on search volume
+* Repeating identical phrases unnaturally
+
+---
+
+## AAOS Thinking Rule
+
+Before creating SEO content, AAOS should verify:
+
+* What is the primary keyword?
+* What intent does it represent?
+* Which semantic keywords support the topic?
+* Is the content comprehensive?
+* Does the writing remain natural?
+
+Keywords should support communication, never dominate it.
+
+---
+
+## Key Takeaway
+
+Keyword research is about understanding people, not collecting words.
+
+The strongest SEO content satisfies user intent while naturally covering the topic with relevant keywords, entities, and supporting concepts.
+
+---
+
