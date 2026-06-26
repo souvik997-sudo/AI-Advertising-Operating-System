@@ -1668,3 +1668,186 @@ It builds relationships first and encourages action second.
 
 ---
 
+## 6. Headline Frameworks
+
+### Overview
+
+A headline is the first and often the most important element of any marketing message.
+
+Its primary purpose is to capture attention and encourage the audience to continue reading, watching, or clicking.
+
+Even the best marketing copy will fail if the headline does not attract attention.
+
+AAOS should always prioritize headline quality before developing the rest of the content.
+
+---
+
+### Characteristics of an Effective Headline
+
+A strong headline should be:
+
+* Clear
+* Relevant
+* Specific
+* Customer-focused
+* Benefit-oriented
+* Easy to understand
+
+Avoid vague or misleading headlines.
+
+---
+
+### Headline Formula 1 – Benefit Headline
+
+Focus on the primary benefit.
+
+Example:
+
+"Reduce Your Monthly Fuel Expenses with an Electric Scooter"
+
+---
+
+### Headline Formula 2 – Problem-Solution Headline
+
+Highlight a problem and introduce the solution.
+
+Example:
+
+"Tired of Rising Fuel Costs? Switch to Electric Today."
+
+---
+
+### Headline Formula 3 – Question Headline
+
+Use a question that relates to the customer's situation.
+
+Example:
+
+"Still Spending Too Much on Daily Travel?"
+
+---
+
+### Headline Formula 4 – Number Headline
+
+Numbers make headlines more specific.
+
+Examples:
+
+* 5 Ways to Save Money
+* 7 Interior Design Ideas
+* 10 AI Automation Tips
+
+---
+
+### Headline Formula 5 – How-To Headline
+
+Educational and highly effective.
+
+Examples:
+
+* How to Reduce Electricity Bills
+* How to Improve Local SEO
+* How to Create Better Facebook Ads
+
+---
+
+### Headline Formula 6 – Curiosity Headline
+
+Create interest without misleading the audience.
+
+Example:
+
+"The Simple Change That Reduced Daily Travel Costs"
+
+---
+
+### Headline Formula 7 – Offer Headline
+
+Focus on promotions or incentives.
+
+Examples:
+
+* Free Design Consultation
+* Limited-Time Discount
+* Book Today and Save
+
+Only use genuine offers.
+
+---
+
+### Headline Formula 8 – Authority Headline
+
+Build credibility.
+
+Examples:
+
+* Trusted by Thousands
+* Recommended by Professionals
+* Industry-Tested Solutions
+
+Claims should always be truthful and verifiable.
+
+---
+
+### AAOS Thinking Rule
+
+Before approving a headline, verify:
+
+* Does it immediately attract attention?
+* Is the customer benefit obvious?
+* Is it clear and easy to understand?
+* Is it truthful?
+* Does it encourage the next action?
+
+---
+
+### Real Business Example
+
+Business:
+
+Dream Home Interior
+
+Weak Headline:
+
+"We Build Modular Kitchens"
+
+Improved Headline:
+
+"Transform Your Kitchen into a Modern, Space-Saving Living Experience"
+
+---
+
+### Prompt Template
+
+"Generate 10 marketing headlines.
+
+Business:
+Target Audience:
+Main Benefit:
+Pain Point:
+Offer:
+Tone:"
+
+---
+
+### QA Checklist
+
+Before publishing a headline, verify:
+
+* Is it attention-grabbing?
+* Is it customer-focused?
+* Is it specific?
+* Is it benefit-oriented?
+* Is it concise?
+* Is it free from exaggerated claims?
+
+---
+
+### Key Takeaway
+
+The purpose of a headline is not to sell the product.
+
+Its purpose is to earn the customer's attention so the rest of the message gets read.
+
+---
+
