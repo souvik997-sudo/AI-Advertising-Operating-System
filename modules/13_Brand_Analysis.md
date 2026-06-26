@@ -934,6 +934,132 @@ It is about understanding the market well enough to build a stronger and more di
 
 ---
 
+# SWOT Analysis
+
+SWOT Analysis is a strategic framework used to evaluate a business by identifying its internal strengths and weaknesses, as well as external opportunities and threats.
+
+It helps businesses make informed marketing and business decisions based on their current situation.
+
+AAOS uses SWOT Analysis to understand a brand before recommending marketing strategies.
+
+---
+
+## What Does SWOT Stand For?
+
+### Strengths
+
+Internal advantages that give the business a competitive edge.
+
+Examples:
+
+* Strong brand reputation
+* Experienced team
+* High-quality products
+* Loyal customers
+* Excellent customer service
+
+---
+
+### Weaknesses
+
+Internal limitations that may reduce business performance.
+
+Examples:
+
+* Limited marketing budget
+* Weak online presence
+* Low brand awareness
+* Small product range
+* Lack of customer reviews
+
+---
+
+### Opportunities
+
+External factors that can help the business grow.
+
+Examples:
+
+* Growing market demand
+* New technology
+* Expansion into new locations
+* Increasing online customers
+* Emerging marketing channels
+
+---
+
+### Threats
+
+External risks that may negatively affect the business.
+
+Examples:
+
+* Strong competitors
+* Economic slowdown
+* Changing customer preferences
+* Rising operational costs
+* Government regulations
+
+---
+
+## SWOT Matrix
+
+| Internal Factors | External Factors |
+| ---------------- | ---------------- |
+| Strengths        | Opportunities    |
+| Weaknesses       | Threats          |
+
+The objective is to use strengths to take advantage of opportunities while reducing weaknesses and preparing for threats.
+
+---
+
+## Real Business Example
+
+Business:
+
+Dream Home Interior
+
+Strengths:
+
+* Customized designs
+* Experienced designers
+* Premium quality materials
+
+Weaknesses:
+
+* Limited brand awareness
+
+Opportunities:
+
+* Growing demand for modular interiors
+
+Threats:
+
+* Increasing competition from national brands
+
+---
+
+## AAOS Thinking Rule
+
+Before creating any marketing strategy, AAOS should identify:
+
+* What strengths should be highlighted?
+* Which weaknesses need improvement?
+* Which opportunities should be leveraged?
+* Which threats require strategic planning?
+
+Marketing recommendations should be based on the complete SWOT analysis rather than assumptions.
+
+---
+
+## Key Takeaway
+
+SWOT Analysis provides a structured understanding of a business.
+
+It enables AAOS to create more strategic, realistic, and effective marketing recommendations.
+
+---
+
 # Brand Analysis Framework
 
 ## 1. Business Information
