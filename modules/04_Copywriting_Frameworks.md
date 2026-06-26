@@ -3217,3 +3217,141 @@ It is finished when every important quality check has been successfully complete
 
 ---
 
+## 15. Module Summary
+
+### Overview
+
+Copywriting is the communication layer of the AI Advertising Operating System (AAOS).
+
+While Buyer Psychology explains why customers make decisions, Copywriting transforms those insights into persuasive messages that encourage action.
+
+This module provides the frameworks, principles, and AI rules required to create consistent, customer-focused marketing content.
+
+---
+
+## Core Learnings
+
+Throughout this module, the following concepts have been established:
+
+* Copywriting supports marketing strategy.
+* Customer understanding comes before writing.
+* Headlines determine whether the message gets attention.
+* Hooks keep the audience engaged.
+* Offers increase perceived value.
+* CTAs guide customers toward action.
+* Storytelling builds emotional connection.
+* Different copywriting frameworks serve different objectives.
+
+---
+
+## Framework Summary
+
+AAOS includes the following copywriting frameworks:
+
+* AIDA – Awareness to Action
+* PAS – Problem, Agitate, Solution
+* BAB – Before, After, Bridge
+* FAB – Features, Advantages, Benefits
+* 4U – Useful, Urgent, Unique, Ultra-Specific
+* QUEST – Qualify, Understand, Educate, Stimulate, Transition
+
+Each framework should be selected based on the business objective, customer intent, and marketing channel.
+
+---
+
+## AAOS Workflow
+
+Business Understanding
+
+↓
+
+Brand Analysis
+
+↓
+
+Buyer Psychology
+
+↓
+
+Customer Intent
+
+↓
+
+Framework Selection
+
+↓
+
+Headline
+
+↓
+
+Hook
+
+↓
+
+Offer
+
+↓
+
+CTA
+
+↓
+
+Quality Assurance
+
+↓
+
+Final Marketing Asset
+
+---
+
+## Module Outputs
+
+After applying this module, AAOS should be able to:
+
+* Select the appropriate copywriting framework.
+* Write persuasive headlines.
+* Create engaging hooks.
+* Build compelling offers.
+* Write effective calls to action.
+* Adapt copy for different marketing channels.
+* Produce consistent and customer-focused marketing content.
+
+---
+
+## Integration With Other Modules
+
+This module directly supports:
+
+* Buyer Psychology
+* Brand Analysis
+* SEO Framework
+* Script Framework
+* UGC Framework
+* Prompt Templates
+* Quality Control
+
+Copywriting should always be informed by customer research and business strategy.
+
+---
+
+## Final Thought
+
+Copywriting is not about writing more.
+
+It is about communicating the right message to the right audience at the right time.
+
+When strategy, psychology, and communication work together, marketing becomes significantly more effective.
+
+---
+
+## End of Module
+
+Copywriting Frameworks Module Completed.
+
+Next Recommended Module:
+
+13_Brand_Analysis.md
+
+---
+
