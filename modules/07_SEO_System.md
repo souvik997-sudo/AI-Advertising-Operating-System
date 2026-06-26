@@ -325,3 +325,142 @@ Understanding how search engines discover, organize, and rank content is the fou
 
 ---
 
+# How Search Engines Work
+
+Search engines continuously discover, analyze, organize, and rank billions of web pages to provide the most relevant results for users.
+
+Although search engine algorithms are highly complex, the overall process can be understood through three primary stages:
+
+1. Crawling
+2. Indexing
+3. Ranking
+
+These stages work together to determine whether a page appears in search results.
+
+---
+
+## Stage 1 — Crawling
+
+Crawling is the process of discovering web pages.
+
+Search engines use automated programs called **crawlers**, **bots**, or **spiders** to explore the internet.
+
+These bots:
+
+* Follow internal links
+* Follow external links
+* Discover new pages
+* Revisit existing pages
+* Detect updated content
+
+If a page cannot be crawled, it cannot move to the next stage.
+
+---
+
+## Stage 2 — Indexing
+
+After a page is crawled, the search engine analyzes its content.
+
+The search engine attempts to understand:
+
+* Page topic
+* Keywords
+* Content quality
+* Images
+* Videos
+* Internal links
+* Structured data
+* Overall relevance
+
+If the page meets quality requirements, it is added to the search engine's index.
+
+Being indexed means the page becomes eligible to appear in search results.
+
+---
+
+## Stage 3 — Ranking
+
+When a user performs a search, the search engine compares indexed pages to determine which ones best satisfy the query.
+
+Ranking considers many factors, including:
+
+* Search intent
+* Content quality
+* Relevance
+* Authority
+* User experience
+* Page speed
+* Mobile usability
+* Freshness
+* Trustworthiness
+
+The search engine then displays the most relevant pages on the Search Engine Results Page (SERP).
+
+---
+
+## Search Algorithms
+
+Search engines use sophisticated algorithms to evaluate web pages.
+
+These algorithms analyze hundreds of signals to determine which content is most useful for a particular search query.
+
+The exact algorithms change regularly to improve search quality and reduce low-value or spam content.
+
+---
+
+## Before a Page Can Rank
+
+For a page to appear in search results, the following sequence must occur:
+
+Page Published
+
+↓
+
+Page Crawled
+
+↓
+
+Page Indexed
+
+↓
+
+Content Evaluated
+
+↓
+
+Search Intent Matched
+
+↓
+
+Ranking Calculated
+
+↓
+
+Displayed on SERP
+
+If any step fails, the page may not appear in search results.
+
+---
+
+## AAOS Thinking Rule
+
+Before optimizing content, AAOS should verify:
+
+* Can search engines crawl the page?
+* Can the page be indexed?
+* Does the content satisfy user intent?
+* Is the information accurate and valuable?
+* Does the page provide a positive user experience?
+
+SEO begins long before rankings—it begins with accessibility and quality.
+
+---
+
+## Key Takeaway
+
+Search engines do not rank pages immediately after they are published.
+
+Pages must first be discovered, understood, indexed, and evaluated before they can compete for visibility in search results.
+
+---
+
