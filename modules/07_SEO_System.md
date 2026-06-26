@@ -1052,3 +1052,218 @@ Strong On-Page SEO supports long-term organic growth by combining relevance, usa
 
 ---
 
+# Technical SEO
+
+Technical SEO focuses on optimizing the technical foundation of a website so that search engines can efficiently crawl, index, and understand its content.
+
+Unlike On-Page SEO, which improves individual pages, Technical SEO improves the overall health and accessibility of the website.
+
+A technically sound website creates a better experience for both users and search engines.
+
+---
+
+## Why Technical SEO Matters
+
+Technical SEO helps to:
+
+* Improve crawlability
+* Improve indexability
+* Increase website performance
+* Enhance user experience
+* Support higher search visibility
+* Reduce technical errors
+
+Without a strong technical foundation, even excellent content may struggle to rank.
+
+---
+
+## Website Architecture
+
+Website architecture refers to how pages are organized and connected.
+
+A good architecture should:
+
+* Be simple and logical
+* Use clear navigation
+* Group related content together
+* Support internal linking
+* Help users find information easily
+
+Well-structured websites are easier for search engines to crawl.
+
+---
+
+## Crawlability
+
+Crawlability determines whether search engine bots can access and explore website pages.
+
+Common factors affecting crawlability include:
+
+* Internal linking
+* Robots.txt configuration
+* Broken links
+* Server errors
+* Navigation structure
+
+Pages that cannot be crawled cannot be indexed.
+
+---
+
+## Indexability
+
+Indexability determines whether crawled pages are eligible to appear in search results.
+
+Factors influencing indexability include:
+
+* Meta robots directives
+* Canonical tags
+* Duplicate content
+* Content quality
+* Noindex settings
+
+Not every crawled page is automatically indexed.
+
+---
+
+## XML Sitemap
+
+An XML sitemap lists important pages on a website.
+
+It helps search engines discover:
+
+* New pages
+* Updated pages
+* Website structure
+
+A sitemap supports efficient crawling but does not guarantee indexing.
+
+---
+
+## Robots.txt
+
+The robots.txt file provides instructions to search engine crawlers about which parts of a website should or should not be crawled.
+
+It should be configured carefully to avoid blocking important pages.
+
+---
+
+## Canonical Tags
+
+Canonical tags help identify the preferred version of similar or duplicate pages.
+
+They reduce duplicate content issues and consolidate ranking signals.
+
+---
+
+## Page Speed
+
+Fast-loading pages improve both user experience and search performance.
+
+Page speed can be improved by:
+
+* Compressing images
+* Reducing unnecessary scripts
+* Optimizing CSS and JavaScript
+* Using browser caching
+* Minimizing server response time
+
+---
+
+## Core Web Vitals
+
+Core Web Vitals measure real-world user experience.
+
+Key metrics include:
+
+* Largest Contentful Paint (LCP)
+* Interaction to Next Paint (INP)
+* Cumulative Layout Shift (CLS)
+
+Strong Core Web Vitals contribute to a better browsing experience.
+
+---
+
+## Mobile Friendliness
+
+Most searches now occur on mobile devices.
+
+AAOS should ensure that content is:
+
+* Responsive
+* Easy to read
+* Easy to navigate
+* Optimized for touch interactions
+
+Mobile usability is essential for modern SEO.
+
+---
+
+## HTTPS Security
+
+Secure websites use HTTPS to encrypt data between users and servers.
+
+HTTPS:
+
+* Protects user information
+* Builds trust
+* Supports modern web standards
+
+Every public website should use HTTPS.
+
+---
+
+## Structured Data
+
+Structured data helps search engines better understand page content.
+
+It can support enhanced search features such as:
+
+* Rich Results
+* FAQ Results
+* Product Information
+* Review Snippets
+* Organization Details
+
+Structured data improves content understanding but does not guarantee enhanced search listings.
+
+---
+
+## Common Technical Issues
+
+Watch for:
+
+* Broken links
+* Duplicate content
+* Slow page speed
+* Missing XML sitemap
+* Incorrect robots.txt rules
+* Poor mobile usability
+* Redirect chains
+* Server errors
+
+Regular technical audits help identify and resolve these issues.
+
+---
+
+## AAOS Thinking Rule
+
+Before publishing or auditing a website, AAOS should verify:
+
+* Can search engines crawl the website?
+* Can important pages be indexed?
+* Is the website fast and secure?
+* Is the mobile experience optimized?
+* Are technical errors minimized?
+
+Technical SEO should strengthen both discoverability and user experience.
+
+---
+
+## Key Takeaway
+
+Technical SEO provides the infrastructure that allows high-quality content to be discovered, understood, and ranked effectively.
+
+Without a solid technical foundation, even the best content may never reach its full search potential.
+
+---
+
