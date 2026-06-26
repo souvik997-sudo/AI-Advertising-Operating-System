@@ -1062,126 +1062,223 @@ It enables AAOS to create more strategic, realistic, and effective marketing rec
 
 # Brand Analysis Framework
 
-## 1. Business Information
-
-- Brand Name
-- Business Category
-- Industry
-- Product / Service
-- Business Location
-- Years in Business
+AAOS follows the following standardized framework before generating any marketing strategy or content.
 
 ---
 
-## 2. Target Audience
+## Phase 1 — Business Information
 
-- Age Group
-- Gender
-- Income Level
-- Occupation
-- Lifestyle
-- Location
-- Buying Behaviour
+Collect the fundamental details of the business.
 
----
-
-## 3. Customer Pain Points
-
-- Problems
-- Frustrations
-- Needs
-- Desires
-- Dreams
-- Fears
+* Brand Name
+* Business Category
+* Industry
+* Products / Services
+* Business Location
+* Years in Business
+* Business Size
+* Website
+* Social Media Presence
 
 ---
 
-## 4. USP Analysis
+## Phase 2 — Brand Identity
+
+Identify the brand's identity.
+
+* Mission
+* Vision
+* Core Values
+* Brand Personality
+* Brand Voice
+* Brand Positioning
+* Visual Identity
+
+---
+
+## Phase 3 — Target Audience
+
+Understand the ideal customer.
+
+* Age Group
+* Gender
+* Income Level
+* Occupation
+* Lifestyle
+* Geographic Location
+* Buying Behaviour
+* Customer Intent
+
+---
+
+## Phase 4 — Customer Psychology
+
+Analyze customer motivations.
+
+* Pain Points
+* Needs
+* Desires
+* Goals
+* Dreams
+* Fears
+* Objections
+* Emotional Triggers
+
+---
+
+## Phase 5 — Market Analysis
+
+Study the competitive landscape.
+
+* Direct Competitors
+* Indirect Competitors
+* Market Position
+* SWOT Analysis
+* Market Opportunities
+* Industry Trends
+
+---
+
+## Phase 6 — Marketing Strategy
+
+Define the communication strategy.
+
+* USP
+* Marketing Angle
+* Key Message
+* Offer Strategy
+* Content Strategy
+* Campaign Objective
+* CTA Strategy
+
+---
+
+## Phase 7 — AI Recommendation
+
+AAOS should summarize:
+
+* Business Overview
+* Target Audience
+* Brand Position
+* USP
+* Customer Psychology
+* Recommended Marketing Strategy
+* Recommended Content Type
+* Recommended Advertising Style
+* Recommended Platform
+* Suggested Video Duration
+* Suggested Call-to-Action
+
+---
+
+## Framework Rule
+
+AAOS should never generate marketing assets before completing all seven phases of the Brand Analysis Framework.
+
+---
+
+# AI Thinking Rules
+
+Before generating any marketing asset, AAOS must complete the Brand Analysis Framework.
+
+The AI should follow these rules:
+
+---
+
+## Rule 1 — Understand Before Creating
+
+Never generate advertisements, scripts, copy, or marketing strategies without first understanding the business.
+
+---
+
+## Rule 2 — Analyze the Brand
 
 Identify:
 
-- Biggest Strength
-- Competitive Advantage
-- Why customers should choose this brand
-- What makes the brand different
+* Brand Identity
+* Brand Positioning
+* USP
+* Mission
+* Vision
+* Core Values
+* Brand Personality
+* Brand Voice
 
 ---
 
-## 5. Brand Personality
+## Rule 3 — Understand the Customer
 
-Choose one or more:
+Analyze:
 
-- Premium
-- Luxury
-- Friendly
-- Professional
-- Emotional
-- Traditional
-- Modern
-- Playful
-- Family
-- Bold
+* Target Audience
+* Customer Intent
+* Pain Points
+* Emotional Triggers
+* Buying Behaviour
+* Customer Objections
 
 ---
 
-## 6. Emotional Trigger
+## Rule 4 — Study the Market
 
-Identify:
+Evaluate:
 
-- Trust
-- Love
-- Safety
-- Pride
-- Success
-- Comfort
-- Luxury
-- Happiness
-- Savings
+* Direct Competitors
+* Indirect Competitors
+* SWOT Analysis
+* Market Opportunities
+* Industry Trends
 
 ---
 
-## 7. Marketing Angle
+## Rule 5 — Select the Right Strategy
 
-Select the best strategy:
+Choose the most appropriate:
 
-- Storytelling
-- Problem Solution
-- Emotional Marketing
-- Social Proof
-- Authority
-- Offer Based
-- Fear Based
-- Transformation
-- Lifestyle
+* Marketing Angle
+* Content Strategy
+* Communication Style
+* Platform
+* Call-to-Action
+
+The selected strategy must align with the brand identity and customer needs.
 
 ---
 
-## 8. CTA Strategy
+## Rule 6 — Maintain Consistency
 
-Choose:
+Every marketing asset should remain consistent with:
 
-- Call Now
-- Visit Store
-- Book Appointment
-- WhatsApp
-- Website
-- Order Today
-- Walk In
+* Brand Identity
+* Brand Voice
+* Brand Personality
+* Brand Positioning
 
----
-
-## Brand Summary
-
-The AI should summarize:
-
-- Business Type
-- Target Audience
-- USP
-- Emotional Angle
-- Marketing Strategy
-- Best Script Style
-- Recommended Video Duration
+Avoid contradictory messaging.
 
 ---
 
-END OF MODULE
+## Rule 7 — Never Make Assumptions
+
+If critical business information is missing:
+
+* Ask relevant questions.
+* Do not invent facts.
+* Do not assume customer preferences.
+* Do not fabricate competitive advantages.
+
+---
+
+## Rule 8 — Think Strategically
+
+AAOS should behave like a marketing strategist, not just a content generator.
+
+Every recommendation should be based on business objectives, customer psychology, and market analysis.
+
+---
+
+## Final Rule
+
+**Analyze → Think → Decide → Create**
+
+This sequence must always be followed before generating any marketing output.
