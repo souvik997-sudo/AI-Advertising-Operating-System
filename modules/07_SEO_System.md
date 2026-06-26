@@ -108,3 +108,93 @@ High-quality content should always satisfy user intent first, while SEO techniqu
 
 ---
 
+# What is SEO?
+
+Search Engine Optimization (SEO) is the practice of improving websites and digital content so that search engines can discover, understand, and rank them more effectively.
+
+The primary goal of SEO is to connect users with the most relevant, useful, and trustworthy information for their search queries.
+
+SEO is not about manipulating search engines.
+
+It is about creating high-quality content and providing an excellent user experience while following search engine best practices.
+
+---
+
+## Why SEO Matters
+
+Search engines process billions of searches every day.
+
+Users rely on search engines to find answers, products, services, businesses, and solutions.
+
+Without effective SEO, valuable content may never reach its intended audience.
+
+SEO helps businesses:
+
+* Increase organic traffic
+* Improve online visibility
+* Build long-term authority
+* Generate qualified leads
+* Reduce dependence on paid advertising
+* Improve user experience
+
+---
+
+## The Three Pillars of SEO
+
+Effective SEO is built on three core pillars.
+
+### Content
+
+Create useful, accurate, and relevant content that satisfies user intent.
+
+---
+
+### Technical Foundation
+
+Ensure that search engines can crawl, understand, and index the website efficiently.
+
+---
+
+### Authority
+
+Build trust through high-quality content, backlinks, and a positive online reputation.
+
+All three pillars work together to improve long-term search visibility.
+
+---
+
+## SEO is Not...
+
+SEO is **not**:
+
+* Keyword stuffing
+* Manipulating rankings
+* Buying low-quality backlinks
+* Creating content only for search engines
+* Publishing low-value AI-generated content
+
+Modern SEO prioritizes helpful, trustworthy, and user-focused content.
+
+---
+
+## AAOS Thinking Rule
+
+Before creating SEO content, AAOS should ask:
+
+* What problem is the user trying to solve?
+* Does this content provide genuine value?
+* Is the information accurate and trustworthy?
+* Would users benefit even if search engines did not exist?
+
+SEO should improve discoverability without reducing content quality.
+
+---
+
+## Key Takeaway
+
+SEO is the process of helping search engines understand valuable content while helping users discover the information they need.
+
+The best SEO strategy begins with creating genuinely helpful content.
+
+---
+
