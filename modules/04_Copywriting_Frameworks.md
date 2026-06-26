@@ -2200,3 +2200,180 @@ A strong offer increases perceived value without relying only on discounts.
 
 ---
 
+## 9. CTA (Call to Action) Writing
+
+### Overview
+
+A Call to Action (CTA) is the instruction that tells the customer what to do next.
+
+Without a clear CTA, even persuasive marketing content may fail to generate results.
+
+AAOS should ensure that every marketing asset ends with a relevant, simple, and action-oriented CTA.
+
+---
+
+### What Is a CTA?
+
+A CTA is a direct invitation for the customer to take the next step.
+
+Examples include:
+
+* Call Now
+* Book Today
+* Get Started
+* Learn More
+* Request a Quote
+* Visit Our Showroom
+* Start Your Free Trial
+
+A CTA should remove uncertainty and guide the customer toward a specific action.
+
+---
+
+### Characteristics of a Strong CTA
+
+A strong CTA should be:
+
+* Clear
+* Action-oriented
+* Relevant
+* Easy to follow
+* Aligned with the customer's intent
+
+Avoid vague or confusing instructions.
+
+---
+
+### CTA by Marketing Funnel
+
+#### Awareness Stage
+
+Goal:
+
+Encourage learning.
+
+Examples:
+
+* Learn More
+* Read the Guide
+* Watch the Video
+* Explore More
+
+---
+
+#### Consideration Stage
+
+Goal:
+
+Build trust and encourage evaluation.
+
+Examples:
+
+* Compare Options
+* Book a Free Consultation
+* Request a Demo
+* View Our Portfolio
+
+---
+
+#### Decision Stage
+
+Goal:
+
+Encourage conversion.
+
+Examples:
+
+* Buy Now
+* Book Today
+* Call Now
+* Order Online
+* Schedule Your Appointment
+
+---
+
+### Weak vs Strong CTA
+
+Weak CTA:
+
+"Contact Us"
+
+Strong CTA:
+
+"Book Your Free Consultation Today"
+
+---
+
+Weak CTA:
+
+"Click Here"
+
+Strong CTA:
+
+"Get Your Free Website Audit"
+
+---
+
+### AAOS Thinking Rule
+
+Before writing a CTA, verify:
+
+* What action should the customer take?
+* Is the customer ready for that action?
+* Does the CTA match the customer's intent?
+* Is the CTA specific?
+* Does it reduce friction?
+
+The CTA should feel like a natural next step.
+
+---
+
+### Real Business Example
+
+Business:
+
+Dream Home Interior
+
+Weak CTA:
+
+"Contact Us"
+
+Strong CTA:
+
+"Book Your Free Design Consultation and Start Planning Your Dream Home Today."
+
+---
+
+### Prompt Template
+
+"Generate 10 CTAs.
+
+Business:
+Target Audience:
+Marketing Goal:
+Offer:
+Customer Intent:
+Tone:"
+
+---
+
+### QA Checklist
+
+Before publishing a CTA, verify:
+
+* Is the action clear?
+* Is it easy to understand?
+* Does it match the marketing objective?
+* Is it appropriate for the customer's stage in the buying journey?
+* Does it encourage immediate action without being misleading?
+
+---
+
+### Key Takeaway
+
+A CTA is the bridge between interest and action.
+
+Every marketing message should clearly guide the customer toward the next logical step.
+
+---
+
