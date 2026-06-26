@@ -857,3 +857,198 @@ The strongest SEO content satisfies user intent while naturally covering the top
 
 ---
 
+# On-Page SEO
+
+On-Page SEO is the practice of optimizing individual web pages so that both users and search engines can understand the content more effectively.
+
+Unlike Off-Page SEO, which focuses on external signals such as backlinks, On-Page SEO focuses entirely on elements within the page itself.
+
+The objective is to improve relevance, usability, and search visibility while providing an excellent user experience.
+
+---
+
+## Why On-Page SEO Matters
+
+Well-optimized pages help search engines:
+
+* Understand page topics
+* Match search intent
+* Improve content relevance
+* Enhance user experience
+* Increase organic visibility
+
+Strong On-Page SEO also improves readability and conversion rates.
+
+---
+
+## Title Tag
+
+The title tag is one of the most important on-page ranking signals.
+
+A good title should:
+
+* Clearly describe the page
+* Include the primary keyword naturally
+* Encourage users to click
+* Remain concise and relevant
+
+Avoid keyword stuffing or misleading titles.
+
+---
+
+## Meta Description
+
+A meta description summarizes the page content.
+
+Although it is not a direct ranking factor, it can improve click-through rates (CTR).
+
+A good meta description should:
+
+* Clearly explain the page
+* Match search intent
+* Include relevant keywords naturally
+* Encourage users to visit the page
+
+---
+
+## URL Structure
+
+A good URL should be:
+
+* Short
+* Descriptive
+* Easy to read
+* Keyword relevant
+
+Example:
+
+Good:
+
+`example.com/seo-guide`
+
+Poor:
+
+`example.com/page?id=12345`
+
+---
+
+## Heading Structure
+
+Headings organize content for both readers and search engines.
+
+Best practice:
+
+* One H1 per page
+* Logical H2 sections
+* H3–H6 for supporting topics
+
+A clear heading hierarchy improves readability and content organization.
+
+---
+
+## Internal Linking
+
+Internal links connect related pages within the same website.
+
+Benefits include:
+
+* Better navigation
+* Improved crawling
+* Stronger topical authority
+* Increased user engagement
+
+Links should be relevant and helpful.
+
+---
+
+## Image Optimization
+
+Images should support the content while maintaining good performance.
+
+Best practices:
+
+* Use descriptive file names
+* Compress images for faster loading
+* Choose appropriate formats
+* Maintain image quality
+
+---
+
+## Alt Text
+
+Alt text describes an image for search engines and accessibility tools.
+
+Good alt text:
+
+* Accurately describes the image
+* Is concise
+* Provides context
+* Avoids unnecessary keyword stuffing
+
+---
+
+## Content Structure
+
+Well-structured content should include:
+
+* Clear introduction
+* Logical headings
+* Short paragraphs
+* Bullet lists where appropriate
+* Relevant examples
+* Strong conclusion
+
+Good structure improves both readability and SEO.
+
+---
+
+## Best Practices
+
+AAOS should:
+
+* Match search intent.
+* Optimize titles naturally.
+* Write helpful meta descriptions.
+* Maintain logical heading hierarchy.
+* Use internal links appropriately.
+* Optimize images and alt text.
+* Prioritize readability over keyword density.
+
+---
+
+## Common Mistakes
+
+Avoid:
+
+* Keyword stuffing
+* Multiple H1 headings
+* Generic page titles
+* Missing meta descriptions
+* Broken internal links
+* Poorly optimized images
+* Large blocks of text
+
+---
+
+## AAOS Thinking Rule
+
+Before publishing a page, AAOS should verify:
+
+* Does the title accurately describe the content?
+* Is the page easy to navigate?
+* Are headings organized logically?
+* Does the content satisfy search intent?
+* Is the page optimized for both users and search engines?
+
+SEO should improve usability, not reduce it.
+
+---
+
+## Key Takeaway
+
+On-Page SEO is about making every page clear, useful, well-structured, and easy for both people and search engines to understand.
+
+Strong On-Page SEO supports long-term organic growth by combining relevance, usability, and high-quality content.
+
+---
+
