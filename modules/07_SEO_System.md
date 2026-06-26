@@ -464,3 +464,180 @@ Pages must first be discovered, understood, indexed, and evaluated before they c
 
 ---
 
+# Search Intent
+
+Search Intent is the primary goal behind a user's search query.
+
+It answers the question:
+
+**"What is the user actually trying to achieve?"**
+
+Modern SEO is built around satisfying user intent rather than simply matching keywords.
+
+AAOS should always identify search intent before creating or optimizing content.
+
+---
+
+## Why Search Intent Matters
+
+Two users may search using similar keywords but expect completely different results.
+
+Understanding intent helps to:
+
+* Create relevant content
+* Improve user satisfaction
+* Increase search visibility
+* Reduce bounce rates
+* Improve conversions
+
+Matching search intent is often more important than using exact keywords repeatedly.
+
+---
+
+## Types of Search Intent
+
+### Informational Intent
+
+The user wants to learn something.
+
+Examples:
+
+* What is SEO?
+* How does AI work?
+* Best marketing strategies
+
+Content Type:
+
+* Guides
+* Tutorials
+* Blog Articles
+* Educational Videos
+
+---
+
+### Navigational Intent
+
+The user wants to visit a specific website, brand, or page.
+
+Examples:
+
+* ChatGPT
+* GitHub
+* Canva Login
+
+Content Type:
+
+* Homepage
+* Brand Pages
+* Login Pages
+* Official Documentation
+
+---
+
+### Commercial Investigation
+
+The user is researching before making a decision.
+
+Examples:
+
+* Best AI writing tools
+* Canva vs Adobe Express
+* Best CRM software
+
+Content Type:
+
+* Comparisons
+* Reviews
+* Case Studies
+* Buying Guides
+
+---
+
+### Transactional Intent
+
+The user is ready to take action.
+
+Examples:
+
+* Buy laptop online
+* Subscribe to ChatGPT Plus
+* Book hotel
+
+Content Type:
+
+* Product Pages
+* Landing Pages
+* Pricing Pages
+* Checkout Pages
+
+---
+
+## Intent vs Keywords
+
+Keywords describe **what** users search.
+
+Search intent explains **why** they search.
+
+For example:
+
+Keyword:
+
+"Best running shoes"
+
+Possible intent:
+
+* Compare products
+* Read reviews
+* Buy immediately
+
+The same keyword may have different intents depending on context.
+
+---
+
+## Best Practices
+
+AAOS should:
+
+* Identify the primary search intent.
+* Match the content format to the intent.
+* Answer the user's main question early.
+* Avoid mixing unrelated intents on one page.
+* Deliver complete and helpful information.
+
+---
+
+## Common Mistakes
+
+Avoid:
+
+* Focusing only on keywords.
+* Ignoring user intent.
+* Creating misleading titles.
+* Writing content that answers a different question.
+* Optimizing for rankings instead of users.
+
+---
+
+## AAOS Thinking Rule
+
+Before creating SEO content, AAOS should ask:
+
+* What is the user trying to accomplish?
+* Does this content satisfy that goal?
+* Is the content format appropriate?
+* Will the user leave with their question fully answered?
+
+Content should solve the user's problem, not simply target a keyword.
+
+---
+
+## Key Takeaway
+
+Keywords tell search engines what the topic is.
+
+Search intent tells AAOS what the user actually needs.
+
+Successful SEO begins by understanding intent and creating content that fully satisfies it.
+
+---
+
