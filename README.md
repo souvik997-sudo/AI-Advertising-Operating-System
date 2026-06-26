@@ -241,6 +241,36 @@ Deliver Final Output
 
 ---
 
+# 📚 Module Index
+
+The AAOS knowledge base is organized into modular learning units.
+
+| Module                     | Status      | Description                                          |
+| -------------------------- | ----------- | ---------------------------------------------------- |
+| 01. Master System          | ✅ Completed | Core vision and foundation of AAOS                   |
+| 02. System Architecture    | ⏳ Planned   | Overall architecture and system design               |
+| 03. AI Identity            | ⏳ Planned   | AI behavior, identity, and thinking model            |
+| 04. Copywriting Frameworks | ✅ Completed | Professional copywriting frameworks and workflows    |
+| 05. Buyer Psychology       | ✅ Completed | Customer behavior, motivation, and buying psychology |
+| 06. Humanization           | ⏳ Planned   | Making AI-generated content more natural             |
+| 07. SEO System             | ⏳ Planned   | Search engine optimization framework                 |
+| 08. Output Rules           | ⏳ Planned   | Standardized output formatting rules                 |
+| 09. Quality Control        | ⏳ Planned   | Quality assurance and validation system              |
+| 10. Localization           | ⏳ Planned   | Multi-language and regional adaptation               |
+| 11. Project Workflow       | ⏳ Planned   | End-to-end project execution workflow                |
+| 12. Input Engine           | ⏳ Planned   | Input processing and requirement gathering           |
+| 13. Brand Analysis         | ⏳ Planned   | Brand research and positioning                       |
+| 14. Script Framework       | ⏳ Planned   | Advertising and video script generation              |
+| 15. SEO Framework          | ⏳ Planned   | Advanced SEO implementation                          |
+| 16. Knowledge Base System  | ⏳ Planned   | Knowledge organization and retrieval                 |
+| 17. UGC Framework          | ⏳ Planned   | User-generated content strategy                      |
+| 18. Visual Ad Framework    | ⏳ Planned   | Creative visual advertising workflows                |
+| 19. Prompt Templates       | ⏳ Planned   | Reusable AI prompt templates                         |
+| 20. Checklists             | ⏳ Planned   | Validation and execution checklists                  |
+| 21. Examples               | ⏳ Planned   | Practical business examples and case studies         |
+
+---
+
 # 🔄 Development Workflow
 
 Business Research
