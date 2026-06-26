@@ -133,8 +133,6 @@ AI-Advertising-Operating-System/
 
 ---
 
----
-
 # 🚀 Installation
 
 ## Prerequisites
@@ -170,6 +168,76 @@ code .
 Start your learning journey from the `modules/` directory.
 
 It is recommended to study the modules in numerical order, as each module builds upon the concepts introduced in the previous ones.
+
+---
+
+# ⚡ Quick Start
+
+Follow these steps to begin using AAOS:
+
+### Step 1
+
+Clone the repository.
+
+### Step 2
+
+Open the project in Visual Studio Code.
+
+### Step 3
+
+Read the `README.md` to understand the project structure.
+
+### Step 4
+
+Navigate to the `modules/` directory.
+
+### Step 5
+
+Study the modules in numerical order.
+
+Recommended learning sequence:
+
+1. 01_Master_System
+2. 02_System_Architecture
+3. 03_AI_Identity
+4. 04_Copywriting_Frameworks
+5. 05_Buyer_Psychology
+
+Continue with the remaining modules as they are developed.
+
+---
+
+## Recommended Workflow
+
+Research
+
+↓
+
+Understand the Business
+
+↓
+
+Analyze the Brand
+
+↓
+
+Study Buyer Psychology
+
+↓
+
+Select the Appropriate Framework
+
+↓
+
+Generate Marketing Assets
+
+↓
+
+Perform Quality Assurance
+
+↓
+
+Deliver Final Output
 
 ---
 
