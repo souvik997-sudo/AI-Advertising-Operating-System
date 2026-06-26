@@ -198,3 +198,130 @@ The best SEO strategy begins with creating genuinely helpful content.
 
 ---
 
+# Search Engine Basics
+
+A search engine is a software system that helps users find relevant information on the internet.
+
+When a user enters a search query, the search engine analyzes billions of web pages and returns the most relevant results.
+
+The objective of a search engine is to provide accurate, trustworthy, and useful answers as quickly as possible.
+
+---
+
+## Common Search Engines
+
+Some of the world's most popular search engines include:
+
+* Google
+* Bing
+* Yahoo
+* DuckDuckGo
+* Baidu
+* Yandex
+
+Although each search engine uses different ranking algorithms, they all aim to deliver the most relevant results for user queries.
+
+---
+
+## Search Engine Components
+
+Every modern search engine consists of three primary components:
+
+### Crawling
+
+Search engine bots discover new and updated web pages by following links across the internet.
+
+---
+
+### Indexing
+
+The discovered pages are analyzed and stored in the search engine's database, known as the index.
+
+---
+
+### Ranking
+
+When a user performs a search, the search engine evaluates indexed pages and ranks them based on relevance, quality, authority, and many other factors.
+
+---
+
+## Search Engine Results Page (SERP)
+
+The page displayed after a user performs a search is called the **Search Engine Results Page (SERP)**.
+
+A typical SERP may include:
+
+* Organic Results
+* Paid Advertisements
+* Featured Snippets
+* Images
+* Videos
+* Local Business Listings
+* Frequently Asked Questions (FAQs)
+
+The layout varies depending on the search query.
+
+---
+
+## Organic vs Paid Results
+
+### Organic Results
+
+Organic results appear naturally based on the search engine's ranking algorithms.
+
+Businesses do not pay directly for these rankings.
+
+SEO focuses primarily on improving organic visibility.
+
+---
+
+### Paid Results
+
+Paid results appear through advertising platforms such as Google Ads.
+
+These listings are marked as sponsored or advertised and require payment for visibility.
+
+---
+
+## Ranking Factors (Overview)
+
+Search engines evaluate many signals when ranking content, including:
+
+* Content Quality
+* Search Intent Match
+* Relevance
+* User Experience
+* Website Performance
+* Mobile Friendliness
+* Page Speed
+* Authority
+* Backlinks
+* Freshness of Content
+
+No single factor guarantees high rankings.
+
+Effective SEO requires balancing multiple ranking signals.
+
+---
+
+## AAOS Thinking Rule
+
+Before optimizing any content, AAOS should understand:
+
+* How search engines discover content.
+* How search engines evaluate relevance.
+* How users interact with search results.
+* Which factors improve both user experience and search visibility.
+
+SEO decisions should always prioritize helping users first.
+
+---
+
+## Key Takeaway
+
+Search engines exist to connect users with the most helpful information.
+
+Understanding how search engines discover, organize, and rank content is the foundation of effective SEO.
+
+---
+
