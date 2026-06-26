@@ -257,6 +257,101 @@ Sales convert interested customers into buyers.
 
 ---
 
+# Brand Identity
+
+Brand Identity is the collection of visible and verbal elements that represent a business.
+
+It defines how a brand presents itself to customers and how it wants to be recognized in the market.
+
+A strong brand identity creates consistency across all customer interactions.
+
+---
+
+## Elements of Brand Identity
+
+A complete brand identity includes:
+
+* Brand Name
+* Logo
+* Color Palette
+* Typography
+* Visual Style
+* Brand Voice
+* Tone of Communication
+* Core Values
+* Mission
+* Vision
+
+Each element should work together to create a consistent customer experience.
+
+---
+
+## Visual Identity
+
+Visual identity includes all graphical elements that customers see.
+
+Examples include:
+
+* Logo
+* Brand Colors
+* Fonts
+* Icons
+* Photography Style
+* Graphic Elements
+
+Visual consistency increases brand recognition and trust.
+
+---
+
+## Brand Voice
+
+Brand voice defines how the business communicates.
+
+Examples:
+
+* Professional
+* Friendly
+* Premium
+* Technical
+* Inspirational
+* Luxury
+* Educational
+
+The same voice should be maintained across advertisements, websites, social media, and customer communication.
+
+---
+
+## Brand Consistency
+
+Consistency builds trust.
+
+Customers should receive the same experience regardless of where they interact with the brand.
+
+Inconsistent branding creates confusion and weakens customer confidence.
+
+---
+
+## AAOS Thinking Rule
+
+Before generating marketing content, AAOS should identify:
+
+* Does the content match the brand identity?
+* Is the tone consistent?
+* Are the visual and verbal elements aligned?
+* Will customers recognize the brand immediately?
+
+Every marketing asset should strengthen the brand identity.
+
+---
+
+## Key Takeaway
+
+Brand identity is how a business intentionally presents itself.
+
+Consistent identity leads to stronger recognition, trust, and long-term brand value.
+
+---
+
 # Brand Analysis Framework
 
 ## 1. Business Information
