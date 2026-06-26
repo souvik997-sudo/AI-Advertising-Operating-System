@@ -882,3 +882,274 @@ Every well-addressed objection increases customer confidence and improves the li
 
 ---
 
+## 13. Cognitive Biases in Marketing
+
+### Overview
+
+Customers do not always make perfectly rational decisions.
+
+Human decisions are influenced by mental shortcuts known as cognitive biases.
+
+Understanding these biases allows marketers to design messages that feel more relevant, trustworthy, and persuasive without manipulating or misleading customers.
+
+AAOS should use cognitive biases ethically to improve communication and decision-making.
+
+---
+
+### What Are Cognitive Biases?
+
+Cognitive biases are predictable patterns in human thinking that influence how people evaluate information and make decisions.
+
+These biases help people make quick decisions but can also affect purchasing behavior.
+
+---
+
+### Common Cognitive Biases
+
+#### Social Proof
+
+People feel more confident when they see others making the same decision.
+
+Examples:
+
+* Customer reviews
+* Testimonials
+* User-generated content
+* Success stories
+
+---
+
+#### Authority Bias
+
+People trust recommendations from experts, professionals, and recognized organizations.
+
+Examples:
+
+* Industry certifications
+* Doctor recommendations
+* Expert endorsements
+* Official partnerships
+
+---
+
+#### Scarcity Bias
+
+People assign more value to opportunities that appear limited.
+
+Examples:
+
+* Limited stock
+* Limited-time offers
+* Early bird discounts
+
+Scarcity should always be genuine and never misleading.
+
+---
+
+#### Loss Aversion
+
+People are generally more motivated to avoid losing something than to gain something of equal value.
+
+Example:
+
+"Reduce unnecessary fuel expenses."
+
+This message is often stronger than:
+
+"Save money."
+
+---
+
+#### Anchoring Effect
+
+The first number or reference point customers see influences how they evaluate later information.
+
+Example:
+
+Showing the original price before the discounted price.
+
+---
+
+#### Reciprocity
+
+People naturally feel inclined to return value after receiving something helpful.
+
+Examples:
+
+* Free consultation
+* Free trial
+* Helpful guides
+* Educational content
+
+---
+
+### AAOS Thinking Rule
+
+Before generating marketing content, ask:
+
+* Which cognitive bias is most relevant?
+* Is it appropriate for this audience?
+* Is the message honest and transparent?
+* Does it help the customer make a better decision?
+
+Never use cognitive biases to deceive or pressure customers.
+
+---
+
+### Marketing Example
+
+Product:
+
+Electric Scooter
+
+Weak Message:
+
+"Our scooter is affordable."
+
+Bias-Based Message:
+
+"Join thousands of riders who have already switched to electric mobility and reduced their daily commuting costs."
+
+The second message combines social proof with a practical benefit.
+
+---
+
+### Key Takeaway
+
+Cognitive biases influence purchasing decisions every day.
+
+Ethical marketing uses these principles to make communication clearer, more trustworthy, and more helpful for customers.
+
+---
+
+## 14. Pricing Psychology
+
+### Overview
+
+Price is more than just a number.
+
+Customers do not evaluate prices objectively.
+
+Instead, they compare prices, judge value, and make purchasing decisions based on perception.
+
+AAOS should present pricing in a way that emphasizes value while remaining honest and transparent.
+
+---
+
+### What Is Pricing Psychology?
+
+Pricing psychology is the practice of presenting prices and offers in a way that influences how customers perceive value.
+
+The goal is not to trick customers but to help them understand the value they receive.
+
+---
+
+### Common Pricing Strategies
+
+#### Value-Based Pricing
+
+Focus on the value the customer receives rather than the product's cost.
+
+Example:
+
+Instead of saying:
+
+"₹20,000 Electric Scooter"
+
+Say:
+
+"Save thousands in fuel costs every year."
+
+---
+
+#### Charm Pricing
+
+Prices ending in 9 often feel more attractive.
+
+Examples:
+
+* ₹999
+* ₹4,999
+* ₹19,999
+
+Use this approach only when it fits the brand positioning.
+
+---
+
+#### Premium Pricing
+
+Higher prices can communicate higher quality, exclusivity, or prestige.
+
+Examples:
+
+* Luxury fashion
+* Premium healthcare
+* High-end interior design
+
+Premium pricing should always be supported by premium value.
+
+---
+
+#### Bundle Pricing
+
+Combining multiple products or services into one package increases perceived value.
+
+Examples:
+
+* Paint + Primer + Consultation
+* Electric Scooter + Charger + Warranty
+* SEO + Website Audit + Content Plan
+
+---
+
+#### Price Anchoring
+
+Customers evaluate prices relative to a reference point.
+
+Example:
+
+Original Price:
+
+₹35,000
+
+Offer Price:
+
+₹29,999
+
+The original price helps customers understand the value of the offer.
+
+---
+
+### AAOS Thinking Rule
+
+Before presenting any price:
+
+* What value does the customer receive?
+* Does the pricing match the brand position?
+* Is the offer easy to understand?
+* Is the pricing honest and transparent?
+
+Never use deceptive pricing practices.
+
+---
+
+### Marketing Example
+
+Weak Message:
+
+"Our scooter costs ₹85,000."
+
+Value-Based Message:
+
+"Reduce daily fuel expenses and enjoy affordable commuting with a reliable electric scooter designed for long-term savings."
+
+---
+
+### Key Takeaway
+
+Customers compare value before they compare price.
+
+Effective marketing explains why the price is worth paying.
+
+---
+
