@@ -1114,3 +1114,176 @@ People buy transformation, not just products.
 
 ---
 
+### 5.4 FAB Framework (Features – Advantages – Benefits)
+
+### Definition
+
+FAB stands for:
+
+* Features
+* Advantages
+* Benefits
+
+It is a structured copywriting framework that transforms technical product information into customer-focused value.
+
+Instead of simply listing specifications, FAB explains why a feature matters and how it improves the customer's life.
+
+AAOS uses FAB whenever products or services require explanation before purchase.
+
+---
+
+### Why FAB Works
+
+Customers are interested in product features only when they understand how those features improve their lives.
+
+FAB bridges the gap between technical specifications and real-world customer value.
+
+---
+
+### The Three Stages
+
+#### Features
+
+A feature is a factual characteristic of the product or service.
+
+Examples:
+
+* 120 km battery range
+* AI-powered automation
+* Waterproof coating
+* SSD storage
+* 5-year warranty
+
+Features describe **what the product has**.
+
+---
+
+#### Advantages
+
+Advantages explain why the feature is better than other options.
+
+Examples:
+
+* Lower electricity consumption
+* Faster performance
+* Longer battery life
+* Better durability
+* Easier maintenance
+
+Advantages explain **why the feature is useful**.
+
+---
+
+#### Benefits
+
+Benefits describe the positive outcome the customer experiences.
+
+Examples:
+
+* Save money every month
+* Complete tasks faster
+* Reduce maintenance costs
+* Enjoy greater convenience
+* Gain peace of mind
+
+Benefits explain **how the customer's life improves**.
+
+---
+
+### Best Use Cases
+
+FAB is ideal for:
+
+* Electronics
+* Software
+* SaaS Products
+* AI Tools
+* Automobiles
+* Home Appliances
+* Medical Equipment
+* Industrial Products
+
+---
+
+### When Not to Use
+
+FAB may not be the best choice when:
+
+* The campaign relies mainly on emotional storytelling.
+* Brand awareness is the primary objective.
+* The audience already understands the product in detail.
+
+---
+
+### AAOS Thinking Rule
+
+For every feature, always identify:
+
+* What is the feature?
+* Why is it valuable?
+* How does it improve the customer's life?
+
+Never stop at the feature.
+
+Always connect it to a customer benefit.
+
+---
+
+### Real Business Example
+
+Business:
+
+Bankura EV Care
+
+Feature:
+
+120 km riding range on a single charge.
+
+Advantage:
+
+Suitable for daily commuting without frequent charging.
+
+Benefit:
+
+Spend less on transportation while enjoying reliable daily travel.
+
+---
+
+### Prompt Template
+
+"Write marketing copy using the FAB framework.
+
+Business:
+Product:
+Features:
+Advantages:
+Customer Benefits:
+CTA:
+Tone:"
+
+---
+
+### QA Checklist
+
+Before publishing FAB-based copy, verify:
+
+* Are the product features accurate?
+* Are the advantages clearly explained?
+* Are the customer benefits obvious?
+* Does every feature connect to a real benefit?
+* Is the CTA clear and relevant?
+
+---
+
+### Key Takeaway
+
+Customers notice features.
+
+They compare advantages.
+
+They buy benefits.
+
+Always translate product specifications into meaningful customer outcomes.
+
+---
+
