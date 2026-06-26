@@ -4,7 +4,7 @@ Version: 2.0
 
 ---
 
-# Introduction
+## 1. Introduction
 
 Buyer Psychology is the study of how people think, feel, and behave before making a purchasing decision.
 
@@ -18,7 +18,7 @@ The better a marketer understands human psychology, the higher the probability o
 
 ---
 
-# Why Buyer Psychology Matters
+## 2. Why Buyer Psychology Matters
 
 Most businesses believe customers buy because of product features.
 
@@ -49,7 +49,7 @@ Understanding this difference is the foundation of effective marketing.
 
 ---
 
-# Core Principle
+## 3. Core Principle
 
 Customers do not make purchasing decisions based only on logic.
 
@@ -59,7 +59,7 @@ AAOS always analyzes emotional motivation before generating marketing content.
 
 ---
 
-# AAOS Psychology Rule
+## 4. AAOS Psychology Rule
 
 Before generating any marketing asset, always identify:
 
@@ -74,7 +74,7 @@ Marketing content should answer these questions before presenting any product or
 
 ---
 
-# Learning Objectives
+## 5. Learning Objectives
 
 After completing this module, the AI should be able to:
 
@@ -88,4 +88,3 @@ After completing this module, the AI should be able to:
 
 ---
 
-END OF PART 1
