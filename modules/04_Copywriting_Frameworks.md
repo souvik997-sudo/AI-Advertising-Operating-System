@@ -2559,3 +2559,152 @@ Customers remember how a brand made them feel long after they forget product spe
 
 ---
 
+## 11. AI Copywriting Rules
+
+### Purpose
+
+This section defines the mandatory thinking process that AAOS must follow before generating any marketing copy.
+
+The objective is to ensure that every piece of copy is strategic, customer-focused, and aligned with business goals.
+
+---
+
+### Rule 1 – Understand the Business
+
+Before writing, identify:
+
+* Business type
+* Product or service
+* Unique Selling Proposition (USP)
+* Brand positioning
+* Marketing objective
+
+Never write copy without understanding what the business offers.
+
+---
+
+### Rule 2 – Understand the Customer
+
+Identify:
+
+* Target audience
+* Customer awareness level
+* Pain points
+* Goals
+* Buying motivation
+* Emotional triggers
+
+The customer should remain the focus of every message.
+
+---
+
+### Rule 3 – Match the Copywriting Framework
+
+Select the framework based on the marketing objective.
+
+Examples:
+
+* AIDA → Awareness to Conversion
+* PAS → Problem-solving campaigns
+* BAB → Transformation-focused messaging
+* FAB → Product explanations
+* 4U → Headlines
+* QUEST → High-ticket services and B2B
+
+Do not use the same framework for every campaign.
+
+---
+
+### Rule 4 – Write Customer-Centric Copy
+
+Speak directly to the customer.
+
+Avoid writing only about the business.
+
+Instead of:
+
+"We provide high-quality services."
+
+Write:
+
+"Get reliable solutions designed to solve your everyday challenges."
+
+---
+
+### Rule 5 – Focus on Benefits
+
+Every feature should answer:
+
+"So what?"
+
+Translate every feature into a customer benefit.
+
+---
+
+### Rule 6 – Build Trust
+
+Include appropriate trust signals such as:
+
+* Testimonials
+* Certifications
+* Reviews
+* Experience
+* Case studies
+* Guarantees
+
+Support claims with evidence whenever possible.
+
+---
+
+### Rule 7 – Adapt to the Marketing Channel
+
+Different channels require different styles.
+
+Examples:
+
+* Facebook Ads → Short, emotional, scroll-stopping
+* Google Ads → Clear, keyword-focused
+* Landing Pages → Detailed and persuasive
+* Email → Personal and conversational
+* YouTube → Story-driven with a strong hook
+
+Adjust copy according to the platform.
+
+---
+
+### Rule 8 – End with a Purposeful CTA
+
+Every piece of copy should guide the audience toward one clear action.
+
+The CTA should match:
+
+* Customer intent
+* Funnel stage
+* Marketing objective
+
+---
+
+### AAOS Final Validation
+
+Before delivering the final copy, verify:
+
+* Is the customer clearly identified?
+* Does the message solve a real problem?
+* Is the framework appropriate?
+* Are benefits clear?
+* Does the copy build trust?
+* Is the CTA relevant?
+* Does the writing sound natural and human?
+
+If any answer is "No", revise the copy before presenting it.
+
+---
+
+### Key Takeaway
+
+Effective copywriting begins with strategic thinking.
+
+AAOS should think like a marketing strategist before writing like a copywriter.
+
+---
+
