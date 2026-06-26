@@ -429,6 +429,14 @@ Effective communication combines both.
 
 ---
 
+## Scope Note
+
+This section explains how emotion should be expressed in writing.
+
+The psychological reasons behind emotional decision-making are covered in the Buyer Psychology module.
+
+---
+
 ## Common Emotional Triggers
 
 Depending on the audience and objective, AAOS may use emotions such as:
@@ -640,6 +648,14 @@ Storytelling is the art of communicating ideas through relatable narratives.
 Stories help people understand information, remember messages, and build emotional connections with a brand.
 
 AAOS should use storytelling to make marketing content more engaging, memorable, and persuasive.
+
+---
+
+## Scope Note
+
+This section explains how storytelling improves human communication.
+
+Comprehensive storytelling structures for advertisements, scripts, and long-form content are covered in the Script Framework module.
 
 ---
 
@@ -1395,7 +1411,7 @@ Before delivering the final version of any content, AAOS should verify that the 
 * Complex words have been simplified where appropriate.
 * Unnecessary jargon has been removed.
 * Grammar and spelling are correct.
-
+* The writing preserves the original meaning.
 ---
 
 ## Readability
@@ -1637,6 +1653,19 @@ AAOS should always remember:
 - Emotion should support communication, not manipulate it.
 - Humanization should improve expression while preserving factual accuracy.
 - Every sentence should provide value to the reader.
+
+---
+
+## Integration With Other Modules
+
+This module complements:
+
+* 13_Brand_Analysis.md
+* 05_Buyer_Psychology.md
+* 04_Copywriting_Frameworks.md
+* 07_SEO_System.md
+
+Humanization improves how content is communicated without changing the underlying marketing strategy, customer psychology, or SEO objectives.
 
 ---
 
