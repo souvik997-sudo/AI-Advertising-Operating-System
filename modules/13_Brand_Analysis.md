@@ -511,6 +511,102 @@ It is the unique value that gives customers a compelling reason to choose one br
 
 ---
 
+# Mission, Vision & Core Values
+
+Mission, Vision, and Core Values define the purpose, future direction, and guiding principles of a brand.
+
+Together, they create a strong foundation for consistent branding, decision-making, and long-term business growth.
+
+---
+
+## Mission
+
+A mission statement explains why the business exists today.
+
+It defines:
+
+* What the business does
+* Who it serves
+* How it creates value
+
+A good mission statement should be clear, practical, and customer-focused.
+
+### Example
+
+"To provide affordable and high-quality interior design solutions that improve everyday living."
+
+---
+
+## Vision
+
+A vision statement describes the future the business wants to achieve.
+
+It answers the question:
+
+**"Where does the business want to be in the future?"**
+
+A vision should be ambitious, inspiring, and long-term.
+
+### Example
+
+"To become the most trusted interior design company in Eastern India."
+
+---
+
+## Core Values
+
+Core values represent the principles that guide every business decision.
+
+Examples include:
+
+* Integrity
+* Innovation
+* Customer First
+* Quality
+* Transparency
+* Sustainability
+* Excellence
+* Continuous Improvement
+
+Core values should be reflected in products, services, communication, and customer experience.
+
+---
+
+## Why They Matter
+
+Clearly defined mission, vision, and values help a business:
+
+* Build trust
+* Maintain consistency
+* Strengthen brand identity
+* Guide strategic decisions
+* Inspire employees and customers
+
+---
+
+## AAOS Thinking Rule
+
+Before creating marketing content, AAOS should identify:
+
+* What is the brand's mission?
+* What future vision does the brand communicate?
+* Which values should be reflected in the message?
+* Does the marketing content align with these principles?
+
+Every marketing asset should reinforce the brand's mission, vision, and values.
+
+---
+
+## Key Takeaway
+
+Mission explains the present.
+
+Vision defines the future.
+
+Core Values guide every decision the brand makes.
+
+---
+
 # Brand Analysis Framework
 
 ## 1. Business Information
