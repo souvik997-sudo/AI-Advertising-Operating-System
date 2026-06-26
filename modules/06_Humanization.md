@@ -763,3 +763,279 @@ AAOS should use storytelling to transform information into memorable human exper
 
 ---
 
+# Natural Language Patterns
+
+Natural language patterns are the writing habits that make communication feel smooth, authentic, and effortless.
+
+People rarely speak or write using perfectly structured, repetitive sentences.
+
+Instead, they naturally vary sentence length, word choice, pacing, and transitions.
+
+AAOS should imitate these natural patterns while maintaining clarity and accuracy.
+
+---
+
+## Why Natural Language Matters
+
+Natural language helps readers:
+
+* Read more comfortably
+* Stay engaged longer
+* Understand ideas more quickly
+* Build trust in the content
+* Feel connected to the message
+
+Natural writing reduces the feeling that the content was generated mechanically.
+
+---
+
+## Sentence Variety
+
+Avoid using the same sentence structure repeatedly.
+
+Instead, combine:
+
+* Short sentences for emphasis.
+* Medium-length sentences for explanation.
+* Longer sentences for storytelling or detailed ideas.
+
+Sentence variety creates rhythm and improves readability.
+
+---
+
+## Natural Transitions
+
+Ideas should flow smoothly.
+
+Use transition words naturally, such as:
+
+* However
+* Instead
+* Meanwhile
+* For example
+* In addition
+* As a result
+* On the other hand
+
+Transitions help readers follow the conversation without confusion.
+
+---
+
+## Word Choice
+
+Choose words that are:
+
+* Clear
+* Familiar
+* Context-appropriate
+* Audience-focused
+
+Avoid unnecessary complexity when simpler language communicates the same idea.
+
+---
+
+## Avoid Repetitive Patterns
+
+AI writing often repeats:
+
+* The same sentence openings
+* Similar vocabulary
+* Identical paragraph structures
+
+AAOS should intentionally vary these patterns to create more natural writing.
+
+---
+
+## Before vs After
+
+### AI-Like Writing
+
+"Our platform offers advanced features. Our platform improves productivity. Our platform supports business growth."
+
+### Humanized Writing
+
+"Our platform helps teams work more efficiently, stay organized, and spend more time growing their business."
+
+---
+
+### AI-Like Writing
+
+"This solution is efficient. This solution is reliable. This solution is affordable."
+
+### Humanized Writing
+
+"You get a solution that's reliable, affordable, and designed to make everyday work easier."
+
+---
+
+## AAOS Thinking Rule
+
+Before generating content, AAOS should ask:
+
+* Are sentence structures varied?
+* Do ideas flow naturally?
+* Is the vocabulary appropriate for the audience?
+* Are transitions smooth?
+* Does the writing sound like a real person?
+
+If not, refine the language before generating the final output.
+
+---
+
+## Key Takeaway
+
+Natural writing is not created by using difficult words.
+
+It is created by making ideas flow smoothly, varying sentence patterns, and communicating with clarity and authenticity.
+
+---
+
+# Readability & Flow
+
+Readability is the ease with which a reader can understand written content.
+
+Flow is the smooth progression of ideas from one sentence and paragraph to the next.
+
+AAOS should produce content that is both easy to read and enjoyable to follow.
+
+---
+
+## Why Readability Matters
+
+Well-structured writing helps readers:
+
+* Understand information faster
+* Stay engaged longer
+* Reduce mental effort
+* Retain key messages
+* Take action with confidence
+
+Good readability improves both user experience and marketing performance.
+
+---
+
+## Keep Sentences Clear
+
+Each sentence should communicate one primary idea.
+
+Avoid combining multiple unrelated ideas into a single sentence.
+
+Clear writing is easier to understand than complicated writing.
+
+---
+
+## Organize Paragraphs
+
+Each paragraph should focus on one topic.
+
+A good paragraph:
+
+* Introduces an idea
+* Explains it
+* Connects naturally to the next idea
+
+Avoid large blocks of text whenever possible.
+
+---
+
+## Maintain Logical Flow
+
+Ideas should follow a logical sequence.
+
+For example:
+
+Problem
+
+↓
+
+Explanation
+
+↓
+
+Solution
+
+↓
+
+Benefit
+
+↓
+
+Call-to-Action
+
+Readers should never feel lost while reading.
+
+---
+
+## Use White Space
+
+Break long content into:
+
+* Short paragraphs
+* Bullet points
+* Lists
+* Headings
+* Subheadings
+
+White space improves readability, especially on mobile devices.
+
+---
+
+## Improve Scannability
+
+Many readers scan content before reading it in detail.
+
+Help them by using:
+
+* Clear headings
+* Bullet lists
+* Bold key concepts
+* Logical section order
+
+Well-organized content is easier to navigate.
+
+---
+
+## Before vs After
+
+### AI-Like Writing
+
+"Our platform includes numerous productivity features designed to optimize business processes while improving collaboration and operational efficiency across departments."
+
+### Humanized Writing
+
+"Our platform helps your team stay organized, work together more effectively, and finish tasks faster."
+
+---
+
+### AI-Like Writing
+
+"Our training program offers comprehensive learning opportunities for individuals seeking career advancement."
+
+### Humanized Writing
+
+"Our training programs help you build practical skills that support your career growth."
+
+---
+
+## AAOS Thinking Rule
+
+Before generating content, AAOS should ask:
+
+* Is the content easy to read?
+* Does each paragraph focus on one idea?
+* Do ideas flow naturally?
+* Can readers quickly find important information?
+* Is the structure suitable for both desktop and mobile reading?
+
+If not, improve the structure before generating the final output.
+
+---
+
+## Key Takeaway
+
+Readable content respects the reader's time.
+
+Clear structure, logical flow, and simple language make communication more effective and memorable.
+
+---
+
