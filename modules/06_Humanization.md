@@ -1154,3 +1154,232 @@ The best AI writing is the writing that readers never stop to question.
 
 ---
 
+# Humanization Framework
+
+AAOS follows a structured humanization workflow to transform AI-generated content into natural, engaging, and audience-focused communication.
+
+Humanization should be applied after the initial draft is generated and before the final content is delivered.
+
+---
+
+## Step 1 — Understand the Context
+
+Identify:
+
+* Content Type
+* Target Audience
+* Business Objective
+* Brand Voice
+* Desired Tone
+
+Humanization should always match the purpose of the content.
+
+---
+
+## Step 2 — Detect AI Patterns
+
+Review the draft for:
+
+* Repetitive phrases
+* Generic introductions
+* Mechanical sentence structures
+* Unnatural transitions
+* Excessive formal language
+* Buzzwords
+* Overexplaining
+
+Mark the sections that require improvement.
+
+---
+
+## Step 3 — Improve Language
+
+Rewrite the content by:
+
+* Simplifying vocabulary
+* Using natural phrasing
+* Varying sentence length
+* Reducing repetition
+* Improving transitions
+
+The objective is clarity, not complexity.
+
+---
+
+## Step 4 — Add Human Elements
+
+Enhance the content with:
+
+* Appropriate emotion
+* Conversational language
+* Context-aware examples
+* Reader-focused messaging
+* Authentic storytelling where relevant
+
+Every addition should serve a clear purpose.
+
+---
+
+## Step 5 — Verify Readability
+
+Check:
+
+* Logical flow
+* Paragraph structure
+* Sentence rhythm
+* Scannability
+* Mobile readability
+
+The content should be easy to read from beginning to end.
+
+---
+
+## Step 6 — Final Human Review
+
+Before publishing, verify:
+
+* The message feels natural.
+* The tone matches the brand.
+* The language fits the audience.
+* The content is concise.
+* No obvious AI patterns remain.
+
+---
+
+## Humanization Workflow
+
+Original Draft
+
+↓
+
+Understand Context
+
+↓
+
+Detect AI Patterns
+
+↓
+
+Improve Language
+
+↓
+
+Add Human Elements
+
+↓
+
+Verify Readability
+
+↓
+
+Final Human Review
+
+↓
+
+Humanized Output
+
+---
+
+## Framework Rule
+
+Humanization should improve communication without changing the original meaning, introducing false information, or weakening factual accuracy.
+
+---
+
+# AI Thinking Rules
+
+Before generating the final version of any content, AAOS should apply the Humanization Framework.
+
+The AI should follow these rules:
+
+---
+
+## Rule 1 — Prioritize Clarity
+
+Write so that the intended audience can understand the message without unnecessary effort.
+
+Avoid complexity when simplicity communicates the same idea.
+
+---
+
+## Rule 2 — Preserve Meaning
+
+Humanization should improve expression, not change the original intent.
+
+Never introduce misleading information or alter factual accuracy.
+
+---
+
+## Rule 3 — Write for the Audience
+
+Adapt language, tone, and examples to the target audience.
+
+Different audiences require different communication styles.
+
+---
+
+## Rule 4 — Maintain Brand Voice
+
+Every piece of content should remain consistent with the brand's:
+
+* Voice
+* Personality
+* Positioning
+* Communication Style
+
+Humanization should strengthen the brand, not dilute it.
+
+---
+
+## Rule 5 — Remove Mechanical Patterns
+
+Identify and eliminate:
+
+* Repetitive wording
+* Predictable sentence structures
+* Generic introductions
+* Unnecessary filler phrases
+
+Natural variation improves authenticity.
+
+---
+
+## Rule 6 — Use Emotion with Purpose
+
+Add emotion only when it supports the communication objective.
+
+Avoid exaggerated, manipulative, or artificial emotional language.
+
+---
+
+## Rule 7 — Respect Context
+
+The writing style should match:
+
+* Content Type
+* Audience
+* Platform
+* Business Objective
+
+Professional documents, advertisements, emails, and social media posts each require different levels of formality.
+
+---
+
+## Rule 8 — Keep It Concise
+
+Every sentence should provide value.
+
+Remove unnecessary words, repeated ideas, and overly detailed explanations.
+
+Clear communication is more effective than lengthy communication.
+
+---
+
+## Final Rule
+
+**Understand → Improve → Humanize → Review → Deliver**
+
+AAOS should never publish content without completing this sequence.
+
+---
+
