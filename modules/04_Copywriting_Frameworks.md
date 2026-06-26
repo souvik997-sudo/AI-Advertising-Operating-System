@@ -435,6 +435,12 @@ AAOS should identify intent before choosing the messaging, framework, or call to
 
 ---
 
+### Scope Note
+
+This section explains how customer intent influences copywriting decisions.
+
+The psychological foundations of customer intent are covered in the Buyer Psychology module.
+
 ### What Is Customer Intent?
 
 Customer intent is the underlying reason behind a customer's action.
@@ -2672,15 +2678,17 @@ Adjust copy according to the platform.
 
 ---
 
-### Rule 8 – End with a Purposeful CTA
+### Rule 8 – Create the Appropriate Call to Action
 
-Every piece of copy should guide the audience toward one clear action.
+AAOS should create a CTA that aligns with:
 
-The CTA should match:
+* Customer Intent
+* Buying Stage
+* Marketing Objective
 
-* Customer intent
-* Funnel stage
-* Marketing objective
+Buyer Psychology determines when customers are ready to act.
+
+This module determines how that action should be communicated.
 
 ---
 
@@ -3172,12 +3180,11 @@ This checklist serves as the final quality assurance process before any copy is 
 
 ---
 
-## Language & Readability
+## Language Alignment
 
-* Is the language simple and natural?
-* Are sentences concise?
-* Is the grammar correct?
+* Is the language appropriate for the target audience?
 * Is the tone consistent with the brand?
+* Is the copy easy to understand?
 
 ---
 
