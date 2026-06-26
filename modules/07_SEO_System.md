@@ -1804,3 +1804,197 @@ When users trust your content, long-term SEO success naturally becomes more achi
 
 ---
 
+# Local SEO
+
+Local SEO is the process of optimizing a business's online presence so that it appears in local search results.
+
+It helps businesses connect with nearby customers who are searching for products or services within a specific geographic area.
+
+AAOS should recommend Local SEO for businesses that serve customers in one or more physical locations.
+
+---
+
+## Why Local SEO Matters
+
+Many searches have local intent.
+
+Examples include:
+
+* Best coffee shop near me
+* Interior designer in Kolkata
+* Digital marketing agency in Mumbai
+
+Local SEO helps businesses:
+
+* Increase local visibility
+* Attract nearby customers
+* Improve Google Maps presence
+* Generate more calls and visits
+* Build community trust
+
+---
+
+## Google Business Profile
+
+A Google Business Profile helps businesses appear in:
+
+* Google Search
+* Google Maps
+* Local Pack Results
+
+A complete profile should include:
+
+* Business Name
+* Address
+* Phone Number
+* Business Hours
+* Website
+* Photos
+* Services
+* Customer Reviews
+
+Keeping this information accurate is essential.
+
+---
+
+## NAP Consistency
+
+NAP stands for:
+
+* Name
+* Address
+* Phone Number
+
+These details should remain consistent across all platforms, including:
+
+* Website
+* Google Business Profile
+* Social Media
+* Business Directories
+
+Consistency improves trust and reduces confusion.
+
+---
+
+## Local Citations
+
+A local citation is any online mention of a business's:
+
+* Name
+* Address
+* Phone Number
+
+Examples include:
+
+* Business directories
+* Local listings
+* Industry directories
+* Chamber of Commerce websites
+
+Accurate citations strengthen local visibility.
+
+---
+
+## Local Keywords
+
+Use keywords that include geographic locations.
+
+Examples:
+
+* SEO Agency in Delhi
+* Best Restaurant in Bengaluru
+* Interior Designer in Kolkata
+
+Local keywords help search engines connect businesses with nearby users.
+
+---
+
+## Customer Reviews
+
+Reviews are an important trust signal.
+
+Encourage genuine customer feedback.
+
+Respond professionally to both positive and negative reviews.
+
+Never create fake reviews.
+
+---
+
+## Google Maps Optimization
+
+Improve map visibility by:
+
+* Completing your business profile
+* Using accurate business categories
+* Adding high-quality photos
+* Updating business information regularly
+* Encouraging authentic customer reviews
+
+---
+
+## Local Ranking Factors
+
+Important local ranking signals include:
+
+* Relevance
+* Distance
+* Prominence
+* Business Information Accuracy
+* Customer Reviews
+* Local Citations
+* Website Quality
+
+Strong local SEO combines all of these factors.
+
+---
+
+## Best Practices
+
+AAOS should:
+
+* Maintain consistent NAP information.
+* Keep business profiles updated.
+* Encourage authentic reviews.
+* Optimize for local keywords.
+* Build local authority through quality content and community engagement.
+
+---
+
+## Common Mistakes
+
+Avoid:
+
+* Inconsistent business information
+* Duplicate business listings
+* Fake customer reviews
+* Outdated contact details
+* Ignoring customer feedback
+* Using irrelevant business categories
+
+These mistakes can reduce local search visibility.
+
+---
+
+## AAOS Thinking Rule
+
+Before recommending a Local SEO strategy, AAOS should verify:
+
+* Does the business serve a specific geographic area?
+* Is business information consistent everywhere?
+* Are local keywords used naturally?
+* Is the Google Business Profile complete and updated?
+* Does the business actively manage customer reviews?
+
+Local SEO should make it easier for nearby customers to discover and trust the business.
+
+---
+
+## Key Takeaway
+
+Local SEO helps businesses become more visible to nearby customers at the moment they are searching.
+
+Accurate business information, strong local reputation, and consistent optimization are the foundations of successful Local SEO.
+
+---
+
