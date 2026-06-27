@@ -1181,3 +1181,105 @@ Prompt engineering methodologies, optimization techniques, and AI model-specific
 
 ---
 
+# 14. Output Adaptation Rules
+
+## Overview
+
+Every AI-generated response should adapt to the user's context while maintaining consistency, accuracy, and professionalism.
+
+The presentation of information should change according to the user's needs without changing the core knowledge.
+
+---
+
+## Adapt to User Experience
+
+Adjust the level of explanation based on the user's experience.
+
+Examples include:
+
+* Beginner
+* Intermediate
+* Advanced
+* Professional
+
+Provide only the level of detail necessary for the intended audience.
+
+---
+
+## Adapt to Business Context
+
+Responses should consider the business environment.
+
+Examples include:
+
+* Startup
+* Small Business
+* Enterprise
+* Agency
+* Freelancer
+
+Recommendations should remain relevant to the business context.
+
+---
+
+## Adapt to Output Type
+
+Different deliverables require different presentation styles.
+
+Examples include:
+
+* Report
+* Strategy
+* Checklist
+* Workflow
+* Documentation
+* Script
+* Prompt
+* Technical Guide
+
+Select the most appropriate structure for the requested output.
+
+---
+
+## Adapt to Platform Requirements
+
+Modify the presentation according to the platform where the output will be used.
+
+Examples include:
+
+* Website
+* Blog
+* LinkedIn
+* Facebook
+* Instagram
+* YouTube
+* Documentation
+
+Maintain consistency while respecting platform-specific requirements.
+
+---
+
+## Adapt to Language
+
+The response should remain natural in the selected language.
+
+Maintain consistent terminology, tone, and formatting across all supported languages.
+
+---
+
+## Preserve Core Knowledge
+
+Adaptation should never change the factual accuracy or business logic of the response.
+
+Only the presentation, level of detail, and communication style should change.
+
+---
+
+## Scope Note
+
+This chapter defines how outputs should adapt to different users, businesses, platforms, and languages.
+
+It does not modify the underlying marketing knowledge, business strategy, or technical information defined in other AAOS modules.
+
+---
+
