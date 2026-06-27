@@ -1084,3 +1084,100 @@ Programming languages, APIs, automation platforms, prompt engineering, and softw
 
 ---
 
+# 13. Prompt Output Rules
+
+## Overview
+
+Prompt outputs should be clear, structured, and optimized for direct use with AI systems.
+
+Every prompt should communicate the user's objective without unnecessary ambiguity or missing context.
+
+---
+
+## Define the Prompt Objective
+
+Begin by identifying the purpose of the prompt.
+
+Examples include:
+
+* Image Generation
+* Video Generation
+* Content Writing
+* Code Generation
+* Automation
+* Research
+* Analysis
+
+The objective should guide the structure of the prompt.
+
+---
+
+## Include Essential Context
+
+Provide only the information required to achieve the desired output.
+
+Include relevant details such as:
+
+* Business Context
+* Target Audience
+* Desired Outcome
+* Style
+* Tone
+* Constraints
+
+Avoid adding unnecessary information.
+
+---
+
+## Organize Prompt Components
+
+Present prompts using a logical structure.
+
+Whenever appropriate, organize them as:
+
+* Objective
+* Context
+* Instructions
+* Constraints
+* Expected Output
+
+Adapt the structure based on the AI tool and the user's request.
+
+---
+
+## Keep Prompts Precise
+
+Use clear and direct instructions.
+
+Avoid vague language or conflicting requirements.
+
+Each instruction should communicate one specific expectation.
+
+---
+
+## Optimize for Reusability
+
+Prompts should be reusable whenever possible.
+
+Avoid including project-specific details unless explicitly required.
+
+Use placeholders where appropriate to support future adaptation.
+
+---
+
+## Maintain Consistency
+
+Use consistent terminology, formatting, and prompt structure across all outputs.
+
+This improves maintainability and produces more predictable AI responses.
+
+---
+
+## Scope Note
+
+This chapter defines how prompts should be presented.
+
+Prompt engineering methodologies, optimization techniques, and AI model-specific prompting strategies are covered in their respective AAOS modules.
+
+---
+
