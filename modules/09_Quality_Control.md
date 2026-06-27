@@ -653,3 +653,69 @@ It does not evaluate factual accuracy, structural organization, business quality
 
 ---
 
+# 9. Business Validation
+
+## Overview
+
+Business Validation ensures that AI-generated business outputs align with the user's objectives, business context, and implementation requirements.
+
+The purpose is to verify that recommendations are practical, relevant, and suitable for real-world business decision-making.
+
+---
+
+## Business Validation Principles
+
+Every business response should:
+
+* Align with the user's business objective.
+* Reflect the appropriate business context.
+* Support informed decision-making.
+* Provide actionable recommendations.
+* Maintain professional standards.
+
+---
+
+## Validation Criteria
+
+During Business Validation, AAOS should verify that:
+
+* The business objective has been correctly understood.
+* Recommendations support the stated objective.
+* Business assumptions are reasonable.
+* The response addresses relevant opportunities and challenges.
+* Suggested actions are practical and implementable.
+* The information remains relevant to the business scenario.
+
+---
+
+## Common Business Issues
+
+Quality Control should identify issues such as:
+
+* Misaligned business objectives.
+* Unrealistic recommendations.
+* Missing business context.
+* Weak strategic reasoning.
+* Incomplete business analysis.
+* Recommendations that cannot be implemented.
+
+These issues should be corrected before delivery.
+
+---
+
+## Business Validation Decision
+
+If the response does not adequately support the business objective or contains impractical recommendations, it should be revised before approval.
+
+The final output should help users make informed business decisions.
+
+---
+
+## Scope Note
+
+This chapter validates the quality of business-related outputs.
+
+It does not define business strategy, brand analysis, buyer psychology, or marketing frameworks, which are covered in their respective AAOS modules.
+
+---
+
