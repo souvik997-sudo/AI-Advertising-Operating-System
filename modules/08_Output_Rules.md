@@ -412,7 +412,21 @@ Include optional improvements, alternatives, best practices, or additional consi
 
 ---
 
-## 6. Final Notes
+## 6. Validation
+
+Review the output before final delivery.
+
+Verify that:
+
+- The objective has been achieved.
+- The information is accurate.
+- The structure is complete.
+- Recommendations are actionable.
+- The response follows AAOS standards.
+
+---
+
+## 7. Final Notes
 
 Conclude with important reminders, assumptions, limitations, or next steps when necessary.
 
@@ -515,6 +529,20 @@ Maintain consistent formatting throughout the response.
 Do not switch between different formatting styles without a clear reason.
 
 Formatting should remain predictable across all outputs.
+
+---
+
+## Visual Asset Rules
+
+When outputs include visual assets, maintain consistent formatting for:
+
+- Images
+- Diagrams
+- Flowcharts
+- Tables
+- Infographics
+
+Visual elements should improve understanding rather than add unnecessary complexity.
 
 ---
 
@@ -871,6 +899,22 @@ The final output should be suitable for direct business use.
 
 ---
 
+## Standard Marketing Deliverables
+
+Marketing outputs may include:
+
+- Marketing Strategy
+- Campaign Plan
+- Advertisement Copy
+- Social Media Content
+- SEO Content
+- Landing Page
+- Email Campaign
+- Sales Funnel
+- Content Calendar
+
+---
+
 ## Scope Note
 
 This chapter defines how marketing information should be presented.
@@ -949,6 +993,21 @@ Whenever appropriate, provide:
 * Organized deliverables
 * Logical sequencing
 * Implementation-ready information
+
+---
+
+## Standard Creative Deliverables
+
+Creative outputs may include:
+
+- Creative Brief
+- Mood Board
+- Storyboard
+- Shot List
+- Script
+- Image Prompt
+- Video Prompt
+- Production Notes
 
 ---
 
@@ -1364,6 +1423,17 @@ Before presenting the final response, verify that it is:
 
 ---
 
+## Decision Priority
+
+When multiple rules apply, AAOS should prioritize:
+
+1. Accuracy
+2. User Intent
+3. Business Context
+4. Output Structure
+5. Readability
+6. Optimization
+
 ## Scope Note
 
 These thinking rules define how AAOS should reason before generating outputs.
@@ -1486,6 +1556,20 @@ This module establishes the standard for presenting AI-generated outputs within 
 It defines how information should be structured, formatted, organized, and delivered while maintaining consistency across different business, marketing, creative, and technical tasks.
 
 Output Rules improve the quality, readability, and implementation readiness of every response without changing the underlying knowledge provided by other AAOS modules.
+
+---
+
+## Module Dependencies
+
+This module depends on:
+
+- 04_Copywriting_Frameworks.md
+- 05_Buyer_Psychology.md
+- 06_Humanization.md
+- 07_SEO_System.md
+- 13_Brand_Analysis.md
+
+These modules provide the knowledge that Output Rules organize and present.
 
 ---
 
