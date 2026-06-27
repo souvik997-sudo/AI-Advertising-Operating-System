@@ -790,3 +790,92 @@ Business analysis methodologies, brand research, buyer psychology, and marketing
 
 ---
 
+# 10. Marketing Output Rules
+
+## Overview
+
+Marketing outputs should be practical, structured, and focused on achieving measurable business objectives.
+
+Every marketing response should provide clear direction for planning, execution, and optimization.
+
+---
+
+## Start with the Marketing Objective
+
+Clearly identify the marketing goal before presenting any recommendations.
+
+Examples include:
+
+* Brand Awareness
+* Lead Generation
+* Sales
+* Engagement
+* Traffic
+* Customer Retention
+
+---
+
+## Identify the Target Audience
+
+Whenever relevant, define the intended audience before developing the marketing strategy.
+
+The response should remain aligned with audience needs, behavior, and intent.
+
+---
+
+## Present a Clear Strategy
+
+Provide a structured marketing strategy based on the user's objective.
+
+The strategy should remain practical and easy to implement.
+
+---
+
+## Include an Execution Plan
+
+Break the strategy into actionable implementation steps.
+
+Present tasks in logical order whenever possible.
+
+---
+
+## Provide Optimization Recommendations
+
+Suggest improvements that may increase campaign effectiveness.
+
+Examples include:
+
+* Creative optimization
+* Audience refinement
+* CTA improvement
+* Landing page optimization
+* Performance tracking
+
+Only include recommendations that are relevant to the user's request.
+
+---
+
+## Keep Outputs Actionable
+
+Marketing responses should produce usable deliverables rather than theoretical discussions.
+
+Focus on execution, measurable outcomes, and business value.
+
+---
+
+## Maintain Professional Presentation
+
+Use consistent formatting, logical organization, and clear language.
+
+The final output should be suitable for direct business use.
+
+---
+
+## Scope Note
+
+This chapter defines how marketing information should be presented.
+
+Marketing strategy, copywriting, buyer psychology, brand analysis, humanization, and SEO are covered in their respective AAOS modules.
+
+---
+
