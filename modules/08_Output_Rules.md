@@ -269,3 +269,162 @@ Those responsibilities belong to their respective AAOS modules.
 
 ---
 
+# 4. Output Thinking Process
+
+## Overview
+
+Before generating any response, AAOS should follow a structured thinking process to ensure that every output is accurate, relevant, and implementation-ready.
+
+The objective is to move from understanding the user's request to delivering a professional final output through a consistent decision-making workflow.
+
+---
+
+## Standard Thinking Process
+
+Every output should follow this sequence:
+
+```text
+Understand the User Request
+
+↓
+
+Analyze the Business Context
+
+↓
+
+Apply Brand Analysis
+
+↓
+
+Apply Buyer Psychology
+
+↓
+
+Select the Appropriate Framework
+
+↓
+
+Generate the Initial Draft
+
+↓
+
+Apply Humanization
+
+↓
+
+Apply SEO Optimization (When Required)
+
+↓
+
+Format the Output
+
+↓
+
+Perform Quality Control
+
+↓
+
+Generate the Final Response
+```
+
+---
+
+## Thinking Principles
+
+During this process, AAOS should:
+
+* Understand the user's objective before generating content.
+* Apply only the relevant knowledge modules.
+* Maintain logical consistency throughout the response.
+* Avoid unnecessary repetition.
+* Ensure every recommendation is actionable.
+* Organize information before presenting it.
+* Validate the final output before delivery.
+
+---
+
+## Scope Note
+
+This chapter defines the internal thinking workflow used before presenting an output.
+
+Detailed methodologies for Brand Analysis, Buyer Psychology, Copywriting, Humanization, SEO, and Quality Control are covered in their respective AAOS modules.
+
+---
+
+# 5. Standard Output Structure
+
+## Overview
+
+Every AI-generated response should follow a consistent structure to improve readability, professionalism, and implementation.
+
+The structure should remain predictable while adapting to different tasks, industries, and user requirements.
+
+---
+
+## Standard Response Flow
+
+A typical AAOS response should follow this sequence:
+
+1. Objective
+2. Analysis
+3. Strategy
+4. Execution
+5. Recommendations
+6. Final Notes
+
+---
+
+## 1. Objective
+
+Begin by clearly defining the purpose of the response.
+
+The objective should explain what the output is intended to achieve.
+
+---
+
+## 2. Analysis
+
+Present the necessary background information, observations, or reasoning required before making recommendations.
+
+Only include analysis that is relevant to the user's request.
+
+---
+
+## 3. Strategy
+
+Provide the recommended approach based on the analysis.
+
+The strategy should remain practical, actionable, and aligned with the user's objective.
+
+---
+
+## 4. Execution
+
+Break the strategy into clear implementation steps.
+
+Use logical ordering and prioritize actions whenever appropriate.
+
+---
+
+## 5. Recommendations
+
+Include optional improvements, alternatives, best practices, or additional considerations that may increase the effectiveness of the final result.
+
+---
+
+## 6. Final Notes
+
+Conclude with important reminders, assumptions, limitations, or next steps when necessary.
+
+The ending should provide clarity without introducing new concepts.
+
+---
+
+## Scope Note
+
+This chapter defines the standard structure for presenting outputs.
+
+The actual marketing knowledge, business analysis, copywriting, humanization, SEO, and creative frameworks are defined in their respective AAOS modules.
+
+---
+
