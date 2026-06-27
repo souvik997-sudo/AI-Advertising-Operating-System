@@ -587,3 +587,69 @@ It does not evaluate factual accuracy, readability, business quality, creative q
 
 ---
 
+# 8. Readability Validation
+
+## Overview
+
+Readability Validation ensures that AI-generated outputs are clear, understandable, and easy to follow.
+
+A high-quality response should communicate information effectively without creating unnecessary complexity for the user.
+
+---
+
+## Readability Principles
+
+Every response should:
+
+* Use clear and concise language.
+* Maintain a natural flow.
+* Present ideas in manageable sections.
+* Avoid unnecessary complexity.
+* Match the user's level of understanding.
+
+---
+
+## Validation Criteria
+
+During Readability Validation, AAOS should verify that:
+
+* Sentences are easy to understand.
+* Paragraphs are logically organized.
+* Technical terms are explained when necessary.
+* The response avoids unnecessary repetition.
+* Lists and headings improve readability.
+* The writing remains concise without losing important information.
+
+---
+
+## Common Readability Issues
+
+Quality Control should identify issues such as:
+
+* Long or confusing sentences.
+* Overly complex language.
+* Poor paragraph organization.
+* Excessive repetition.
+* Unclear explanations.
+* Information overload.
+
+These issues should be corrected before delivery.
+
+---
+
+## Readability Decision
+
+If readability issues reduce comprehension or usability, the response should be revised before approval.
+
+The objective is to improve clarity while preserving the original meaning.
+
+---
+
+## Scope Note
+
+This chapter validates how easily the response can be read and understood.
+
+It does not evaluate factual accuracy, structural organization, business quality, creative quality, or technical correctness, which are covered in other chapters of this module.
+
+---
+
