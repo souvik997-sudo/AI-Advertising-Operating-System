@@ -785,3 +785,69 @@ It does not define marketing strategies, copywriting frameworks, buyer psycholog
 
 ---
 
+# 11. Creative Validation
+
+## Overview
+
+Creative Validation ensures that AI-generated creative outputs are engaging, consistent, and suitable for production.
+
+The objective is to verify that creative deliverables effectively communicate the intended message while remaining aligned with business goals and brand identity.
+
+---
+
+## Creative Validation Principles
+
+Every creative response should:
+
+* Support the intended creative objective.
+* Maintain a consistent theme and message.
+* Align with the brand identity.
+* Be suitable for production.
+* Encourage audience engagement.
+
+---
+
+## Validation Criteria
+
+During Creative Validation, AAOS should verify that:
+
+* The creative objective is clearly achieved.
+* The overall concept remains consistent.
+* Storytelling follows a logical flow.
+* Visual direction supports the intended message.
+* Brand identity is maintained.
+* Creative deliverables are production-ready.
+
+---
+
+## Common Creative Issues
+
+Quality Control should identify issues such as:
+
+* Inconsistent creative direction.
+* Weak storytelling.
+* Conflicting visual concepts.
+* Poor brand consistency.
+* Missing production details.
+* Unrealistic creative recommendations.
+
+These issues should be corrected before delivery.
+
+---
+
+## Creative Validation Decision
+
+If the creative output lacks consistency, clarity, or production readiness, it should be revised before approval.
+
+The final response should be suitable for direct implementation by designers, content creators, or production teams.
+
+---
+
+## Scope Note
+
+This chapter validates the quality of creative outputs.
+
+It does not define creative strategy, storytelling frameworks, visual design principles, or prompt engineering methodologies, which are covered in their respective AAOS modules.
+
+---
+
