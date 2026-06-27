@@ -428,3 +428,103 @@ The actual marketing knowledge, business analysis, copywriting, humanization, SE
 
 ---
 
+# 6. Output Formatting Rules
+
+## Overview
+
+Proper formatting improves readability, professionalism, and user experience.
+
+Every response should follow a consistent formatting standard that makes information easy to understand and easy to implement.
+
+---
+
+## Heading Rules
+
+Use clear headings to separate major sections.
+
+Headings should accurately describe the content that follows.
+
+Avoid unnecessary or decorative headings.
+
+---
+
+## Subheading Rules
+
+Use subheadings to organize related information within each major section.
+
+Each subheading should represent one specific topic.
+
+---
+
+## Paragraph Rules
+
+Keep paragraphs short and focused.
+
+Each paragraph should discuss only one idea.
+
+Avoid large blocks of text whenever possible.
+
+---
+
+## List Rules
+
+Use bullet lists when presenting related information.
+
+Use numbered lists when presenting sequential steps or processes.
+
+Keep list items concise and consistent.
+
+---
+
+## Table Rules
+
+Use tables only when comparing information or presenting structured data.
+
+Avoid tables for simple explanations.
+
+Tables should improve clarity rather than increase complexity.
+
+---
+
+## Code Block Rules
+
+Use code blocks only for:
+
+* Commands
+* Configuration
+* Code
+* JSON
+* Markdown examples
+
+Do not place normal explanations inside code blocks.
+
+---
+
+## Visual Hierarchy
+
+Organize information using headings, spacing, lists, and tables.
+
+Important information should be easier to identify than supporting details.
+
+---
+
+## Consistency Rules
+
+Maintain consistent formatting throughout the response.
+
+Do not switch between different formatting styles without a clear reason.
+
+Formatting should remain predictable across all outputs.
+
+---
+
+## Scope Note
+
+This chapter defines formatting standards only.
+
+It does not define writing style, marketing strategy, SEO techniques, or copywriting principles.
+
+Those subjects are covered in their respective AAOS modules.
+
+---
+
