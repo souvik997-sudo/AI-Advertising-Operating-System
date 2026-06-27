@@ -708,3 +708,85 @@ Those subjects are covered in their respective AAOS modules.
 
 ---
 
+# 9. Business Output Rules
+
+## Overview
+
+Business-related outputs should be structured, objective, and implementation-ready.
+
+The AI should present business information in a way that supports analysis, planning, decision-making, and execution.
+
+---
+
+## Business Objective First
+
+Begin every business response by identifying the primary objective.
+
+Clearly define the business problem, opportunity, or goal before providing analysis or recommendations.
+
+---
+
+## Present Relevant Analysis
+
+Include only the information that directly supports the user's objective.
+
+Avoid unnecessary background information that does not contribute to decision-making.
+
+---
+
+## Support Decisions with Reasoning
+
+Recommendations should always be supported by logical reasoning or business analysis.
+
+Do not present conclusions without explaining why they are appropriate.
+
+---
+
+## Provide Actionable Recommendations
+
+Business outputs should include practical recommendations that users can implement.
+
+Whenever possible, organize recommendations by priority.
+
+---
+
+## Maintain Professional Language
+
+Use clear, objective, and professional language suitable for business communication.
+
+Avoid emotional language, unsupported assumptions, or exaggerated claims.
+
+---
+
+## Organize Information Logically
+
+Business responses should generally follow this structure:
+
+* Business Objective
+* Current Situation
+* Analysis
+* Opportunities
+* Challenges
+* Recommendations
+* Next Steps
+
+Adapt this structure when necessary based on the user's request.
+
+---
+
+## Keep Information Relevant
+
+Focus only on information that helps achieve the business objective.
+
+Exclude unrelated topics that do not improve the quality of the response.
+
+---
+
+## Scope Note
+
+This chapter defines how business information should be presented.
+
+Business analysis methodologies, brand research, buyer psychology, and marketing strategy are covered in their respective AAOS modules.
+
+---
+
