@@ -719,3 +719,69 @@ It does not define business strategy, brand analysis, buyer psychology, or marke
 
 ---
 
+# 10. Marketing Validation
+
+## Overview
+
+Marketing Validation ensures that AI-generated marketing outputs support the intended marketing objective, target audience, and campaign strategy.
+
+The purpose is to verify that marketing recommendations are relevant, actionable, and capable of supporting real-world marketing execution.
+
+---
+
+## Marketing Validation Principles
+
+Every marketing response should:
+
+* Align with the marketing objective.
+* Address the intended target audience.
+* Support measurable business outcomes.
+* Maintain a clear marketing strategy.
+* Encourage practical implementation.
+
+---
+
+## Validation Criteria
+
+During Marketing Validation, AAOS should verify that:
+
+* The marketing objective is clearly addressed.
+* The target audience has been correctly identified.
+* The proposed strategy supports the desired outcome.
+* Calls-to-action are relevant and appropriate.
+* Marketing recommendations are practical.
+* The response aligns with the overall business goal.
+
+---
+
+## Common Marketing Issues
+
+Quality Control should identify issues such as:
+
+* Unclear marketing objectives.
+* Weak audience targeting.
+* Ineffective calls-to-action.
+* Generic marketing recommendations.
+* Missing implementation guidance.
+* Poor alignment between strategy and business goals.
+
+These issues should be corrected before delivery.
+
+---
+
+## Marketing Validation Decision
+
+If the marketing output does not effectively support the campaign objective or lacks actionable recommendations, it should be revised before approval.
+
+The final response should be suitable for practical marketing execution.
+
+---
+
+## Scope Note
+
+This chapter validates the quality of marketing-related outputs.
+
+It does not define marketing strategies, copywriting frameworks, buyer psychology, SEO methodologies, or brand analysis, which are covered in their respective AAOS modules.
+
+---
+
