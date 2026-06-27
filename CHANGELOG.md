@@ -25,8 +25,7 @@ All notable changes to this project will be documented in this file.
 
 Core Foundation v1.0 Architecture Locked
 
-Core foundation finalized. Future modules will build on this architecture.
-
+The Core Foundation has been finalized. Future modules will build upon this architecture.
 ---
 
 ## [v1.3.0] - SEO System Module
