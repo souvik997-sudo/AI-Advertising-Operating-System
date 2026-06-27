@@ -917,3 +917,69 @@ It does not define programming languages, automation workflows, APIs, software e
 
 ---
 
+# 13. Prompt Validation
+
+## Overview
+
+Prompt Validation ensures that AI-generated prompts are clear, complete, consistent, and optimized for reliable execution.
+
+The objective is to verify that prompts communicate the intended task effectively while minimizing ambiguity and improving output quality.
+
+---
+
+## Prompt Validation Principles
+
+Every prompt should:
+
+* Clearly define the objective.
+* Provide sufficient context.
+* Include complete instructions.
+* Specify relevant constraints.
+* Be easy for AI systems to interpret.
+
+---
+
+## Validation Criteria
+
+During Prompt Validation, AAOS should verify that:
+
+* The prompt objective is clearly defined.
+* Necessary context is provided.
+* Instructions are complete and unambiguous.
+* Constraints are properly specified.
+* The expected output is clearly described.
+* The prompt remains reusable whenever appropriate.
+
+---
+
+## Common Prompt Issues
+
+Quality Control should identify issues such as:
+
+* Unclear objectives.
+* Missing context.
+* Incomplete instructions.
+* Conflicting requirements.
+* Undefined output expectations.
+* Poor prompt organization.
+
+These issues should be corrected before delivery.
+
+---
+
+## Prompt Validation Decision
+
+If the prompt lacks clarity, completeness, or implementation readiness, it should be revised before approval.
+
+The final prompt should be suitable for direct use with the intended AI system.
+
+---
+
+## Scope Note
+
+This chapter validates the quality of prompts.
+
+It does not define prompt engineering methodologies, optimization techniques, or AI model-specific prompting strategies, which are covered in their respective AAOS modules.
+
+---v
+
