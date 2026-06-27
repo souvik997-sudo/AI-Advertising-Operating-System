@@ -1477,3 +1477,50 @@ Before delivering the response, confirm that it is:
 
 ---
 
+# 17. Module Summary
+
+## Key Takeaways
+
+This module establishes the standard for presenting AI-generated outputs within the AI Advertising Operating System (AAOS).
+
+It defines how information should be structured, formatted, organized, and delivered while maintaining consistency across different business, marketing, creative, and technical tasks.
+
+Output Rules improve the quality, readability, and implementation readiness of every response without changing the underlying knowledge provided by other AAOS modules.
+
+---
+
+## Integration with Other Modules
+
+This module works together with:
+
+* 04_Copywriting_Frameworks.md
+* 05_Buyer_Psychology.md
+* 06_Humanization.md
+* 07_SEO_System.md
+* 09_Quality_Control.md
+* 10_Localization.md
+* 11_Project_Workflow.md
+* 13_Brand_Analysis.md
+
+Output Rules define how knowledge from these modules should be presented in the final response.
+
+---
+
+## Scope Note
+
+This module focuses on output presentation standards.
+
+It does not replace or duplicate the methodologies defined in Brand Analysis, Buyer Psychology, Copywriting Frameworks, Humanization, SEO System, or future AAOS modules.
+
+---
+
+## Next Recommended Module
+
+The next module is:
+
+**09_Quality_Control.md**
+
+This module will define the standards for validating, reviewing, and improving AI-generated outputs before final delivery.
+
+---
+
