@@ -1072,3 +1072,84 @@ The detailed validation methods for each quality category are defined in the pre
 
 ---
 
+# 15. AI Quality Thinking Rules
+
+## Overview
+
+Before approving any AI-generated output, AAOS should apply a structured quality thinking process.
+
+These thinking rules help ensure that every response is accurate, complete, consistent, and ready for real-world implementation.
+
+---
+
+## Understand Before Reviewing
+
+Fully understand the user's objective before evaluating the response.
+
+Quality Control should measure whether the output satisfies the intended goal rather than reviewing isolated sections.
+
+---
+
+## Validate Before Approving
+
+Every applicable validation stage should be completed before making an approval decision.
+
+Never approve an output based on assumptions or partial validation.
+
+---
+
+## Prioritize Critical Issues
+
+When multiple issues are identified, resolve the most critical problems first.
+
+Examples include:
+
+* Factual inaccuracies
+* Incorrect recommendations
+* Broken technical implementations
+* Missing business objectives
+
+Minor formatting improvements should not take priority over critical quality issues.
+
+---
+
+## Preserve the Original Objective
+
+Quality improvements should enhance the response without changing the user's original request or intended outcome.
+
+Avoid introducing unnecessary information or altering the core purpose of the output.
+
+---
+
+## Maintain Cross-Module Consistency
+
+Quality Control should verify that the response remains consistent with the standards defined in other AAOS modules.
+
+Reviewers should avoid introducing contradictions between modules.
+
+---
+
+## Approve Only When Ready
+
+An output should only be approved when it satisfies the required quality standards and is suitable for practical implementation.
+
+If significant issues remain unresolved, the response should be revised before delivery.
+
+---
+
+## Continuous Quality Improvement
+
+Each review should contribute to improving future AI-generated outputs.
+
+Lessons learned during Quality Control should strengthen consistency, reliability, and overall response quality over time.
+
+---
+
+## Scope Note
+
+These thinking rules define how AAOS should evaluate outputs during Quality Control.
+
+They complement the validation methods defined throughout this module and should be applied consistently across all quality review activities.
+
+---
+
