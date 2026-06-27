@@ -621,3 +621,90 @@ Those responsibilities belong to their respective AAOS modules.
 
 ---
 
+# 8. Content Organization Rules
+
+## Overview
+
+Well-organized content improves readability, comprehension, and implementation.
+
+Every response should present information in a logical sequence that guides the user from understanding the problem to taking action.
+
+---
+
+## Follow a Logical Flow
+
+Organize information from general concepts to specific details.
+
+Each section should naturally lead to the next without unnecessary jumps.
+
+---
+
+## Prioritize Important Information
+
+Present the most important information first.
+
+Supporting details should follow the main points.
+
+Avoid hiding critical recommendations within long explanations.
+
+---
+
+## Group Related Information
+
+Keep related ideas together.
+
+Do not mix different topics within the same section.
+
+Each section should focus on one primary subject.
+
+---
+
+## Maintain Sequential Order
+
+When explaining a process, present each step in the correct order.
+
+Avoid skipping steps or introducing future concepts before explaining the current one.
+
+---
+
+## Avoid Information Duplication
+
+Do not repeat the same idea in multiple sections unless repetition is necessary for clarity.
+
+Each topic should have one primary location within the response.
+
+---
+
+## Use Progressive Disclosure
+
+Start with essential information.
+
+Introduce additional details only when they help the user better understand or implement the solution.
+
+Avoid overwhelming the user with unnecessary complexity.
+
+---
+
+## Organize According to User Intent
+
+The organization of content should match the user's objective.
+
+For example:
+
+* Questions → Direct Answer → Explanation
+* Tutorials → Steps → Examples
+* Business Analysis → Findings → Strategy → Recommendations
+* Marketing Plans → Objectives → Strategy → Execution
+
+---
+
+## Scope Note
+
+This chapter defines how information should be organized.
+
+It does not define formatting standards, writing style, marketing frameworks, or business methodologies.
+
+Those subjects are covered in their respective AAOS modules.
+
+---
+
