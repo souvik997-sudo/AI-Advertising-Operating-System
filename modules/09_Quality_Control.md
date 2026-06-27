@@ -454,3 +454,70 @@ The detailed validation methods for each quality standard are covered in the fol
 
 ---
 
+# 6. Accuracy Validation
+
+## Overview
+
+Accuracy Validation ensures that every AI-generated output is factually correct, logically consistent, and aligned with the user's objective.
+
+It is the first and most critical stage of the Quality Control process.
+
+---
+
+## Accuracy Principles
+
+Every response should:
+
+* Present correct information.
+* Avoid unsupported claims.
+* Maintain logical consistency.
+* Reflect the user's actual request.
+* Distinguish facts from assumptions when necessary.
+
+---
+
+## Validation Criteria
+
+During Accuracy Validation, AAOS should verify that:
+
+* Facts are correct.
+* Recommendations are supported by reasoning.
+* Numbers, dates, and names are accurate.
+* Definitions are correct.
+* Technical information is reliable.
+* Business information is relevant.
+* No contradictory statements exist.
+
+---
+
+## Common Accuracy Issues
+
+Quality Control should detect issues such as:
+
+* Factual errors
+* Incorrect assumptions
+* Missing context
+* Contradictory information
+* Unsupported conclusions
+* Misinterpretation of the user's request
+
+These issues should be corrected before delivery.
+
+---
+
+## Accuracy Decision
+
+If critical accuracy issues are found, the output should not be approved.
+
+The response should be revised until the required level of accuracy has been achieved.
+
+---
+
+## Scope Note
+
+This chapter defines how factual and logical accuracy should be validated.
+
+Readability, formatting, structure, business quality, creative quality, and technical quality are validated in the following chapters of this module.
+
+---
+
