@@ -879,3 +879,208 @@ Marketing strategy, copywriting, buyer psychology, brand analysis, humanization,
 
 ---
 
+# 11. Creative Output Rules
+
+## Overview
+
+Creative outputs should be structured, visually organized, and production-ready.
+
+Every creative response should clearly communicate ideas while remaining practical for designers, video editors, content creators, and AI generation tools.
+
+---
+
+## Define the Creative Objective
+
+Begin every creative output by identifying the primary objective.
+
+Examples include:
+
+* Brand Awareness
+* Product Promotion
+* Storytelling
+* Social Media Engagement
+* Advertisement
+* Product Launch
+
+The objective should guide the entire creative response.
+
+---
+
+## Maintain Creative Consistency
+
+Ensure consistency across all creative elements.
+
+Maintain alignment in:
+
+* Theme
+* Message
+* Tone
+* Visual Direction
+* Brand Identity
+
+Avoid conflicting creative ideas within the same output.
+
+---
+
+## Organize Creative Deliverables
+
+Present creative information in a logical order.
+
+Depending on the task, outputs may include:
+
+* Creative Brief
+* Concept
+* Story Structure
+* Scene Breakdown
+* Visual Direction
+* Production Notes
+
+Only include sections relevant to the user's request.
+
+---
+
+## Support Production Readiness
+
+Creative outputs should be immediately usable by production teams.
+
+Whenever appropriate, provide:
+
+* Clear instructions
+* Organized deliverables
+* Logical sequencing
+* Implementation-ready information
+
+---
+
+## Adapt to Different Creative Tasks
+
+Adjust the output according to the requested creative format.
+
+Examples include:
+
+* Video Script
+* UGC Script
+* CGI Advertisement
+* Storytelling
+* Image Prompt
+* Video Prompt
+* Creative Brief
+
+Maintain a consistent presentation standard across all formats.
+
+---
+
+## Professional Presentation
+
+Present creative outputs using clear headings, structured sections, and consistent formatting.
+
+Avoid unnecessary repetition or unstructured brainstorming.
+
+---
+
+## Scope Note
+
+This chapter defines how creative information should be presented.
+
+Creative strategy, storytelling techniques, prompt engineering, and advertising frameworks are covered in their respective AAOS modules.
+
+---
+
+# 12. Technical Output Rules
+
+## Overview
+
+Technical outputs should be accurate, structured, and implementation-ready.
+
+Every technical response should present information clearly while minimizing ambiguity and reducing implementation errors.
+
+---
+
+## Define the Technical Objective
+
+Begin by identifying the purpose of the technical response.
+
+Examples include:
+
+* Automation
+* API Integration
+* Workflow Design
+* Troubleshooting
+* Code Generation
+* Documentation
+
+The objective should guide the entire response.
+
+---
+
+## Present Technical Information Logically
+
+Organize technical information in a logical sequence.
+
+Whenever appropriate, follow this structure:
+
+* Objective
+* Requirements
+* Configuration
+* Implementation
+* Verification
+* Troubleshooting
+
+Adapt the structure based on the user's request.
+
+---
+
+## Use Proper Formatting
+
+Present technical content using appropriate formatting.
+
+Examples include:
+
+* Code Blocks
+* JSON Blocks
+* Markdown
+* Tables
+* Command Line Examples
+
+Avoid mixing explanations with code whenever possible.
+
+---
+
+## Provide Step-by-Step Instructions
+
+Break implementation into clear and sequential steps.
+
+Each step should be easy to understand and independently executable.
+
+Avoid skipping important implementation details.
+
+---
+
+## Maintain Technical Accuracy
+
+Technical responses should prioritize correctness over brevity.
+
+Do not assume configuration values, API parameters, or implementation details without sufficient information.
+
+When assumptions are necessary, clearly state them.
+
+---
+
+## Keep Outputs Implementation-Ready
+
+The final response should be ready for practical use.
+
+Whenever possible, provide complete examples rather than partial snippets.
+
+Avoid unnecessary theoretical discussions unless specifically requested.
+
+---
+
+## Scope Note
+
+This chapter defines how technical information should be presented.
+
+Programming languages, APIs, automation platforms, prompt engineering, and software-specific knowledge are covered in their respective AAOS modules.
+
+---
+
