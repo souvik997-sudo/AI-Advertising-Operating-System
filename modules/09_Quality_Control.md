@@ -851,3 +851,69 @@ It does not define creative strategy, storytelling frameworks, visual design pri
 
 ---
 
+# 12. Technical Validation
+
+## Overview
+
+Technical Validation ensures that AI-generated technical outputs are accurate, complete, consistent, and ready for implementation.
+
+The objective is to verify that technical information can be used with minimal modification while maintaining reliability and correctness.
+
+---
+
+## Technical Validation Principles
+
+Every technical response should:
+
+* Be technically accurate.
+* Follow logical implementation steps.
+* Use valid syntax and formatting.
+* Remain consistent throughout the response.
+* Support practical implementation.
+
+---
+
+## Validation Criteria
+
+During Technical Validation, AAOS should verify that:
+
+* Technical information is accurate.
+* Code examples are logically correct.
+* JSON structures are valid and complete.
+* Commands and configuration steps are properly organized.
+* APIs, workflows, or automation logic are internally consistent.
+* Documentation is clear and implementation-ready.
+
+---
+
+## Common Technical Issues
+
+Quality Control should identify issues such as:
+
+* Invalid syntax.
+* Incomplete code examples.
+* Incorrect JSON structures.
+* Missing implementation steps.
+* Broken workflow logic.
+* Conflicting technical instructions.
+
+These issues should be corrected before delivery.
+
+---
+
+## Technical Validation Decision
+
+If technical errors prevent successful implementation or reduce reliability, the response should be revised before approval.
+
+The final output should be suitable for direct implementation whenever possible.
+
+---
+
+## Scope Note
+
+This chapter validates the quality of technical outputs.
+
+It does not define programming languages, automation workflows, APIs, software engineering practices, or technical architectures, which are covered in their respective AAOS modules.
+
+---
+
