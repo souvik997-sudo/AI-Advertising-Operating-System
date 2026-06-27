@@ -478,6 +478,14 @@ AAOS should always identify search intent before creating or optimizing content.
 
 ---
 
+## Scope Note
+
+This section explains how search intent influences SEO strategy and content optimization.
+
+The psychological motivations behind customer intent and buying behavior are covered in the Buyer Psychology module.
+
+--- 
+
 ## Why Search Intent Matters
 
 Two users may search using similar keywords but expect completely different results.
@@ -2058,6 +2066,14 @@ Humanization improves both user experience and long-term SEO performance.
 
 ---
 
+## Scope Note
+
+This section explains why humanization improves SEO performance.
+
+Detailed techniques for making AI-generated content natural and human-like are covered in the Humanization module.
+
+---
+
 ## AI Search
 
 AI-powered search systems generate answers by understanding context rather than simply matching keywords.
@@ -2733,3 +2749,13 @@ Output Rules ensure that every AI-generated response follows a consistent struct
 
 ---
 
+## Integration With Other Modules
+
+This module complements:
+
+* 13_Brand_Analysis.md
+* 05_Buyer_Psychology.md
+* 04_Copywriting_Frameworks.md
+* 06_Humanization.md
+
+SEO improves discoverability without changing the underlying brand strategy, customer psychology, copywriting principles, or human communication style.
