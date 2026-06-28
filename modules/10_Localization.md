@@ -364,3 +364,84 @@ The detailed methods for language adaptation, cultural adaptation, regional adap
 
 ---
 
+# 5. Localization Principles
+
+## Overview
+
+Localization Principles define the fundamental standards that every localized output should follow.
+
+These principles ensure that AI-generated content remains accurate, culturally appropriate, audience-focused, and consistent across different languages, regions, and business environments.
+
+---
+
+## Core Localization Principles
+
+Every localized output should:
+
+- Preserve the original objective.
+- Maintain the original meaning.
+- Adapt to the target audience.
+- Respect cultural differences.
+- Reflect regional communication styles.
+- Maintain brand consistency.
+- Use appropriate business terminology.
+- Remain implementation-ready.
+
+---
+
+## Localization Expectations
+
+A high-quality localized output should:
+
+- Feel natural to the target audience.
+- Use language appropriate for the region.
+- Preserve the intent of the original content.
+- Respect cultural norms and expectations.
+- Maintain consistency across all localized versions.
+- Support practical business communication.
+
+---
+
+## Localization Evaluation Criteria
+
+During localization, AAOS should verify that:
+
+- The target audience has been correctly identified.
+- Language matches the intended audience.
+- Cultural references are appropriate.
+- Regional terminology is accurate.
+- Business communication remains professional.
+- The localized content supports the original objective.
+
+---
+
+## Minimum Acceptance Standard
+
+A localized output should not be approved if it:
+
+- Changes the original meaning.
+- Uses inappropriate cultural references.
+- Contains incorrect regional terminology.
+- Conflicts with brand identity.
+- Reduces communication clarity.
+
+Such issues should be corrected before delivery.
+
+---
+
+## Continuous Localization Improvement
+
+Localization is an ongoing improvement process.
+
+Each localization should contribute to building more accurate, culturally appropriate, and consistent AI-generated outputs for future projects.
+
+---
+
+## Scope Note
+
+This chapter defines the core principles used throughout the Localization module.
+
+The practical adaptation methods for language, culture, regional communication, business content, technical documentation, and prompts are covered in the following chapters.
+
+---
+
