@@ -1305,3 +1305,121 @@ They complement the localization methods defined throughout this module and shou
 
 ---
 
+# 16. Localization Checklist
+
+## Overview
+
+The Localization Checklist provides a standardized review process for evaluating localized AI-generated outputs before final delivery.
+
+Its purpose is to ensure that every localized response consistently meets AAOS localization standards.
+
+---
+
+## Objective Validation
+
+Verify that:
+
+- The user's objective has been correctly understood.
+- The original purpose has been preserved.
+- The localized output aligns with the intended audience.
+
+---
+
+## Language Validation
+
+Verify that:
+
+- The target language is correctly applied.
+- Grammar and sentence structure are natural.
+- Vocabulary matches the intended audience.
+- The localized content reads fluently.
+
+---
+
+## Cultural Validation
+
+Verify that:
+
+- Cultural references are appropriate.
+- Communication respects local customs.
+- Symbols, examples, and expressions are culturally relevant.
+- No culturally insensitive content is present.
+
+---
+
+## Regional Validation
+
+Verify that:
+
+- Regional terminology is correct.
+- Currency, date, and time formats are appropriate.
+- Measurement units follow local standards.
+- Regional communication preferences are respected.
+
+---
+
+## Domain Localization Validation
+
+Verify that applicable localization categories have been reviewed.
+
+Examples include:
+
+- Business Localization
+- Marketing Localization
+- Creative Localization
+- Technical Localization
+- Prompt Localization
+
+Only the relevant localization types should be applied.
+
+---
+
+## Consistency Validation
+
+Verify that:
+
+- Brand terminology remains consistent.
+- The original message has been preserved.
+- Communication style is appropriate.
+- The localized output aligns with other AAOS modules.
+
+---
+
+## Implementation Validation
+
+Verify that:
+
+- The localized output is ready for practical use.
+- Instructions remain complete.
+- Technical accuracy has been preserved where applicable.
+- No important information has been lost during localization.
+
+---
+
+## Final Approval Checklist
+
+Before approving the localized output, confirm that it is:
+
+- Accurate
+- Natural
+- Culturally appropriate
+- Regionally relevant
+- Audience-focused
+- Consistent
+- Professional
+- Implementation-ready
+
+---
+
+## Approval Decision
+
+The final outcome should be one of the following:
+
+- Approved
+- Approved with Minor Improvements
+- Revision Required
+
+Only approved localized outputs should be delivered.
+
+---
+
