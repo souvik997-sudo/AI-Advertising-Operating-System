@@ -910,3 +910,128 @@ The implementation details for Copywriting, Humanization, SEO, Output Rules, Qua
 
 ---
 
+# 10. Review & Validation Workflow
+
+## Overview
+
+Review & Validation Workflow defines the standardized process for evaluating AI-generated marketing assets before final delivery.
+
+Its objective is to ensure that every deliverable satisfies project requirements, follows AAOS standards, and is ready for practical implementation.
+
+---
+
+## Review Objectives
+
+Before approving any marketing asset, AAOS should:
+
+- Verify project objectives.
+- Validate content quality.
+- Confirm workflow completion.
+- Ensure brand consistency.
+- Check implementation readiness.
+- Approve deliverables for delivery.
+
+---
+
+## Standard Review Workflow
+
+Every project should follow this sequence:
+
+Completed Marketing Asset
+
+↓
+
+Requirement Verification
+
+↓
+
+Strategy Alignment Review
+
+↓
+
+Output Rules Validation
+
+↓
+
+Quality Control Validation
+
+↓
+
+Localization Verification (when applicable)
+
+↓
+
+Final Approval Review
+
+↓
+
+Approved Deliverable
+
+↓
+
+Proceed to Delivery
+
+---
+
+## Validation Responsibilities
+
+During review, AAOS should:
+
+- Confirm that all required workflow stages have been completed.
+- Verify that project objectives have been achieved.
+- Ensure consistency across all deliverables.
+- Validate implementation readiness.
+- Resolve outstanding issues before approval.
+
+---
+
+## Validation Quality Standards
+
+Every approved deliverable should be:
+
+- Accurate
+- Complete
+- Consistent
+- Professional
+- Audience-appropriate
+- Implementation-ready
+
+Only validated outputs should proceed to delivery.
+
+---
+
+## Common Review Issues
+
+AAOS should identify issues such as:
+
+- Incomplete deliverables.
+- Strategy misalignment.
+- Quality issues.
+- Output formatting problems.
+- Brand inconsistencies.
+- Unresolved validation findings.
+
+These issues should be corrected before approval.
+
+---
+
+## Review Decision
+
+Every deliverable should receive one of the following outcomes:
+
+- Approved
+- Approved with Minor Revisions
+- Revision Required
+
+Only approved deliverables should proceed to the Delivery Workflow.
+
+---
+
+## Scope Note
+
+This chapter defines the execution workflow for reviewing and validating project deliverables.
+
+The validation methodologies themselves are defined in Output Rules, Quality Control, and Localization modules.
+
+---
+
