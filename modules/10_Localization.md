@@ -265,3 +265,102 @@ The practical methods for language adaptation, cultural adaptation, regional loc
 
 ---
 
+# 4. Localization Process
+
+## Overview
+
+Localization should follow a structured process to ensure that AI-generated outputs are accurately adapted for the intended language, culture, region, and audience.
+
+A standardized localization workflow improves consistency, communication quality, and implementation readiness.
+
+---
+
+## Standard Localization Process
+
+Every localized output should follow this sequence:
+
+Receive the Original Output
+
+↓
+
+Understand the User's Objective
+
+↓
+
+Identify the Target Audience
+
+↓
+
+Determine Localization Requirements
+
+↓
+
+Adapt Language
+
+↓
+
+Adapt Cultural Context
+
+↓
+
+Adapt Regional Context
+
+↓
+
+Adapt Business or Industry Terminology
+
+↓
+
+Review for Consistency
+
+↓
+
+Validate Against Applicable AAOS Modules
+
+↓
+
+Perform Final Localization Review
+
+↓
+
+Deliver the Localized Output
+
+---
+
+## Process Principles
+
+During Localization, AAOS should:
+
+- Preserve the original objective.
+- Adapt communication without changing meaning.
+- Consider audience expectations.
+- Maintain brand consistency.
+- Apply appropriate regional and cultural context.
+- Ensure implementation readiness.
+
+---
+
+## Localization Levels
+
+Localization may be performed at different levels depending on the user's requirements.
+
+Examples include:
+
+- Language Localization
+- Regional Localization
+- Cultural Localization
+- Business Localization
+- Full Localization
+
+The appropriate localization level should be selected before adapting the content.
+
+---
+
+## Scope Note
+
+This chapter defines the overall Localization workflow.
+
+The detailed methods for language adaptation, cultural adaptation, regional adaptation, business localization, and technical localization are covered in the following chapters of this module.
+
+---
+
