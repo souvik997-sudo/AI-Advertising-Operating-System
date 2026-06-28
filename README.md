@@ -65,7 +65,7 @@ Active development continues on advanced modules and framework extensions.
 
 ## 📦 Current Version
 
-**AAOS v1.7.0**
+**AAOS v1.8.0**
 
 Core Foundation Completed
 
@@ -73,7 +73,9 @@ Output & Validation Layers Completed
 
 Execution Layer Completed
 
-Framework Expansion (Input Engine) In Progress
+Input Layer Completed
+
+Framework Expansion (Script Framework) In Progress
 
 ---
 
@@ -284,7 +286,7 @@ The AAOS knowledge base is organized into modular learning units.
 | 09. Quality Control        | ✅ v1.0   | Output validation, review, and quality assurance framework              |
 | 10. Localization           | ✅ v1.0   | Multi-language and regional adaptation               |
 | 11. Project Workflow       | ✅ v1.0   | Standardized end-to-end marketing project execution workflow                |
-| 12. Input Engine           | ⏳ Planned   | Input processing and requirement gathering           |
+| 12. Input Engine           | ✅ v1.0   | Input processing and requirement gathering           |
 | 13. Brand Analysis         | ✅ v1.0  | Brand research and positioning                       |
 | 14. Script Framework       | 🚧 Planned  | Advertising and video script generation              |
 | 15. SEO Framework          | ⏳ Planned   | Advanced SEO implementation                          |
@@ -330,7 +332,7 @@ Adaptation Layer
 Execution Layer
         │
         ▼
-Input Layer (In Development)
+Input Layer (Completed)
         │
         ▼
 AI Operating System Layer (Planned)
@@ -350,7 +352,7 @@ AAOS follows Semantic Versioning.
 
 Current Stable Release:
 
-**AAOS v1.7.0**
+**AAOS v1.8.0**
 
 ---
 
@@ -366,9 +368,10 @@ Completed Modules:
 - 09. Quality Control
 - 10. Localization
 - 11. Project Workflow
+- 12. Input Engine
 - 13. Brand Analysis
 
-Framework Expansion continues with Input Engine.
+Framework Expansion continues with Script Framework.
 
 Current Completion Status:
 
@@ -377,7 +380,8 @@ Current Completion Status:
 - Validation Layer ✅
 - Adaptation Layer ✅
 - Execution Layer ✅
-- Framework Expansion (Input Engine) 🔄
+- Input Layer ✅
+- Framework Expansion (Script Framework) 🔄
 
 ---
 

@@ -53,14 +53,13 @@ Core Foundation Architecture Locked
 
 Framework Expansion continues with:
 
-* Project Workflow
-* Input Engine
+* Script Framework
 
 ---
 
 These modules transform the core knowledge into a standardized operating framework.
 
-These modules prepare AAOS for scalable content generation and automation workflows.
+These modules establish the standardized framework that prepares AAOS for scalable content generation and automation workflows.
 
 ### Progress
 
@@ -69,14 +68,16 @@ Completed
 - Output Rules
 - Quality Control
 - Localization
+- Project Workflow
+- Input Engine
 
 In Progress
 
-- Project Workflow
+- Script Framework
 
 Next Milestone:
 
-- 11_Project_Workflow.md
+- 14_Script_Framework.md
 
 ---
 
