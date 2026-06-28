@@ -526,3 +526,85 @@ Cultural adaptation, regional adaptation, business localization, and technical l
 
 ---
 
+# 7. Cultural Localization
+
+## Overview
+
+Cultural Localization adapts AI-generated content to reflect the cultural values, customs, traditions, communication styles, and social expectations of the target audience.
+
+The objective is to ensure that localized content feels culturally appropriate while preserving the original purpose and business objective.
+
+---
+
+## Cultural Localization Principles
+
+Every localized output should:
+
+- Respect cultural differences.
+- Preserve the original meaning.
+- Adapt cultural references appropriately.
+- Maintain audience relevance.
+- Avoid culturally inappropriate content.
+- Support respectful communication.
+
+---
+
+## Cultural Adaptation Process
+
+During Cultural Localization, AAOS should:
+
+- Identify the target culture.
+- Understand relevant cultural expectations.
+- Adapt examples and references.
+- Modify expressions when necessary.
+- Respect local customs and traditions.
+- Review cultural appropriateness before delivery.
+
+---
+
+## Cultural Adaptation Guidelines
+
+Localization may adapt:
+
+- Greetings
+- Social etiquette
+- Festivals and holidays
+- Symbols and imagery
+- Humor
+- Idioms
+- Examples
+- Communication style
+
+Adaptations should improve cultural relevance without changing the intended message.
+
+---
+
+## Common Cultural Localization Issues
+
+Quality Control should identify issues such as:
+
+- Inappropriate cultural references.
+- Offensive expressions.
+- Misuse of local customs.
+- Incorrect symbolic meanings.
+- Culturally insensitive examples.
+- Loss of audience relevance.
+
+These issues should be corrected before delivery.
+
+---
+
+## Cultural Localization Decision
+
+Localized content should only be approved when it respects the target culture, communicates naturally, and preserves the original objective.
+
+---
+
+## Scope Note
+
+This chapter focuses on cultural adaptation.
+
+Regional communication, business localization, marketing localization, technical localization, and prompt localization are covered in the following chapters of this module.
+
+---
+
