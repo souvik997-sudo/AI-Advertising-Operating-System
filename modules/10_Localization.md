@@ -1018,3 +1018,85 @@ Prompt localization is covered in the following chapter of this module.
 
 ---
 
+# 13. Prompt Localization
+
+## Overview
+
+Prompt Localization adapts AI prompts to match the language, communication style, cultural context, regional expectations, and AI environment of the intended users.
+
+The objective is to ensure that prompts remain clear, effective, reusable, and capable of producing consistent outputs across different AI models and localization scenarios.
+
+---
+
+## Prompt Localization Principles
+
+Every localized prompt should:
+
+- Preserve the original objective.
+- Maintain instruction clarity.
+- Adapt communication for the target audience.
+- Respect language and cultural context.
+- Remain AI-friendly.
+- Support consistent output generation.
+
+---
+
+## Prompt Localization Process
+
+During Prompt Localization, AAOS should:
+
+- Identify the target language.
+- Understand the intended AI environment.
+- Adapt prompt instructions appropriately.
+- Adjust contextual information when necessary.
+- Preserve expected outputs.
+- Verify prompt effectiveness before delivery.
+
+---
+
+## Prompt Localization Guidelines
+
+Localization may adapt:
+
+- Prompt language
+- Instruction wording
+- Context descriptions
+- Examples
+- Output expectations
+- Formatting conventions
+- Communication style
+- AI model-specific considerations
+
+Adaptations should improve prompt usability without changing the original objective.
+
+---
+
+## Common Prompt Localization Issues
+
+Quality Control should identify issues such as:
+
+- Ambiguous instructions.
+- Missing localization context.
+- Inconsistent prompt terminology.
+- Unclear output expectations.
+- AI model incompatibility.
+- Loss of the original prompt objective.
+
+These issues should be corrected before delivery.
+
+---
+
+## Prompt Localization Decision
+
+A localized prompt should only be approved when it is clear, contextually appropriate, reusable, and capable of producing reliable outputs for the intended AI environment.
+
+---
+
+## Scope Note
+
+This chapter focuses on adapting prompts for different languages, regions, cultures, and AI environments.
+
+The overall localization workflow and AI localization thinking process are covered in the following chapters of this module.
+
+---
+
