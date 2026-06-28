@@ -232,3 +232,196 @@ The practical execution stages, lifecycle, workflows, and decision-making proces
 
 ---
 
+# 4. Workflow Principles
+
+## Overview
+
+Workflow Principles establish the fundamental standards that govern how every project should be executed within the AI Advertising Operating System (AAOS).
+
+These principles ensure that project execution remains structured, consistent, scalable, and aligned with business objectives.
+
+---
+
+## Core Workflow Principles
+
+Every project should:
+
+- Begin with a clear understanding of the project objective.
+- Follow a logical and standardized execution sequence.
+- Apply only the relevant AAOS modules.
+- Base decisions on verified information.
+- Maintain consistency throughout the workflow.
+- Preserve implementation readiness at every stage.
+
+---
+
+## Execution Expectations
+
+A professional workflow should:
+
+- Produce predictable outcomes.
+- Minimize unnecessary work.
+- Support efficient collaboration.
+- Reduce execution errors.
+- Improve decision quality.
+- Deliver consistent marketing assets.
+
+---
+
+## Decision-Making Principles
+
+During project execution, AAOS should:
+
+- Understand the project before taking action.
+- Select the appropriate workflow based on project requirements.
+- Avoid unnecessary execution steps.
+- Apply validation throughout the workflow.
+- Maintain alignment with the original business objective.
+
+---
+
+## Workflow Quality Standards
+
+A workflow should be considered successful when it is:
+
+- Logical
+- Repeatable
+- Efficient
+- Scalable
+- Consistent
+- Implementation-ready
+
+---
+
+## Continuous Workflow Improvement
+
+Project Workflow should evolve through continuous learning and refinement.
+
+Each completed project should strengthen future workflow efficiency, decision-making, and execution quality.
+
+---
+
+## Scope Note
+
+This chapter defines the core principles of project execution.
+
+The practical workflow stages, project lifecycle, requirement analysis, research process, strategy selection, production, validation, and delivery are covered in the following chapters of this module.
+
+---
+
+# 5. Project Lifecycle
+
+## Overview
+
+The Project Lifecycle defines the complete sequence of stages that every marketing project should follow within the AI Advertising Operating System (AAOS).
+
+It provides a standardized execution model that transforms project requirements into validated, implementation-ready marketing deliverables.
+
+---
+
+## Standard Project Lifecycle
+
+Every project should progress through the following stages:
+
+Project Request
+
+↓
+
+Requirement Analysis
+
+↓
+
+Business Research
+
+↓
+
+Strategy Planning
+
+↓
+
+Content Production
+
+↓
+
+Output Standardization
+
+↓
+
+Quality Validation
+
+↓
+
+Localization (when applicable)
+
+↓
+
+Final Review
+
+↓
+
+Project Delivery
+
+↓
+
+Continuous Improvement
+
+---
+
+## Lifecycle Objectives
+
+The Project Lifecycle aims to:
+
+- Organize project execution.
+- Improve decision quality.
+- Reduce execution errors.
+- Maintain workflow consistency.
+- Support scalable project management.
+- Deliver implementation-ready outputs.
+
+---
+
+## Lifecycle Characteristics
+
+A professional project lifecycle should be:
+
+- Structured
+- Repeatable
+- Flexible
+- Scalable
+- Quality-driven
+- Objective-oriented
+
+Each stage should prepare the necessary inputs for the following stage.
+
+---
+
+## Stage Responsibilities
+
+Every lifecycle stage has a defined responsibility.
+
+No stage should replace the purpose of another.
+
+AAOS should complete each stage before progressing to the next unless the project scope explicitly allows otherwise.
+
+---
+
+## Lifecycle Validation
+
+Throughout the lifecycle, AAOS should:
+
+- Validate assumptions.
+- Preserve the original objective.
+- Maintain cross-module consistency.
+- Review outputs before moving forward.
+- Ensure implementation readiness.
+
+---
+
+## Scope Note
+
+This chapter defines the overall lifecycle of a marketing project.
+
+The detailed implementation of each stage is explained in the following chapters of this module.
+
+---
+
