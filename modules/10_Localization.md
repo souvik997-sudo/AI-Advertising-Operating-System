@@ -772,3 +772,85 @@ Marketing localization, creative localization, technical localization, and promp
 
 ---
 
+# 10. Marketing Localization
+
+## Overview
+
+Marketing Localization adapts AI-generated marketing content to the communication preferences, buying behavior, market conditions, and customer expectations of the target audience.
+
+The objective is to ensure that marketing messages remain persuasive, relevant, and effective across different languages, cultures, and regional markets while preserving the original campaign objective.
+
+---
+
+## Marketing Localization Principles
+
+Every localized marketing output should:
+
+- Preserve the original marketing objective.
+- Reflect local customer behavior.
+- Adapt communication for the target market.
+- Maintain brand consistency.
+- Support audience engagement.
+- Encourage practical marketing execution.
+
+---
+
+## Marketing Localization Process
+
+During Marketing Localization, AAOS should:
+
+- Identify the target market.
+- Understand the target audience.
+- Adapt marketing communication.
+- Adjust calls-to-action when appropriate.
+- Consider local buying behavior.
+- Review marketing effectiveness before delivery.
+
+---
+
+## Marketing Localization Guidelines
+
+Localization may adapt:
+
+- Headlines
+- Calls-to-action
+- Marketing messages
+- Promotional language
+- Campaign examples
+- Customer communication
+- Offers and value propositions
+- Social media communication style
+
+Adaptations should improve marketing effectiveness without changing the original campaign objective.
+
+---
+
+## Common Marketing Localization Issues
+
+Quality Control should identify issues such as:
+
+- Generic marketing messages.
+- Weak audience relevance.
+- Ineffective calls-to-action.
+- Inappropriate promotional language.
+- Poor market alignment.
+- Inconsistent brand messaging.
+
+These issues should be corrected before delivery.
+
+---
+
+## Marketing Localization Decision
+
+Localized marketing content should only be approved when it is relevant to the target audience, supports the campaign objective, and remains consistent with the overall brand strategy.
+
+---
+
+## Scope Note
+
+This chapter focuses on adapting marketing communication for different markets.
+
+Creative localization, technical localization, and prompt localization are covered in the following chapters of this module.
+
+---
+
