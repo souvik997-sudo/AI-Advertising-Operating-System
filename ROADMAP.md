@@ -53,7 +53,6 @@ Core Foundation Architecture Locked
 
 Framework Expansion continues with:
 
-* Localization
 * Project Workflow
 * Input Engine
 
@@ -65,18 +64,19 @@ These modules prepare AAOS for scalable content generation and automation workfl
 
 ### Progress
 
-Completed:
+Completed
 
 - Output Rules
 - Quality Control
-
-In Progress:
-
 - Localization
+
+In Progress
+
+- Project Workflow
 
 Next Milestone:
 
-- Localization Module (v1.0)
+- 11_Project_Workflow.md
 
 ---
 

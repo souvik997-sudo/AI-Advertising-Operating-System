@@ -2,6 +2,37 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v1.6.0] - Localization Module
+
+### Added
+
+* Localization module completed
+* Introduction
+* Purpose of Localization
+* Localization Philosophy
+* Localization Process
+* Localization Principles
+* Language Localization
+* Cultural Localization
+* Regional Adaptation
+* Business Localization
+* Marketing Localization
+* Creative Localization
+* Technical Localization
+* Prompt Localization
+* Localization Workflow
+* AI Localization Thinking Rules
+* Localization Checklist
+* Module Summary
+
+### Status
+
+Localization Module v1.0 Completed
+
+Framework Expansion Continues.
+
+---
+
 ## [v1.5.0] - Quality Control Module
 
 ### Added
