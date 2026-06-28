@@ -1218,3 +1218,90 @@ The detailed implementation methods for each localization type are defined in th
 
 ---
 
+# 15. AI Localization Thinking Rules
+
+## Overview
+
+Before adapting any AI-generated output, AAOS should apply a structured localization thinking process.
+
+These thinking rules help ensure that localized content remains accurate, culturally appropriate, audience-focused, and consistent with the original objective.
+
+---
+
+## Understand Before Adapting
+
+Fully understand the user's objective, target audience, language, region, and business context before applying localization.
+
+Localization should be based on communication needs rather than assumptions.
+
+---
+
+## Preserve the Original Objective
+
+Every localization decision should preserve the original purpose, intent, and business objective of the content.
+
+Adapt communication without changing the underlying message.
+
+---
+
+## Apply Only Necessary Localization
+
+Not every output requires every type of localization.
+
+Determine whether language, cultural, regional, business, marketing, creative, technical, or prompt localization is required before making adaptations.
+
+Avoid unnecessary localization that does not improve communication.
+
+---
+
+## Prioritize Audience Relevance
+
+Localization decisions should improve communication for the intended audience.
+
+Language, terminology, examples, and communication style should feel natural and familiar to the target users.
+
+---
+
+## Maintain Cross-Module Consistency
+
+Localization should remain consistent with the standards defined in other AAOS modules.
+
+Adapted outputs should not conflict with Brand Analysis, Buyer Psychology, Copywriting Frameworks, Humanization, SEO System, Output Rules, or Quality Control.
+
+---
+
+## Preserve Brand Consistency
+
+Localization should adapt communication while maintaining consistent brand identity, messaging, terminology, and professional standards across all localized outputs.
+
+---
+
+## Review Before Delivery
+
+Every localized output should be reviewed for:
+
+- Language accuracy
+- Cultural appropriateness
+- Regional relevance
+- Business suitability
+- Communication clarity
+- Overall consistency
+
+Only approved localized outputs should be delivered.
+
+---
+
+## Continuous Localization Improvement
+
+Each localization project should improve future localization quality by strengthening consistency, adaptability, and communication effectiveness across different languages and markets.
+
+---
+
+## Scope Note
+
+These thinking rules define how AAOS should make localization decisions.
+
+They complement the localization methods defined throughout this module and should be applied consistently across all localization activities.
+
+---
+
