@@ -854,3 +854,85 @@ Creative localization, technical localization, and prompt localization are cover
 
 ---
 
+# 11. Creative Localization
+
+## Overview
+
+Creative Localization adapts AI-generated creative content to match the visual preferences, storytelling styles, emotional expectations, and cultural characteristics of the target audience.
+
+The objective is to ensure that creative assets remain engaging, culturally appropriate, and aligned with the original creative vision.
+
+---
+
+## Creative Localization Principles
+
+Every localized creative output should:
+
+- Preserve the original creative objective.
+- Maintain brand identity.
+- Respect cultural expectations.
+- Adapt emotional communication.
+- Support audience engagement.
+- Remain suitable for production.
+
+---
+
+## Creative Localization Process
+
+During Creative Localization, AAOS should:
+
+- Identify the target audience.
+- Understand cultural and creative expectations.
+- Adapt storytelling elements.
+- Adjust visual communication where necessary.
+- Preserve the intended emotional impact.
+- Review creative consistency before delivery.
+
+---
+
+## Creative Localization Guidelines
+
+Localization may adapt:
+
+- Storytelling style
+- Characters
+- Visual references
+- Symbols
+- Colors
+- Emotional tone
+- Cultural examples
+- Creative communication style
+
+Adaptations should improve audience connection without changing the original creative objective.
+
+---
+
+## Common Creative Localization Issues
+
+Quality Control should identify issues such as:
+
+- Culturally inappropriate visuals.
+- Weak emotional connection.
+- Inconsistent creative direction.
+- Conflicting visual symbolism.
+- Poor audience relevance.
+- Loss of brand consistency.
+
+These issues should be corrected before delivery.
+
+---
+
+## Creative Localization Decision
+
+Localized creative content should only be approved when it feels natural to the target audience, preserves the intended creative vision, and remains consistent with the overall brand identity.
+
+---
+
+## Scope Note
+
+This chapter focuses on adapting creative communication for different audiences and cultures.
+
+Technical localization and prompt localization are covered in the following chapters of this module.
+
+---
+
