@@ -690,3 +690,85 @@ Business localization, marketing localization, technical localization, and promp
 
 ---
 
+# 9. Business Localization
+
+## Overview
+
+Business Localization adapts AI-generated business content to the professional standards, industry practices, market expectations, and communication styles of the target business environment.
+
+The objective is to ensure that business communication remains relevant, practical, and appropriate for the intended market while preserving the original business objective.
+
+---
+
+## Business Localization Principles
+
+Every localized business output should:
+
+- Preserve the original business objective.
+- Reflect local business practices.
+- Use industry-appropriate terminology.
+- Maintain professional communication.
+- Respect regional business expectations.
+- Support practical implementation.
+
+---
+
+## Business Localization Process
+
+During Business Localization, AAOS should:
+
+- Identify the target market.
+- Understand the business environment.
+- Adapt industry terminology.
+- Adjust professional communication style.
+- Consider regional business expectations.
+- Verify business relevance before delivery.
+
+---
+
+## Business Localization Guidelines
+
+Localization may adapt:
+
+- Business terminology
+- Industry-specific language
+- Professional tone
+- Market-specific references
+- Business etiquette
+- Communication style
+- Commercial examples
+- Customer expectations
+
+Adaptations should improve business relevance without changing the original objective.
+
+---
+
+## Common Business Localization Issues
+
+Quality Control should identify issues such as:
+
+- Incorrect industry terminology.
+- Unprofessional communication.
+- Unrealistic business recommendations.
+- Market-inappropriate examples.
+- Misaligned business expectations.
+- Inconsistent commercial language.
+
+These issues should be corrected before delivery.
+
+---
+
+## Business Localization Decision
+
+Localized business content should only be approved when it aligns with the target market, supports professional communication, and preserves the original business objective.
+
+---
+
+## Scope Note
+
+This chapter focuses on adapting business communication for different markets and industries.
+
+Marketing localization, creative localization, technical localization, and prompt localization are covered in the following chapters of this module.
+
+---
+
