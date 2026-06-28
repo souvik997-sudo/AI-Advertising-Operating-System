@@ -1100,3 +1100,121 @@ The overall localization workflow and AI localization thinking process are cover
 
 ---
 
+# 14. Localization Workflow
+
+## Overview
+
+The Localization Workflow defines the standardized process for adapting AI-generated outputs to different languages, cultures, regions, business environments, and technical contexts.
+
+Its objective is to ensure that localization remains consistent, efficient, and aligned with the original communication objective.
+
+---
+
+## Standard Localization Workflow
+
+Every localization task should follow this sequence:
+
+Receive the Original Output
+
+↓
+
+Understand the User's Objective
+
+↓
+
+Identify the Target Audience
+
+↓
+
+Identify Localization Requirements
+
+↓
+
+Determine Applicable Localization Types
+
+↓
+
+Apply Language Localization
+
+↓
+
+Apply Cultural Localization
+
+↓
+
+Apply Regional Adaptation
+
+↓
+
+Apply Domain-Specific Localization
+
+(Business / Marketing / Creative / Technical / Prompt)
+
+↓
+
+Review Localization Consistency
+
+↓
+
+Validate Against Applicable AAOS Standards
+
+↓
+
+Approve the Localized Output
+
+↓
+
+Deliver the Final Localized Output
+
+---
+
+## Workflow Principles
+
+The Localization Workflow should:
+
+- Preserve the original objective.
+- Apply only the necessary localization types.
+- Maintain consistency throughout the process.
+- Adapt communication without altering meaning.
+- Support implementation-ready outputs.
+
+---
+
+## Workflow Flexibility
+
+Not every localization task requires every localization type.
+
+AAOS should determine the appropriate localization scope based on:
+
+- User requirements
+- Target audience
+- Target language
+- Target region
+- Business context
+- Content type
+
+Only the applicable localization stages should be performed.
+
+---
+
+## Workflow Outcome
+
+A successful Localization Workflow should produce content that is:
+
+- Linguistically natural
+- Culturally appropriate
+- Regionally relevant
+- Business-ready
+- Technically accurate
+- Consistent with AAOS standards
+
+---
+
+## Scope Note
+
+This chapter defines the overall Localization Workflow.
+
+The detailed implementation methods for each localization type are defined in the previous chapters of this module.
+
+---
+
