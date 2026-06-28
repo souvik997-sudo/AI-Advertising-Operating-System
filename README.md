@@ -1,5 +1,7 @@
 # 🚀 AI Advertising Operating System
 
+![Version](https://img.shields.io/badge/version-v1.7.0-blue) ![Status](https://img.shields.io/badge/status-active-success) ![License](https://img.shields.io/badge/license-MIT-green) ![Documentation](https://img.shields.io/badge/docs-modular-orange)
+
 > Build Professional Marketing Assets with AI
 
 ---
@@ -20,6 +22,7 @@ This project focuses on building an end-to-end advertising workflow that combine
 - Advertising Scripts
 - Prompt Engineering
 - Quality Control
+- Project Workflow
 
 AAOS is designed as a modular knowledge system where each module builds upon the previous one, enabling consistent AI-assisted marketing workflows across different business domains.
 
@@ -48,7 +51,7 @@ The objective is to create a reusable AI Operating System that allows anyone to 
 
 **Souvik**
 
-AI Marketing & Automation
+AI Marketing • Automation • Documentation Architecture
 
 ---
 
@@ -57,17 +60,20 @@ AI Marketing & Automation
 Core Foundation (v1.0) completed and architecture locked.
 
 Active development continues on advanced modules and framework extensions.
+
 ---
 
 ## 📦 Current Version
 
-**AAOS v1.6.0**
+**AAOS v1.7.0**
 
 Core Foundation Completed
 
 Output & Validation Layers Completed
 
-Framework Expansion In Progress
+Execution Layer Completed
+
+Framework Expansion (Input Engine) In Progress
 
 ---
 
@@ -81,12 +87,14 @@ Framework Expansion In Progress
 - Advertisement Script Framework
 - Prompt Engineering Library
 - Marketing Workflow Engine
+- Standardized Project Execution Workflow
 - Brand Analysis Framework
 - Localization Support
 - Quality Control & Validation System
 - Multi-language Ready
 - AI Model Agnostic
 - Modular Documentation
+- Layered System Architecture
 
 ---
 
@@ -142,6 +150,7 @@ AI-Advertising-Operating-System/
 - Marketing Strategy
 - SEO
 - Copywriting
+- Modular Knowledge Engineering
 
 ---
 
@@ -220,50 +229,41 @@ Recommended learning sequence:
 9. 08_Output_Rules
 10. 09_Quality_Control
 11. 10_Localization
+12. 11_Project_Workflow
 
-Continue with the remaining modules as they are released.
+> **Note:** Some modules are intentionally studied out of numerical order because they build conceptually on earlier topics.
 
 ---
 
+The following high-level workflow summarizes the standard project execution process within AAOS.
+
 ## Recommended Workflow
 
-Research
-
-↓
-
-Understand the Business
-
-↓
-
-Analyze the Brand
-
-↓
-
-Study Buyer Psychology
-
-↓
-
-Select the Appropriate Framework
-
-↓
-
-Generate Marketing Assets
-
-↓
-
-Apply Output Rules
-
-↓
-
-Perform Quality Control
-
-↓
-
-Apply Localization
-
-↓
-
-Deliver Final Marketing Asset
+Project Request
+        ↓
+Requirement Analysis
+        ↓
+Business Research
+        ↓
+Brand Analysis
+        ↓
+Buyer Psychology
+        ↓
+Strategy Selection
+        ↓
+Content Production
+        ↓
+Output Rules
+        ↓
+Quality Control
+        ↓
+Localization
+        ↓
+Final Review
+        ↓
+Final Marketing Asset
+        ↓
+Continuous Improvement
 
 ---
 
@@ -283,7 +283,7 @@ The AAOS knowledge base is organized into modular learning units.
 | 08. Output Rules           | ✅ v1.0   | Output structure, formatting, presentation, and response standards                 |
 | 09. Quality Control        | ✅ v1.0   | Output validation, review, and quality assurance framework              |
 | 10. Localization           | ✅ v1.0   | Multi-language and regional adaptation               |
-| 11. Project Workflow       | ⏳ Planned   | End-to-end project execution workflow                |
+| 11. Project Workflow       | ✅ v1.0   | Standardized end-to-end marketing project execution workflow                |
 | 12. Input Engine           | ⏳ Planned   | Input processing and requirement gathering           |
 | 13. Brand Analysis         | ✅ v1.0  | Brand research and positioning                       |
 | 14. Script Framework       | 🚧 Planned  | Advertising and video script generation              |
@@ -297,7 +297,64 @@ The AAOS knowledge base is organized into modular learning units.
 
 ---
 
-### Current Progress
+# 📖 Documentation
+
+The AAOS documentation is organized into independent modules.
+
+Each module focuses on a specific area of the marketing workflow while integrating with the overall AAOS architecture.
+
+Users are encouraged to study the modules sequentially to fully understand the framework and its execution model.
+
+---
+
+# 🏗 AAOS Architecture
+
+The AI Advertising Operating System is organized into multiple architectural layers.
+
+```text
+Foundation Layer
+        │
+        ▼
+Knowledge Layer
+        │
+        ▼
+Output Layer
+        │
+        ▼
+Validation Layer
+        │
+        ▼
+Adaptation Layer
+        │
+        ▼
+Execution Layer
+        │
+        ▼
+Input Layer (In Development)
+        │
+        ▼
+AI Operating System Layer (Planned)
+```
+
+Each layer builds upon the previous one while maintaining clear responsibilities and minimal overlap between modules.
+
+---
+
+# 🔖 Versioning
+
+AAOS follows Semantic Versioning.
+
+- Major versions introduce architectural changes.
+- Minor versions introduce new framework modules.
+- Patch versions improve existing modules, documentation, or architecture consistency.
+
+Current Stable Release:
+
+**AAOS v1.7.0**
+
+---
+
+# 📊 Current Progress
 
 Completed Modules:
 
@@ -307,58 +364,53 @@ Completed Modules:
 - 07. SEO System
 - 08. Output Rules
 - 09. Quality Control
-- 13. Brand Analysis
 - 10. Localization
+- 11. Project Workflow
+- 13. Brand Analysis
 
-Framework Expansion continues with Project Workflow and Input Engine.
+Framework Expansion continues with Input Engine.
 
 Current Completion Status:
 
 - Core Knowledge Layer ✅
 - Output Layer ✅
 - Validation Layer ✅
-- Framework Expansion 🔄
+- Adaptation Layer ✅
+- Execution Layer ✅
+- Framework Expansion (Input Engine) 🔄
 
 ---
 
+The following detailed workflow illustrates the complete internal execution sequence used throughout the AAOS project lifecycle.
+
 # 🔄 Development Workflow
 
+Project Request
+        ↓
+Requirement Analysis
+        ↓
 Business Research
         ↓
 Brand Analysis
         ↓
 Buyer Psychology
         ↓
-Customer Intent Analysis
-        ↓
-Framework Selection
+Strategy Selection
         ↓
 Copywriting
         ↓
 Humanization
         ↓
 SEO Optimization
-
-↓
-
+        ↓
 Output Rules
-
-↓
-
+        ↓
 Quality Control
-
-↓
-
+        ↓
 Localization
-
-↓
-
+        ↓
 Final Review
-
-↓
-
+        ↓
 Final Marketing Asset
-
-↓
-
+        ↓
 Continuous Improvement
