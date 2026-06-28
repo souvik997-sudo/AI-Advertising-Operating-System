@@ -936,3 +936,85 @@ Technical localization and prompt localization are covered in the following chap
 
 ---
 
+# 12. Technical Localization
+
+## Overview
+
+Technical Localization adapts AI-generated technical content to match the language, terminology, documentation standards, and implementation expectations of the target technical audience.
+
+The objective is to ensure that technical information remains accurate, understandable, and implementation-ready across different languages and regions.
+
+---
+
+## Technical Localization Principles
+
+Every localized technical output should:
+
+- Preserve technical accuracy.
+- Maintain implementation consistency.
+- Use appropriate technical terminology.
+- Follow regional documentation standards.
+- Remain easy to understand.
+- Support practical implementation.
+
+---
+
+## Technical Localization Process
+
+During Technical Localization, AAOS should:
+
+- Identify the target technical audience.
+- Understand the required technical environment.
+- Adapt technical terminology.
+- Localize documentation where appropriate.
+- Preserve technical accuracy.
+- Verify implementation readiness before delivery.
+
+---
+
+## Technical Localization Guidelines
+
+Localization may adapt:
+
+- Technical documentation
+- API documentation
+- Code comments
+- Configuration instructions
+- JSON examples
+- Technical terminology
+- CLI examples
+- Automation documentation
+
+Adaptations should improve technical clarity without changing the implementation logic.
+
+---
+
+## Common Technical Localization Issues
+
+Quality Control should identify issues such as:
+
+- Incorrect technical terminology.
+- Loss of implementation accuracy.
+- Inconsistent documentation.
+- Invalid localized examples.
+- Confusing technical explanations.
+- Broken implementation instructions.
+
+These issues should be corrected before delivery.
+
+---
+
+## Technical Localization Decision
+
+Localized technical content should only be approved when it remains technically accurate, easy to understand, and ready for implementation by the intended audience.
+
+---
+
+## Scope Note
+
+This chapter focuses on adapting technical communication and documentation.
+
+Prompt localization is covered in the following chapter of this module.
+
+---
+
