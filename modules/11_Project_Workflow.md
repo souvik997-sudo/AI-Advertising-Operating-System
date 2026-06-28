@@ -662,3 +662,127 @@ The research methodologies themselves are defined in the relevant AAOS modules, 
 
 ---
 
+# 8. Strategy Selection
+
+## Overview
+
+Strategy Selection defines the standardized decision-making process for choosing the most appropriate marketing approach after completing project research.
+
+Its objective is to transform validated research into an actionable execution strategy that aligns with the client's objectives and business requirements.
+
+---
+
+## Strategy Selection Objectives
+
+Before content production begins, AAOS should:
+
+- Define the overall marketing strategy.
+- Select the appropriate AAOS frameworks.
+- Determine the required workflow modules.
+- Establish project priorities.
+- Prepare an execution plan.
+- Align all decisions with the project objective.
+
+---
+
+## Strategy Selection Process
+
+Every project should follow this sequence:
+
+Review Research Findings
+
+↓
+
+Identify Business Objectives
+
+↓
+
+Define Marketing Goals
+
+↓
+
+Select Applicable AAOS Modules
+
+↓
+
+Choose Marketing Frameworks
+
+↓
+
+Develop Execution Strategy
+
+↓
+
+Validate Strategy
+
+↓
+
+Approve Execution Plan
+
+↓
+
+Proceed to Content Production
+
+---
+
+## Strategy Selection Criteria
+
+Strategy decisions should consider:
+
+- Business objectives
+- Brand positioning
+- Target audience
+- Buyer psychology
+- Market conditions
+- Project scope
+- Available resources
+- Expected deliverables
+
+Only the strategies relevant to the project should be selected.
+
+---
+
+## Strategy Quality Standards
+
+Every selected strategy should be:
+
+- Research-driven
+- Objective-oriented
+- Practical
+- Scalable
+- Consistent
+- Implementation-ready
+
+Strategy decisions should remain aligned with the findings collected during the Research Workflow.
+
+---
+
+## Common Strategy Selection Issues
+
+AAOS should identify issues such as:
+
+- Research not reflected in strategy.
+- Misaligned business objectives.
+- Incorrect framework selection.
+- Overly complex execution plans.
+- Unsupported assumptions.
+- Inconsistent strategic decisions.
+
+These issues should be resolved before moving to the production stage.
+
+---
+
+## Strategy Selection Decision
+
+Content Production should begin only after the execution strategy has been validated, approved, and aligned with the overall project objectives.
+
+---
+
+## Scope Note
+
+This chapter defines how execution strategies are selected within the Project Workflow.
+
+The individual marketing frameworks, research methodologies, and content generation techniques are defined in their respective AAOS modules.
+
+---
+
