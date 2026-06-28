@@ -538,3 +538,127 @@ Business Research, Strategy Selection, Content Production, and Validation are co
 
 ---
 
+# 7. Research Workflow
+
+## Overview
+
+Research Workflow defines the standardized process for collecting, analyzing, and validating the information required before strategy selection and content production.
+
+Its objective is to ensure that every marketing decision is based on verified business knowledge rather than assumptions.
+
+---
+
+## Research Objectives
+
+Before developing any marketing assets, AAOS should:
+
+- Understand the business.
+- Analyze the brand.
+- Study the target audience.
+- Understand the competitive landscape.
+- Identify market opportunities.
+- Validate collected information.
+
+---
+
+## Standard Research Workflow
+
+Every project should follow this sequence:
+
+Business Research
+
+↓
+
+Brand Analysis
+
+↓
+
+Market Research
+
+↓
+
+Competitor Research
+
+↓
+
+Target Audience Research
+
+↓
+
+Buyer Psychology Analysis
+
+↓
+
+Research Validation
+
+↓
+
+Research Summary
+
+↓
+
+Proceed to Strategy Selection
+
+---
+
+## Research Categories
+
+Depending on the project, research may include:
+
+- Business Research
+- Brand Research
+- Market Research
+- Competitor Research
+- Customer Research
+- Industry Research
+- Product or Service Research
+- Audience Behavior Research
+
+Only the research relevant to the project should be performed.
+
+---
+
+## Research Quality Standards
+
+Research should be:
+
+- Relevant
+- Accurate
+- Objective
+- Up-to-date
+- Actionable
+- Aligned with project objectives
+
+Research findings should be verified before they are used for strategic decisions.
+
+---
+
+## Common Research Issues
+
+AAOS should identify issues such as:
+
+- Missing business information.
+- Outdated market data.
+- Unsupported assumptions.
+- Incomplete audience understanding.
+- Weak competitor analysis.
+- Unverified research conclusions.
+
+These issues should be resolved before proceeding.
+
+---
+
+## Research Workflow Decision
+
+Strategy Selection should begin only after the required research has been completed, validated, and summarized.
+
+---
+
+## Scope Note
+
+This chapter defines how research should be executed within the Project Workflow.
+
+The research methodologies themselves are defined in the relevant AAOS modules, such as Brand Analysis and Buyer Psychology.
+
+---
+
