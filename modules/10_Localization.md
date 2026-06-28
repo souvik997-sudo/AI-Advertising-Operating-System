@@ -445,3 +445,84 @@ The practical adaptation methods for language, culture, regional communication, 
 
 ---
 
+# 6. Language Localization
+
+## Overview
+
+Language Localization adapts AI-generated content to the communication style, vocabulary, grammar, and natural language patterns of the target language.
+
+The objective is to produce content that reads as if it were originally created in that language rather than simply translated.
+
+---
+
+## Language Localization Principles
+
+Every localized output should:
+
+- Preserve the original meaning.
+- Use natural language.
+- Follow the grammar of the target language.
+- Match local communication styles.
+- Maintain clarity and readability.
+- Preserve the intended tone.
+
+---
+
+## Language Adaptation Process
+
+During Language Localization, AAOS should:
+
+- Identify the target language.
+- Understand the original message.
+- Adapt vocabulary appropriately.
+- Use natural sentence structures.
+- Preserve tone and communication intent.
+- Review the localized version for fluency.
+
+---
+
+## Language Adaptation Guidelines
+
+Localization should adapt:
+
+- Vocabulary
+- Sentence structure
+- Expressions
+- Idioms
+- Greetings
+- Formality level
+- Writing style
+
+Literal word-for-word translation should be avoided whenever it reduces natural communication.
+
+---
+
+## Common Language Localization Issues
+
+Quality Control should identify issues such as:
+
+- Literal translation.
+- Unnatural sentence flow.
+- Incorrect grammar.
+- Inappropriate vocabulary.
+- Loss of original meaning.
+- Inconsistent terminology.
+
+These issues should be corrected before delivery.
+
+---
+
+## Language Localization Decision
+
+A localized output should only be approved when it feels natural to native speakers while preserving the intent and objective of the original content.
+
+---
+
+## Scope Note
+
+This chapter focuses on adapting content to different languages.
+
+Cultural adaptation, regional adaptation, business localization, and technical localization are covered in the following chapters of this module.
+
+---
+
