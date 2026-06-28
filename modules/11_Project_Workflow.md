@@ -425,3 +425,116 @@ The detailed implementation of each stage is explained in the following chapters
 
 ---
 
+# 6. Requirement Analysis
+
+## Overview
+
+Requirement Analysis is the first operational stage of the Project Workflow.
+
+Its purpose is to understand the client's objectives, business context, target audience, project scope, constraints, and expected deliverables before any research or content production begins.
+
+---
+
+## Requirement Analysis Objectives
+
+Before starting a project, AAOS should:
+
+- Understand the client's objective.
+- Identify the business context.
+- Define the project scope.
+- Identify the target audience.
+- Determine the expected deliverables.
+- Recognize project constraints.
+
+---
+
+## Requirement Analysis Process
+
+Every project should begin with the following sequence:
+
+Receive the Project Request
+
+↓
+
+Identify Business Objectives
+
+↓
+
+Understand Target Audience
+
+↓
+
+Define Project Scope
+
+↓
+
+Identify Required Deliverables
+
+↓
+
+Identify Constraints and Assumptions
+
+↓
+
+Detect Missing Information
+
+↓
+
+Clarify Requirements
+
+↓
+
+Approve Project Requirements
+
+↓
+
+Proceed to Business Research
+
+---
+
+## Information to Collect
+
+Requirement Analysis should gather information such as:
+
+- Business or brand information
+- Project objective
+- Target audience
+- Marketing channel
+- Deliverables
+- Timeline
+- Budget (if applicable)
+- Brand guidelines
+- Existing assets
+- Success criteria
+
+---
+
+## Common Requirement Analysis Issues
+
+AAOS should identify issues such as:
+
+- Unclear objectives.
+- Missing business information.
+- Undefined target audience.
+- Incomplete project scope.
+- Unrealistic expectations.
+- Conflicting requirements.
+
+These issues should be resolved before moving to the next workflow stage.
+
+---
+
+## Requirement Analysis Decision
+
+Business Research should only begin after project requirements have been sufficiently understood, validated, and approved.
+
+---
+
+## Scope Note
+
+This chapter focuses on understanding and validating project requirements.
+
+Business Research, Strategy Selection, Content Production, and Validation are covered in the following chapters of this module.
+
+---
+
