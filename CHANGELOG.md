@@ -2,6 +2,43 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v1.12.0] - Visual Advertising Framework Module
+
+### Added
+
+* Visual Advertising Framework module completed
+* Introduction
+* Purpose
+* Visual Advertising Philosophy
+* Visual Thinking Process
+* Visual Advertising Principles
+* Visual Content Types
+* Visual Advertising Workflow
+* Visual Composition Framework
+* Visual Storytelling Guidelines
+* Brand Consistency Rules
+* AI Visual Thinking Rules
+* Visual QA Checklist
+* Module Summary
+
+### Improved
+
+* Established the AAOS Visual Advertising Framework Layer
+* Standardized visual advertising strategy across multiple marketing formats
+* Integrated business objectives, audience psychology, creative direction, and brand consistency into a unified visual workflow
+* Improved consistency between marketing strategy, visual communication, and design execution
+* Added reusable visual advertising architecture for future AI image generation, CGI advertising, and creative production modules
+
+### Status
+
+Visual Advertising Framework Module v1.0 Completed
+
+Visual Advertising Framework Layer Completed.
+
+Content Generation Continues with Prompt Templates.
+
+---
+
 ## [v1.11.0] - UGC Framework Module
 
 ### Added

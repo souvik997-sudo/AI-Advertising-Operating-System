@@ -1,6 +1,6 @@
 # 🚀 AI Advertising Operating System
 
-![Version](https://img.shields.io/badge/version-v1.11.0-blue) ![Status](https://img.shields.io/badge/status-active-success) ![License](https://img.shields.io/badge/license-MIT-green) ![Documentation](https://img.shields.io/badge/docs-modular-orange)
+![Version](https://img.shields.io/badge/version-v1.12.0-blue) ![Status](https://img.shields.io/badge/status-active-success) ![License](https://img.shields.io/badge/license-MIT-green) ![Documentation](https://img.shields.io/badge/docs-modular-orange)
 
 > Build Professional Marketing Assets with AI
 
@@ -65,7 +65,7 @@ Active development continues on advanced modules and framework extensions.
 
 ## 📦 Current Version
 
-**AAOS v1.11.0**
+**AAOS v1.12.0**
 
 Core Foundation Completed
 
@@ -77,7 +77,7 @@ Input Layer Completed
 
 Script Generation Layer Completed
 
-Framework Expansion (Visual Advertising Framework) In Progress
+Content Generation (Prompt Templates) In Progress
 
 ---
 
@@ -240,6 +240,7 @@ Recommended learning sequence:
 14. 14_Script_Framework
 15. 15_SEO_Framework
 16. 17_UGC_Framework
+17. 18_Visual_Advertising_Framework
 
 > **Note:** Some modules are intentionally studied out of numerical order because they build conceptually on earlier topics.
 
@@ -306,7 +307,7 @@ The AAOS knowledge base is organized into modular learning units.
 | 15. SEO Framework          | ✅ v1.0   | Standardized search engine optimization framework                          |
 | 16. Knowledge Base System  | ⏳ Planned   | Knowledge organization and retrieval                 |
 | 17. UGC Framework          | ✅ v1.0   | Creator-focused user-generated content framework                      |
-| 18. Visual Advertising Framework    | ⏳ Planned   | Creative visual advertising workflows                |
+| 18. Visual Advertising Framework    | ✅ v1.0   | Standardized visual advertising strategy and creative framework                |
 | 19. Prompt Templates       | ⏳ Planned   | Reusable AI prompt templates                         |
 | 20. Checklists             | ⏳ Planned   | Validation and execution checklists                  |
 | 21. Examples               | ⏳ Planned   | Practical business examples and case studies         |
@@ -348,6 +349,8 @@ SEO Framework Layer
         ↓
 UGC Framework Layer
         ↓
+Visual Advertising Framework Layer
+        ↓
 AI Operating System Layer (Planned)
 ```
 
@@ -365,7 +368,7 @@ AAOS follows Semantic Versioning.
 
 Current Stable Release:
 
-AAOS v1.11.0
+AAOS v1.12.0
 
 ---
 
@@ -386,8 +389,9 @@ Completed Modules:
 - 14. Script Framework
 - 15. SEO Framework
 - 17. UGC Framework
+- 18. Visual Advertising Framework
 
-Framework Expansion continues with Visual Advertising Framework.
+Content Generation continues with Prompt Templates.
 
 Current Completion Status:
 
@@ -400,8 +404,9 @@ Current Completion Status:
 - Script Generation Layer ✅
 - SEO Framework Layer ✅
 - UGC Framework Layer ✅
+- Visual Advertising Framework Layer ✅
 
-Framework Expansion (Visual Advertising Framework) 🔄
+Content Generation (Prompt Templates) 🔄
 
 ---
 

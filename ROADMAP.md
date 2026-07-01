@@ -53,15 +53,13 @@ Core Foundation Architecture Locked
 
 Content Generation continues with:
 
-* Visual Advertising Framework
+* Prompt Templates
 
 ---
 
 These modules transform the core knowledge into a standardized operating framework.
 
 These modules establish the standardized framework that prepares AAOS for scalable content generation and automation workflows.
-
-### Progress
 
 Completed
 
@@ -73,14 +71,15 @@ Completed
 - Script Framework
 - SEO Framework
 - UGC Framework
+- Visual Advertising Framework
 
 In Progress
 
-- Visual Advertising Framework
+- Prompt Templates
 
 Next Milestone:
 
-- 18_Visual_Advertising_Framework.md
+- 19_Prompt_Templates.md
 
 ---
 
@@ -88,11 +87,10 @@ Next Milestone:
 
 ## Current Focus
 
-* Visual Advertising Framework
+* Prompt Templates
 
 ## Planned
 
-* Prompt Templates
 * Marketing Checklists
 * Business Examples
 
@@ -126,7 +124,7 @@ AAOS aims to become a complete AI-powered Marketing Operating System capable of:
 * Studying buyer psychology
 * Selecting marketing strategies
 * Generating high-quality marketing assets
-* Generating standardized marketing scripts through reusable frameworks
+* Generating standardized marketing scripts, visual advertisements, and reusable marketing frameworks
 * Supporting multiple AI models
 * Powering AI marketing agents and automation workflows
 * Humanizing AI-generated content
