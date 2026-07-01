@@ -1,6 +1,6 @@
 # 🚀 AI Advertising Operating System
 
-![Version](https://img.shields.io/badge/version-v1.7.0-blue) ![Status](https://img.shields.io/badge/status-active-success) ![License](https://img.shields.io/badge/license-MIT-green) ![Documentation](https://img.shields.io/badge/docs-modular-orange)
+![Version](https://img.shields.io/badge/version-v1.9.0-blue) ![Status](https://img.shields.io/badge/status-active-success) ![License](https://img.shields.io/badge/license-MIT-green) ![Documentation](https://img.shields.io/badge/docs-modular-orange)
 
 > Build Professional Marketing Assets with AI
 
@@ -51,7 +51,7 @@ The objective is to create a reusable AI Operating System that allows anyone to 
 
 **Souvik**
 
-AI Marketing • Automation • Documentation Architecture
+AI Marketing • Automation • AI Systems Engineering
 
 ---
 
@@ -65,7 +65,7 @@ Active development continues on advanced modules and framework extensions.
 
 ## 📦 Current Version
 
-**AAOS v1.8.0**
+**AAOS v1.9.0**
 
 Core Foundation Completed
 
@@ -75,7 +75,9 @@ Execution Layer Completed
 
 Input Layer Completed
 
-Framework Expansion (Script Framework) In Progress
+Script Generation Layer Completed
+
+Framework Expansion (SEO Framework) In Progress
 
 ---
 
@@ -86,6 +88,7 @@ Framework Expansion (Script Framework) In Progress
 - Buyer Psychology Engine
 - SEO Content Framework
 - UGC Script Generator
+- Script Framework
 - Advertisement Script Framework
 - Prompt Engineering Library
 - Marketing Workflow Engine
@@ -153,6 +156,8 @@ AI-Advertising-Operating-System/
 - SEO
 - Copywriting
 - Modular Knowledge Engineering
+- Knowledge Engineering
+- Documentation Architecture
 
 ---
 
@@ -232,6 +237,8 @@ Recommended learning sequence:
 10. 09_Quality_Control
 11. 10_Localization
 12. 11_Project_Workflow
+13. 12_Input_Engine
+14. 14_Script_Framework
 
 > **Note:** Some modules are intentionally studied out of numerical order because they build conceptually on earlier topics.
 
@@ -288,7 +295,7 @@ The AAOS knowledge base is organized into modular learning units.
 | 11. Project Workflow       | ✅ v1.0   | Standardized end-to-end marketing project execution workflow                |
 | 12. Input Engine           | ✅ v1.0   | Input processing and requirement gathering           |
 | 13. Brand Analysis         | ✅ v1.0  | Brand research and positioning                       |
-| 14. Script Framework       | 🚧 Planned  | Advertising and video script generation              |
+| 14. Script Framework       | ✅ v1.0  | Standardized marketing and advertising script generation              |
 | 15. SEO Framework          | ⏳ Planned   | Advanced SEO implementation                          |
 | 16. Knowledge Base System  | ⏳ Planned   | Knowledge organization and retrieval                 |
 | 17. UGC Framework          | ⏳ Planned   | User-generated content strategy                      |
@@ -315,26 +322,21 @@ The AI Advertising Operating System is organized into multiple architectural lay
 
 ```text
 Foundation Layer
-        │
-        ▼
+        ↓
 Knowledge Layer
-        │
-        ▼
+        ↓
 Output Layer
-        │
-        ▼
+        ↓
 Validation Layer
-        │
-        ▼
+        ↓
 Adaptation Layer
-        │
-        ▼
+        ↓
 Execution Layer
-        │
-        ▼
-Input Layer (Completed)
-        │
-        ▼
+        ↓
+Input Layer
+        ↓
+Script Generation Layer
+        ↓
 AI Operating System Layer (Planned)
 ```
 
@@ -352,7 +354,7 @@ AAOS follows Semantic Versioning.
 
 Current Stable Release:
 
-**AAOS v1.8.0**
+AAOS v1.9.0
 
 ---
 
@@ -370,8 +372,9 @@ Completed Modules:
 - 11. Project Workflow
 - 12. Input Engine
 - 13. Brand Analysis
+- 14. Script Framework
 
-Framework Expansion continues with Script Framework.
+Framework Expansion continues with SEO Framework.
 
 Current Completion Status:
 
@@ -381,7 +384,8 @@ Current Completion Status:
 - Adaptation Layer ✅
 - Execution Layer ✅
 - Input Layer ✅
-- Framework Expansion (Script Framework) 🔄
+- Script Generation Layer ✅
+- Framework Expansion (SEO Framework) 🔄
 
 ---
 
@@ -400,6 +404,8 @@ Brand Analysis
 Buyer Psychology
         ↓
 Strategy Selection
+        ↓
+Script Framework
         ↓
 Copywriting
         ↓

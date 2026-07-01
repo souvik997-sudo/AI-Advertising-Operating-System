@@ -53,7 +53,7 @@ Core Foundation Architecture Locked
 
 Framework Expansion continues with:
 
-* Script Framework
+* SEO Framework
 
 ---
 
@@ -70,14 +70,15 @@ Completed
 - Localization
 - Project Workflow
 - Input Engine
+- Script Framework
 
 In Progress
 
-- Script Framework
+- SEO Framework
 
 Next Milestone:
 
-- 14_Script_Framework.md
+- 15_SEO_Framework.md
 
 ---
 
@@ -85,7 +86,6 @@ Next Milestone:
 
 ## Planned
 
-* Script Framework
 * UGC Framework
 * Visual Advertising Framework
 * Prompt Templates
@@ -122,6 +122,7 @@ AAOS aims to become a complete AI-powered Marketing Operating System capable of:
 * Studying buyer psychology
 * Selecting marketing strategies
 * Generating high-quality marketing assets
+* Generating standardized marketing scripts through reusable frameworks
 * Supporting multiple AI models
 * Powering AI marketing agents and automation workflows
 * Humanizing AI-generated content

@@ -2,6 +2,42 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v1.9.0] - Script Framework Module
+
+### Added
+
+* Script Framework module completed
+* Introduction
+* Purpose
+* Script Philosophy
+* Script Thinking Process
+* Script Principles
+* Script Creation Workflow
+* Script Types
+* Standard Script Structure
+* Human Writing Rules
+* AI Script Thinking Rules
+* Script QA Checklist
+* Module Summary
+
+### Improved
+
+* Established the AAOS Script Generation Layer
+* Standardized script creation across multiple marketing formats
+* Integrated customer psychology, storytelling, and structured communication
+* Improved consistency across marketing and advertising scripts
+* Added reusable script architecture for future content modules
+
+### Status
+
+Script Framework Module v1.0 Completed
+
+Script Generation Layer Completed.
+
+Framework Expansion Continues with SEO Framework.
+
+---
+
 ## [v1.8.0] - Input Engine Module
 
 ### Added
@@ -42,7 +78,7 @@ Input Engine Module v1.0 Completed
 
 Input Layer Completed.
 
-Framework Expansion Continues.
+Framework Expansion Continues with Script Framework.
 
 ---
 
@@ -307,6 +343,6 @@ Foundation Version Complete
 
 AAOS follows Semantic Versioning:
 
-- Major versions introduce architectural changes.
-- Minor versions introduce new modules.
-- Patch versions improve existing modules or documentation.
+- Major versions introduce architectural or system-level changes.
+- Minor versions introduce new modules or framework capabilities.
+- Patch versions improve existing modules, documentation, or architectural consistency.
