@@ -51,9 +51,9 @@ Core Foundation Architecture Locked
 
 ## Current Focus
 
-Framework Expansion continues with:
+Content Generation continues with:
 
-* UGC Framework
+* Visual Advertising Framework
 
 ---
 
@@ -72,23 +72,26 @@ Completed
 - Input Engine
 - Script Framework
 - SEO Framework
+- UGC Framework
 
 In Progress
 
-- UGC Framework
+- Visual Advertising Framework
 
 Next Milestone:
 
-- 17_UGC_Framework.md
+- 18_Visual_Advertising_Framework.md
 
 ---
 
 # Version 1.3 — Content Generation
 
+## Current Focus
+
+* Visual Advertising Framework
+
 ## Planned
 
-* UGC Framework
-* Visual Advertising Framework
 * Prompt Templates
 * Marketing Checklists
 * Business Examples

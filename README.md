@@ -1,6 +1,6 @@
 # 🚀 AI Advertising Operating System
 
-![Version](https://img.shields.io/badge/version-v1.10.0-blue) ![Status](https://img.shields.io/badge/status-active-success) ![License](https://img.shields.io/badge/license-MIT-green) ![Documentation](https://img.shields.io/badge/docs-modular-orange)
+![Version](https://img.shields.io/badge/version-v1.11.0-blue) ![Status](https://img.shields.io/badge/status-active-success) ![License](https://img.shields.io/badge/license-MIT-green) ![Documentation](https://img.shields.io/badge/docs-modular-orange)
 
 > Build Professional Marketing Assets with AI
 
@@ -65,7 +65,7 @@ Active development continues on advanced modules and framework extensions.
 
 ## 📦 Current Version
 
-**AAOS v1.10.0**
+**AAOS v1.11.0**
 
 Core Foundation Completed
 
@@ -77,7 +77,7 @@ Input Layer Completed
 
 Script Generation Layer Completed
 
-Framework Expansion (SEO Framework) In Progress
+Framework Expansion (Visual Advertising Framework) In Progress
 
 ---
 
@@ -89,7 +89,7 @@ Framework Expansion (SEO Framework) In Progress
 - SEO Content Framework
 - Marketing Script Framework
 - UGC Framework
-- Advertisement Framework
+- Visual Advertising Framework
 - Prompt Engineering Library
 - Marketing Workflow Engine
 - Standardized Project Execution Workflow
@@ -238,6 +238,8 @@ Recommended learning sequence:
 12. 11_Project_Workflow
 13. 12_Input_Engine
 14. 14_Script_Framework
+15. 15_SEO_Framework
+16. 17_UGC_Framework
 
 > **Note:** Some modules are intentionally studied out of numerical order because they build conceptually on earlier topics.
 
@@ -260,6 +262,10 @@ Buyer Psychology
 Strategy Selection
         ↓
 Script Framework
+        ↓
+SEO Framework
+        ↓
+UGC Framework
         ↓
 Content Production
         ↓
@@ -299,8 +305,8 @@ The AAOS knowledge base is organized into modular learning units.
 | 14. Script Framework       | ✅ v1.0  | Standardized marketing and advertising script generation              |
 | 15. SEO Framework          | ✅ v1.0   | Standardized search engine optimization framework                          |
 | 16. Knowledge Base System  | ⏳ Planned   | Knowledge organization and retrieval                 |
-| 17. UGC Framework          | ⏳ Planned   | User-generated content strategy                      |
-| 18. Visual Ad Framework    | ⏳ Planned   | Creative visual advertising workflows                |
+| 17. UGC Framework          | ✅ v1.0   | Creator-focused user-generated content framework                      |
+| 18. Visual Advertising Framework    | ⏳ Planned   | Creative visual advertising workflows                |
 | 19. Prompt Templates       | ⏳ Planned   | Reusable AI prompt templates                         |
 | 20. Checklists             | ⏳ Planned   | Validation and execution checklists                  |
 | 21. Examples               | ⏳ Planned   | Practical business examples and case studies         |
@@ -338,6 +344,10 @@ Input Layer
         ↓
 Script Generation Layer
         ↓
+SEO Framework Layer
+        ↓
+UGC Framework Layer
+        ↓
 AI Operating System Layer (Planned)
 ```
 
@@ -355,7 +365,7 @@ AAOS follows Semantic Versioning.
 
 Current Stable Release:
 
-AAOS v1.10.0
+AAOS v1.11.0
 
 ---
 
@@ -375,8 +385,9 @@ Completed Modules:
 - 13. Brand Analysis
 - 14. Script Framework
 - 15. SEO Framework
+- 17. UGC Framework
 
-Framework Expansion continues with SEO Framework.
+Framework Expansion continues with Visual Advertising Framework.
 
 Current Completion Status:
 
@@ -386,9 +397,11 @@ Current Completion Status:
 - Adaptation Layer ✅
 - Execution Layer ✅
 - Input Layer ✅
-- Script Generation Layer 
+- Script Generation Layer ✅
 - SEO Framework Layer ✅
-- Framework Expansion (UGC Framework) 🔄
+- UGC Framework Layer ✅
+
+Framework Expansion (Visual Advertising Framework) 🔄
 
 ---
 
@@ -410,11 +423,15 @@ Strategy Selection
         ↓
 Script Framework
         ↓
+SEO Framework
+        ↓
+UGC Framework
+        ↓
 Copywriting
         ↓
 Humanization
         ↓
-SEO Optimization
+Content Production
         ↓
 Output Rules
         ↓
