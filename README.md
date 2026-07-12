@@ -1,6 +1,6 @@
 # 🚀 AI Advertising Operating System
 
-![Version](https://img.shields.io/badge/version-v1.12.0-blue) ![Status](https://img.shields.io/badge/status-active-success) ![License](https://img.shields.io/badge/license-MIT-green) ![Documentation](https://img.shields.io/badge/docs-modular-orange)
+![Version](https://img.shields.io/badge/version-v1.13.0-blue) ![Status](https://img.shields.io/badge/status-active-success) ![License](https://img.shields.io/badge/license-MIT-green) ![Documentation](https://img.shields.io/badge/docs-modular-orange)
 
 > Build Professional Marketing Assets with AI
 
@@ -20,7 +20,7 @@ This project focuses on building an end-to-end advertising workflow that combine
 - Brand Analysis
 - UGC Framework
 - Advertising Scripts
-- Prompt Engineering
+- Prompt Engineering Framework
 - Quality Control
 - Project Workflow
 
@@ -65,7 +65,7 @@ Active development continues on advanced modules and framework extensions.
 
 ## 📦 Current Version
 
-**AAOS v1.12.0**
+**AAOS v1.13.0**
 
 Core Foundation Completed
 
@@ -90,7 +90,7 @@ Content Generation (Prompt Templates) In Progress
 - Marketing Script Framework
 - UGC Framework
 - Visual Advertising Framework
-- Prompt Engineering Library
+- Prompt Engineering Framework
 - Marketing Workflow Engine
 - Standardized Project Execution Workflow
 - Brand Analysis Framework
@@ -241,6 +241,7 @@ Recommended learning sequence:
 15. 15_SEO_Framework
 16. 17_UGC_Framework
 17. 18_Visual_Advertising_Framework
+18. 19_Prompt_Engineering_Framework
 
 > **Note:** Some modules are intentionally studied out of numerical order because they build conceptually on earlier topics.
 
@@ -267,6 +268,10 @@ Script Framework
 SEO Framework
         ↓
 UGC Framework
+        ↓
+Visual Advertising Framework
+        ↓
+Prompt Engineering
         ↓
 Content Production
         ↓
@@ -308,9 +313,10 @@ The AAOS knowledge base is organized into modular learning units.
 | 16. Knowledge Base System  | ⏳ Planned   | Knowledge organization and retrieval                 |
 | 17. UGC Framework          | ✅ v1.0   | Creator-focused user-generated content framework                      |
 | 18. Visual Advertising Framework    | ✅ v1.0   | Standardized visual advertising strategy and creative framework                |
-| 19. Prompt Templates       | ⏳ Planned   | Reusable AI prompt templates                         |
-| 20. Checklists             | ⏳ Planned   | Validation and execution checklists                  |
-| 21. Examples               | ⏳ Planned   | Practical business examples and case studies         |
+| 19. Prompt Engineering Framework | ✅ v1.0 | Standardized AI prompt engineering framework |
+| 20. Prompt Templates | ⏳ Planned | Reusable enterprise prompt templates |
+| 21. Marketing Checklists | ⏳ Planned | Marketing validation and execution checklists |
+| 22. Business Examples | ⏳ Planned | Practical business examples and case studies |
 
 ---
 
@@ -351,6 +357,8 @@ UGC Framework Layer
         ↓
 Visual Advertising Framework Layer
         ↓
+Prompt Engineering Layer
+        ↓
 AI Operating System Layer (Planned)
 ```
 
@@ -368,7 +376,7 @@ AAOS follows Semantic Versioning.
 
 Current Stable Release:
 
-AAOS v1.12.0
+AAOS v1.13.0
 
 ---
 
@@ -390,6 +398,7 @@ Completed Modules:
 - 15. SEO Framework
 - 17. UGC Framework
 - 18. Visual Advertising Framework
+- 19. Prompt Engineering Framework
 
 Content Generation continues with Prompt Templates.
 
@@ -405,6 +414,7 @@ Current Completion Status:
 - SEO Framework Layer ✅
 - UGC Framework Layer ✅
 - Visual Advertising Framework Layer ✅
+- Prompt Engineering Layer ✅
 
 Content Generation (Prompt Templates) 🔄
 
@@ -431,6 +441,10 @@ Script Framework
 SEO Framework
         ↓
 UGC Framework
+        ↓
+Visual Advertising Framework
+        ↓
+Prompt Engineering
         ↓
 Copywriting
         ↓
