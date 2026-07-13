@@ -53,9 +53,7 @@ Core Foundation Architecture Locked
 
 Framework Expansion has been completed successfully.
 
-The next development phase focuses on:
-
-* Prompt Templates
+The next development phase focuses on Content Generation.
 
 ---
 
@@ -75,14 +73,15 @@ Completed
 - UGC Framework
 - Visual Advertising Framework
 - Prompt Engineering Framework
+- Prompt Templates
 
 In Progress
 
-- Prompt Templates
+- Marketing Checklists
 
 Next Milestone:
 
-- 20_Prompt_Templates.md
+- 21_Marketing_Checklists.md
 
 ---
 
@@ -90,11 +89,10 @@ Next Milestone:
 
 ## Current Focus
 
-* Prompt Templates
+* Marketing Checklists
 
 ## Planned
 
-* Marketing Checklists
 * Business Examples
 
 ---
