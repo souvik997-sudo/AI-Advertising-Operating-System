@@ -1,6 +1,8 @@
 # Copywriting Frameworks
 
-Version: 1.0
+Module Version: v1.0
+
+Repository Target: v1.x
 
 ---
 
@@ -3337,6 +3339,9 @@ This module directly supports:
 * UGC Framework
 * Prompt Templates
 * Quality Control
+* Prompt Engineering Framework
+* Marketing Checklists
+* Business Examples
 
 Copywriting should always be informed by customer research and business strategy.
 
@@ -3352,13 +3357,25 @@ When strategy, psychology, and communication work together, marketing becomes si
 
 ---
 
+## MODULE STATUS
+
+Module Version: v1.0
+
+Status: Completed
+
+This module defines the core copywriting knowledge used throughout AAOS.
+
+It serves as the foundation for all marketing, advertising, SEO, UGC, and script generation modules.
+
+---
+
 ## End of Module
 
 Copywriting Frameworks Module Completed.
 
 Next Recommended Module:
 
-13_Brand_Analysis.md
+05_Buyer_Psychology.md
 
 ---
 
