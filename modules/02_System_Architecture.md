@@ -1,10 +1,10 @@
 # AI Advertising Operating System
 
-Version: 2.0
+Module Version: v1.0
 
-Author: Souvik
+Repository Target: v2.0
 
-Status: In Development
+Status: Planned
 
 ---
 
@@ -32,36 +32,65 @@ The Operating System should help create:
 - Buyer Psychology Analysis
 - Brand Positioning
 - Creative Direction
+- Business Examples
+- Marketing Checklists
+- Prompt Templates
+- Business Automation
+- AI Agents
 
 ---
 
 # SYSTEM ARCHITECTURE
 
-AI Advertising OS
-
-↓
-
+Foundation Layer
+       ↓
+Knowledge Layer
+       ↓
+Output Layer
+       ↓
+Validation Layer
+       ↓
+Adaptation Layer
+       ↓
+Execution Layer
+       ↓
 Input Layer
+       ↓
+Script Generation Layer
+       ↓
+SEO Framework Layer
+       ↓
+UGC Framework Layer
+       ↓
+Visual Advertising Framework Layer
+       ↓
+Prompt Engineering Layer
+       ↓
+Prompt Template Layer
+       ↓
+Business Implementation Layer
+       ↓
+AI Operating System Layer
 
-↓
+---
 
-Analysis Engine
+# MODULE SCOPE
 
-↓
+This module defines the high-level architectural blueprint of AAOS.
 
-Strategy Engine
+It describes how individual framework modules integrate into a unified AI Marketing Operating System.
 
-↓
+Implementation details are documented in their respective modules.
 
-Content Engine
+---
 
-↓
+# MODULE STATUS
 
-Quality Control Engine
+Module Version: v1.0
 
-↓
+Status: Planned
 
-Final Output
+Repository Target: Version 2.0
 
 ---
 
