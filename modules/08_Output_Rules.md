@@ -1,6 +1,10 @@
 # Output Rules
 
-Version: 1.0
+Module Version: v1.0
+
+Repository Target: v2.0
+
+Status: Completed
 
 ---
 
@@ -1643,10 +1647,11 @@ Output Rules do not create knowledge. They standardize how knowledge is delivere
 
 ---
 
-## Integration with Other Modules
+## Integration
 
-This module works together with:
+This module integrates with:
 
+* 03_AI_Identity.md
 * 04_Copywriting_Frameworks.md
 * 05_Buyer_Psychology.md
 * 06_Humanization.md
@@ -1656,7 +1661,7 @@ This module works together with:
 * 11_Project_Workflow.md
 * 13_Brand_Analysis.md
 
-Output Rules define how knowledge from these modules should be presented in the final response.
+Output Rules standardize how knowledge from other AAOS modules is organized, formatted, and presented without changing the underlying marketing logic.
 
 ---
 
@@ -1668,32 +1673,64 @@ It does not replace or duplicate the methodologies defined in Brand Analysis, Bu
 
 ---
 
-## Next Recommended Module
+## Final Principles
 
-The next module is:
+Good marketing knowledge loses value when presented poorly.
 
-**09_Quality_Control.md**
-
-This module will define the standards for validating, reviewing, and improving AI-generated outputs before final delivery.
+AAOS emphasizes clarity, consistency, structure, and implementation readiness so that every output can be understood and used effectively.
 
 ---
 
-## Module Completion Criteria
+## Final Workflow
 
-This module is considered complete when AAOS can:
+User Request
 
-- Present information consistently.
-- Follow standardized output structures.
-- Produce implementation-ready responses.
-- Adapt outputs to different users and contexts.
-- Maintain professional presentation standards.
+↓
+
+Analysis
+
+↓
+
+Knowledge Modules
+
+↓
+
+Strategy
+
+↓
+
+Content Generation
+
+↓
+
+Output Rules
+
+↓
+
+Quality Control
+
+↓
+
+Final Response
 
 ---
 
-Version: 1.0
+## MODULE STATUS
+
+Module Version: v1.0
 
 Status: Completed
 
-Architecture Status: Locked
+Repository Target: v2.0
+
+---
+
+## End of Module
+
+Output Rules Module Completed.
+
+Next Recommended Module:
+
+09_Quality_Control.md
 
 ---
