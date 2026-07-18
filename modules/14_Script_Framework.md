@@ -1,18 +1,95 @@
 # Script Framework
 
-## Version
+Module Version: v1.0
 
-**v1.0**
+Repository Target: v2.0
+
+Status: Completed
+
+---
+
+# Table of Contents
+
+## 1. Introduction
+## 2. Purpose
+## 3. Script Philosophy
+## 4. Script Thinking Process
+## 5. Script Principles
+## 6. Script Creation Workflow
+## 7. Script Types
+## 8. Script Structure
+## 9. Human Writing Rules
+## 10. AI Script Thinking Rules
+## 11. Script QA Checklist
+## 12. Module Summary
+## 13. Module Dependencies
+## 14. Module Role
+## 15. Module Outcome
+## 16. Integration
+## 17. Scope Note
+## 18. Final Principles
+## 19. Final Workflow
+## 20. MODULE STATUS
+## 21. End of Module
 
 ---
 
 # Introduction
 
+## What is Script Framework?
+
 The Script Framework defines the standardized methodology for creating high-quality marketing and advertising scripts within the AI Advertising Operating System (AAOS).
 
-Its responsibility is to transform validated business information into persuasive, audience-focused, and goal-oriented marketing scripts.
+It transforms validated business information into persuasive, audience-focused, and goal-oriented marketing scripts.
 
-This module provides a structured approach for generating consistent, human-like, and conversion-focused scripts across different marketing channels, platforms, and content formats.
+It ensures every script follows a consistent, structured, and conversion-oriented approach before reaching downstream content production workflows.
+
+---
+
+## Why Script Framework Matters
+
+Effective marketing scripts are built on business understanding, customer psychology, and structured storytelling.
+
+Without a standardized scripting framework, marketing messages become inconsistent, less persuasive, and disconnected from business objectives.
+
+The Script Framework establishes a repeatable process for generating human-like, emotionally engaging, and conversion-focused scripts.
+
+---
+
+## Purpose of This Module
+
+This module defines how AAOS should design, structure, optimize, and validate marketing scripts for different industries, platforms, and campaign objectives.
+
+It provides a standardized scripting methodology that improves consistency, quality, and marketing performance.
+
+---
+
+## Scope of This Module
+
+This module focuses on script planning, structure, storytelling, persuasion, and human-like writing.
+
+It does not define business research, buyer psychology, SEO strategy, localization, or quality validation, which are covered by their respective AAOS modules.
+
+---
+
+## Relationship with Other Modules
+
+The Script Framework receives validated business information from Input Engine and Brand Analysis.
+
+It applies Buyer Psychology, Copywriting Frameworks, and Humanization principles to create structured marketing scripts before passing them to Output Rules and Quality Control.
+
+---
+
+## Learning Objectives
+
+After studying this module, the AI should be able to:
+
+- Understand business objectives before writing.
+- Select the appropriate script strategy.
+- Build persuasive script structures.
+- Write natural human-like dialogue.
+- Apply storytelling and emotional triggers.
+- Produce platform-specific marketing scripts.
 
 ---
 
@@ -271,3 +348,138 @@ This framework establishes a repeatable and scalable script generation process, 
 It serves as the scripting standard for all content generation modules within AAOS.
 
 ---
+
+## Module Dependencies
+
+This module supports:
+
+- 04_Copywriting_Frameworks.md
+- 05_Buyer_Psychology.md
+- 06_Humanization.md
+- 08_Output_Rules.md
+- 09_Quality_Control.md
+- 10_Localization.md
+- 11_Project_Workflow.md
+- 12_Input_Engine.md
+- 13_Brand_Analysis.md
+
+---
+
+## Module Role
+
+Within AAOS, the Script Framework serves as the standardized script development layer.
+
+It transforms validated business information into structured, persuasive, emotionally engaging, and platform-appropriate marketing scripts.
+
+---
+
+## Module Outcome
+
+After completing this module, AAOS should be able to:
+
+- Select appropriate script structures.
+- Generate platform-specific scripts.
+- Build emotional storytelling.
+- Maintain brand consistency.
+- Produce human-like conversations.
+- Create conversion-focused marketing scripts.
+
+---
+
+## Integration
+
+This module integrates with:
+
+- 04_Copywriting_Frameworks.md
+- 05_Buyer_Psychology.md
+- 06_Humanization.md
+- 08_Output_Rules.md
+- 09_Quality_Control.md
+- 10_Localization.md
+- 11_Project_Workflow.md
+- 12_Input_Engine.md
+- 13_Brand_Analysis.md
+
+The Script Framework converts validated business information into structured marketing scripts for downstream AAOS content generation workflows.
+
+---
+
+## Scope Note
+
+This module defines how marketing scripts are structured and written.
+
+It does not define business research, audience research, SEO strategy, localization, or quality validation methodologies, which are covered in their respective AAOS modules.
+
+---
+
+## Final Principles
+
+Every effective marketing script begins with business understanding, customer psychology, structured storytelling, and natural human communication.
+
+AAOS prioritizes clarity, authenticity, persuasion, and consistency over generic promotional writing.
+
+---
+
+## Final Workflow
+
+Validated Business Information
+
+↓
+
+Business Objective
+
+↓
+
+Target Audience
+
+↓
+
+Customer Psychology
+
+↓
+
+Marketing Angle
+
+↓
+
+Script Structure
+
+↓
+
+Storytelling
+
+↓
+
+Humanization
+
+↓
+
+Review & Optimization
+
+↓
+
+Quality Validation
+
+↓
+
+Final Script
+
+---
+
+## MODULE STATUS
+
+Module Version: v1.0
+
+Status: Completed
+
+Repository Target: v2.0
+
+---
+
+## End of Module
+
+Script Framework Module Completed.
+
+Next Recommended Module:
+
+15_SEO_Framework.md
