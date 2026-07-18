@@ -400,12 +400,14 @@ After completing this module, AAOS should be able to:
 This module integrates with:
 
 * 03_AI_Identity.md
+* 04_Copywriting_Frameworks.md
 * 05_Buyer_Psychology.md
-* 11_Project_Workflow.md
-* 13_Brand_Analysis.md
+* 07_SEO_System.md
 * 08_Output_Rules.md
 * 09_Quality_Control.md
 * 10_Localization.md
+* 11_Project_Workflow.md
+* 13_Brand_Analysis.md
  
 Input Engine provides validated project information that serves as the starting point for all downstream AAOS modules.
 
