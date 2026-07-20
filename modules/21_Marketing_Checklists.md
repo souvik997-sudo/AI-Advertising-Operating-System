@@ -139,6 +139,55 @@ Together, these categories establish a comprehensive validation framework that s
 
 ---
 
+# Checklist Selection Rules
+
+The AI should not automatically execute every checklist for every task.
+
+Instead, it should identify the current workflow stage, understand the business objective, determine the expected deliverable, and select only the checklist(s) relevant to the current validation task.
+
+Applying unnecessary checklists may introduce redundant validation, reduce efficiency, and create unnecessary complexity.
+
+## Selection Principles
+
+The AI should:
+
+- Identify the current workflow stage.
+- Determine the expected deliverable.
+- Select only the checklist(s) required for that stage.
+- Avoid executing unrelated checklist categories.
+- Apply multiple checklists only when the workflow spans multiple stages.
+- Always perform the Review and Validation Checklist before final approval.
+- Execute the Automation Checklist only when automation or deployment is involved.
+
+---
+
+## Example Selection
+
+| Workflow Stage | Primary Checklist |
+|----------------|-------------------|
+| Business Discovery | Business Analysis Checklist |
+| Brand Development | Brand Analysis Checklist |
+| Customer Research | Buyer Psychology Checklist |
+| Marketing Planning | Marketing Strategy Checklist |
+| Copywriting | Copywriting Checklist |
+| Script Writing | Script Generation Checklist |
+| SEO Optimization | SEO Checklist |
+| UGC Creation | UGC Checklist |
+| Creative Design | Visual Advertising Checklist |
+| Prompt Creation | Prompt Engineering Checklist |
+| Final Review | Review and Validation Checklist |
+| Workflow Deployment | Automation Checklist |
+
+---
+
+## General Rule
+
+The AI should validate only what is necessary for the current task while ensuring that all mandatory validation requirements are satisfied before progressing to the next workflow stage.
+
+This approach improves execution efficiency, reduces unnecessary processing, and maintains consistency throughout the AI Advertising Operating System (AAOS).
+
+---
+
 # Business Analysis Checklist
 
 ## Purpose
@@ -855,6 +904,74 @@ The Automation Checklist is considered complete when:
 
 ---
 
+# Validation Outcome Rules
+
+After completing any checklist, the AI should determine the validation outcome before allowing the workflow to continue.
+
+The validation outcome should be based on objective evidence rather than assumptions.
+
+## Possible Validation Outcomes
+
+### 1. Pass
+
+All mandatory checklist requirements have been satisfied.
+
+The workflow may continue to the next stage.
+
+---
+
+### 2. Pass with Recommendations
+
+The mandatory requirements have been satisfied, but non-critical improvements have been identified.
+
+The workflow may continue while presenting recommendations for future improvement.
+
+---
+
+### 3. Requires Additional Information
+
+Essential information is missing and prevents reliable validation.
+
+The AI should request the missing information before continuing.
+
+The workflow should remain paused until sufficient information becomes available.
+
+---
+
+### 4. Revision Required
+
+The checklist identifies significant quality issues, inconsistencies, or business misalignment.
+
+The AI should explain the identified problems and recommend the necessary revisions before revalidation.
+
+The workflow should not proceed until the issues have been resolved.
+
+---
+
+### 5. Validation Failed
+
+Critical business, legal, compliance, safety, or quality requirements have not been satisfied.
+
+The AI must reject approval and prevent progression to the next workflow stage until all critical issues have been resolved.
+
+---
+
+## General Rules
+
+The AI should:
+
+- Never approve incomplete mandatory requirements.
+- Never assume missing business information.
+- Clearly explain why validation failed.
+- Distinguish between critical and non-critical issues.
+- Recommend practical corrective actions.
+- Revalidate the deliverable after revisions have been completed.
+- Record the final validation outcome before progressing to the next workflow stage.
+
+These standardized validation outcomes ensure that every AAOS workflow follows a consistent, transparent, and reliable approval process across different AI models, automation workflows, and future AI agent architectures.
+
+---
+
 # AI Checklist Thinking Rules
 
 The AI should apply a structured, objective, and evidence-based reasoning process whenever using marketing checklists within the AI Advertising Operating System (AAOS).
@@ -1027,6 +1144,60 @@ The marketing deliverable is approved only when:
 
 ---
 
+# Module Dependencies
+
+The Marketing Checklists module functions as the standardized validation layer within the AI Advertising Operating System (AAOS).
+
+Rather than generating business knowledge or marketing assets, this module validates outputs produced by upstream modules before allowing the workflow to continue.
+
+## Upstream Dependencies
+
+The Marketing Checklists module depends on validated information produced by the following AAOS modules:
+
+- 03_AI_Identity
+- 04_Copywriting_Frameworks
+- 05_Buyer_Psychology
+- 07_SEO_System
+- 08_Output_Rules
+- 09_Quality_Control
+- 10_Localization
+- 11_Project_Workflow
+- 13_Brand_Analysis
+- 14_Script_Framework
+- 15_SEO_Framework
+- 17_UGC_Framework
+- 18_Visual_Advertising_Framework
+- 19_Prompt_Engineering_Framework
+- 20_Prompt_Templates
+
+These modules provide the business context, marketing strategy, prompts, creative direction, and execution requirements that are validated through the Marketing Checklists module.
+
+---
+
+## Downstream Consumers
+
+The validated outputs produced by this module may be consumed by:
+
+- Human reviewers
+- AI execution workflows
+- Automation pipelines
+- AI Agents
+- Multi-Agent Systems
+- Deployment systems
+- Client delivery workflows
+
+---
+
+## Responsibility
+
+This module is responsible only for validation.
+
+It does not create business strategies, marketing content, prompts, scripts, or creative assets.
+
+Its sole responsibility is to verify that outputs generated by other AAOS modules satisfy the required quality, consistency, and business standards before execution or final delivery.
+
+---
+
 # Module Summary
 
 The Marketing Checklists module establishes a standardized validation framework within the AI Advertising Operating System (AAOS) for reviewing business information, marketing strategies, creative assets, prompts, automation workflows, and AI-generated outputs before execution or final delivery.
@@ -1037,10 +1208,7 @@ By integrating checklist-based validation into the overall AAOS architecture, th
 
 The Marketing Checklists module integrates seamlessly with the Business Analysis, Brand Analysis, Buyer Psychology, Marketing Strategy, Copywriting, Script Framework, SEO Framework, UGC Framework, Visual Advertising Framework, Prompt Engineering Framework, Quality Control, Project Workflow, and Automation modules, providing a unified validation layer across the entire AI Advertising Operating System.
 
-This module establishes the AAOS Marketing Validation Layer, enabling reliable AI-assisted decision-making, scalable marketing execution, and standardized quality assurance while providing a consistent foundation for future AI agents,
-AI-powered marketing and business workflows,
-autonomous marketing systems,
-and the AI Operating System (AAOS v2.0).
+This module establishes the AAOS Marketing Validation Layer, enabling reliable AI-assisted decision-making, scalable marketing execution, standardized quality assurance, and providing a consistent foundation for future AI agents, AI-powered marketing and business workflows, autonomous marketing systems, and the AI Advertising Operating System (AAOS v2.0).
 
 ---
 
