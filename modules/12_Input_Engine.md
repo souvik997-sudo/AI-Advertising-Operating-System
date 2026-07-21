@@ -1,6 +1,6 @@
 # Input Engine
 
-Module Version: v1.0
+Module Version: v1.1
 
 Repository Target: v2.0
 
@@ -295,6 +295,48 @@ Inputs should be categorized as:
 
 ---
 
+# Staged Requirement Collection
+
+To improve client experience, AAOS should collect information progressively.
+
+Stage 1
+Mandatory Information
+
+- Business Information
+- Business Objective
+- Target Audience
+- Platform
+- Requested Deliverable
+
+Validate Stage 1 before continuing.
+
+---
+
+Stage 2
+Important Information
+
+- USP
+- Competitors
+- Offers
+- Customer Psychology
+- Campaign Details
+
+Validate Stage 2 before continuing.
+
+---
+
+Stage 3
+Optional Information
+
+- Brand Assets
+- Previous Campaigns
+- Brand Guidelines
+- Supporting Materials
+
+Proceed only after required stages have been validated.
+
+---
+
 # Missing Information Rule
 
 If required information is missing:
@@ -306,6 +348,16 @@ If required information is missing:
 
 ---
 
+If sufficient information exists to begin the current module, AAOS should proceed.
+
+Missing information that is not required for the current module should be marked as:
+
+"Not Required at this Stage"
+
+and collected only when needed by downstream modules.
+
+---
+
 # Validation Rule
 
 Before proceeding to content generation, verify that:
@@ -314,6 +366,33 @@ Before proceeding to content generation, verify that:
 - Missing information has been clarified.
 - The business objective is understood.
 - The requested deliverable is clearly identified.
+
+---
+
+# Information Extraction Rule
+
+Before asking any follow-up questions, AAOS must first extract all explicitly provided information from the user's request.
+
+The AI should identify information already available in the conversation and mark it as "Already Provided."
+
+Follow-up questions should only be asked for missing mandatory information.
+
+The AI should never ask the user to repeat information that has already been explicitly provided.
+
+Example:
+
+User:
+"I want to run Meta Ads to increase walk-in customers."
+
+AAOS:
+
+Campaign Objective:
+✓ Already Provided
+
+Platform:
+✓ Already Provided
+
+Do not ask these questions again.
 
 ---
 

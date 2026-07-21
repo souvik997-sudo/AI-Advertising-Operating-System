@@ -4,6 +4,33 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [v1.16.1] - Input Engine Improvements
+
+### Improved
+
+* Added Information Extraction Rule.
+* Added Staged Requirement Collection.
+* Expanded Missing Information Rule.
+* Improved duplicate question handling.
+* Improved context-aware follow-up questioning.
+* Enhanced client-friendly requirement collection workflow.
+
+### Validation Basis
+
+* Test-003
+* Test-004
+* Test-005
+* Test-006
+
+### Status
+
+Input Engine Module upgraded from v1.0 → v1.1
+
+Repository Validation Applied.
+
+---
+
+
 ## [v1.16.0] - Business Examples Module
 
 ### Added
