@@ -49,7 +49,13 @@ Before generating clarification questions, the Input Engine should:
 
 ### Status
 
-Pending Repository Update
+Completed
+
+Implemented in:
+- 12_Input_Engine.md v1.1
+
+Repository Version:
+- v1.16.1
 
 ---
 
@@ -94,7 +100,13 @@ Each stage must be validated before continuing.
 
 ### Status
 
-Pending Repository Update
+Completed
+
+Implemented in:
+- 12_Input_Engine.md v1.1
+
+Repository Version:
+- v1.16.1
 
 ---
 
@@ -180,7 +192,24 @@ without making assumptions.
 
 ### Status
 
-Pending Repository Update
+Completed
+
+Implemented in:
+- 05_Buyer_Psychology.md v1.1
+
+Repository Version:
+- v1.16.3
 
 ---
+
+---
+
+# Current Repository Improvement Status
+
+| Improvement | Module | Status |
+|-------------|--------|--------|
+| Improvement-001 | Input Engine | ✅ Completed |
+| Improvement-002 | Input Engine | ✅ Completed |
+| Improvement-003 | Marketing Strategy | ⏳ Pending |
+| Improvement-004 | Buyer Psychology | ✅ Completed |
 

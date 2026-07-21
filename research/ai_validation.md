@@ -68,8 +68,16 @@ Monitor in future tests.
 - Did not prioritize mandatory information.
 
 **Decision:**
-Do NOT update repository yet.
-Verify this behavior across multiple industries before making changes.
+
+Validated across multiple scenarios.
+
+Repository updated.
+
+Implemented in:
+- 12_Input_Engine.md v1.1
+
+Status:
+Completed
 
 ---
 
@@ -86,7 +94,16 @@ Verify this behavior across multiple industries before making changes.
 - Stage 1 should also include Business Location for location-based campaigns.
 
 **Decision:**
-Continue validating across other industries before updating the Input Engine module.
+
+Validation completed.
+
+Business Location added to mandatory Stage 1 inputs.
+
+Implemented in:
+- 12_Input_Engine.md v1.1
+
+Status:
+Completed
 
 ---
 
@@ -105,7 +122,16 @@ Continue validating across other industries before updating the Input Engine mod
 - Should recognize explicitly supplied information and avoid asking for it again.
 
 **Decision:**
-Monitor this behavior in future tests. If repeated across multiple industries, improve the Input Engine to detect and reuse user-provided information automatically.
+
+Behavior confirmed across multiple validation cases.
+
+Input Engine now extracts user-provided information before asking clarification questions.
+
+Implemented in:
+- 12_Input_Engine.md v1.1
+
+Status:
+Completed
 
 ---
 
@@ -124,9 +150,19 @@ Monitor this behavior in future tests. If repeated across multiple industries, i
 - This creates a logical inconsistency about the minimum requirements for Brand Analysis.
 
 **Decision:**
-Review the Brand Analysis module to clearly define:
-1. Minimum information required to start Brand Analysis.
-2. Additional information required for a complete Brand Analysis.
+
+Repository updated.
+
+Brand Analysis now distinguishes:
+
+- Minimum Required Inputs
+- Additional Information for Complete Analysis
+
+Implemented in:
+- 13_Brand_Analysis.md v1.1
+
+Status:
+Completed
 
 ---
 
@@ -144,7 +180,20 @@ Review the Brand Analysis module to clearly define:
 - The output identifies missing information but does not guide the next data collection step.
 
 **Decision:**
-If this pattern repeats across multiple domains, enhance the Buyer Psychology module to include "Required Information" for every unsupported element.
+
+Repository updated.
+
+Buyer Psychology now identifies:
+
+- Supported
+- Not Supported
+- Required Information
+
+Implemented in:
+- 05_Buyer_Psychology.md v1.1
+
+Status:
+Completed
 
 ---
 

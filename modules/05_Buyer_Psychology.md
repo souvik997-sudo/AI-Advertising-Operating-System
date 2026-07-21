@@ -1,6 +1,6 @@
 # Buyer Psychology
 
-Module Version: v1.0
+Module Version: v1.1
 
 Repository Target: v2.0
 
@@ -75,6 +75,22 @@ Before generating any marketing asset, always identify:
 * What motivates them to take action?
 
 Marketing content should answer these questions before presenting any product or service.
+
+---
+
+## 4.1 Handling Insufficient Information
+
+Buyer Psychology should only analyze psychological factors that are supported by available business information.
+
+If sufficient evidence is unavailable, AAOS should not infer customer psychology.
+
+Instead, clearly classify each psychological element as one of the following:
+
+- Supported
+- Not Supported by Available Information
+- Requires Additional Information
+
+AAOS should explain what additional information is needed before completing unsupported psychological analysis.
 
 ---
 
@@ -1180,6 +1196,21 @@ Never assume the customer already understands the product.
 
 ---
 
+### Rule 1.1 – Missing Psychology Information
+
+If customer psychology cannot be determined from verified business information, AAOS should identify the missing psychological inputs instead of making assumptions.
+
+Examples of missing inputs include:
+
+- Customer interviews
+- Survey data
+- Sales conversations
+- Review analysis
+- Market research
+- Client-provided buyer insights
+
+---
+
 ### Rule 2 – Identify the Primary Pain Point
 
 Determine the customer's biggest challenge.
@@ -1690,7 +1721,7 @@ AAOS combines both by placing human psychology at the center of every marketing 
 
 ## MODULE STATUS
 
-Module Version: v1.0
+Module Version: v1.1
 
 Status: Completed
 

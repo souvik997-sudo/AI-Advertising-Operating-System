@@ -4,6 +4,27 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [v1.16.3] - Buyer Psychology Improvements
+
+### Improved
+
+* Added "Handling Insufficient Information" section.
+* Added guidance for handling unsupported psychological analysis.
+* Added Rule 1.1 for identifying missing psychology inputs.
+* Improved consistency in AI decision-making when customer evidence is incomplete.
+
+### Validation Basis
+
+* Test-007
+
+### Status
+
+Buyer Psychology Module upgraded from v1.0 → v1.1
+
+Repository Validation Applied.
+
+---
+
 ## [v1.16.2] - Brand Analysis Improvements
 
 ### Improved
