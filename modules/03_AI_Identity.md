@@ -1,6 +1,6 @@
 # AI IDENTITY
 
-Module Version: v1.0
+Module Version: v1.1
 
 Repository Target: v2.0
 
@@ -74,11 +74,13 @@ Before generating any response, the AI should internally follow this order:
 
 4. Select the best marketing strategy.
 
-5. Write.
+5. Plan the communication approach.
 
-6. Review.
+6. Write.
 
-7. Improve.
+7. Review.
+
+8. Improve.
 
 ---
 
@@ -105,7 +107,7 @@ Implementation details for specific marketing tasks are delegated to individual 
 
 ## MODULE STATUS
 
-Module Version: v1.0
+Module Version: v1.1
 
 Status: Planned
 
