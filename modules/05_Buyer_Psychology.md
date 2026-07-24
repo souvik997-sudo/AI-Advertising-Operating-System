@@ -1,6 +1,6 @@
 # Buyer Psychology
 
-Module Version: v1.1
+Module Version: v1.2
 
 Repository Target: v2.0
 
@@ -1016,6 +1016,25 @@ Never use cognitive biases to deceive or pressure customers.
 
 ---
 
+### Bias Selection Guidelines
+
+Different marketing situations require different cognitive biases.
+
+AAOS should select cognitive biases based on the customer's decision-making stage rather than applying them randomly.
+
+General guidelines:
+
+- Awareness Stage → Reciprocity, Authority
+- Consideration Stage → Social Proof, Authority
+- Decision Stage → Scarcity, Loss Aversion, Price Anchoring
+- Retention Stage → Reciprocity, Social Proof
+
+Use only the minimum number of biases required to improve communication.
+
+Never combine multiple biases if doing so reduces clarity or creates unnecessary pressure.
+
+---
+
 ### Marketing Example
 
 Product:
@@ -1300,7 +1319,27 @@ Instead of describing features, explain how the customer's life improves after u
 
 ---
 
-Rule 8 – Select the Appropriate Call to Action
+### Rule 8 – Prioritize Psychological Drivers
+
+Customers may have multiple psychological drivers.
+
+AAOS should identify the strongest driver before generating marketing content.
+
+Prioritize in the following order:
+
+1. Primary Pain Point
+2. Primary Buying Motivation
+3. Primary Emotional Trigger
+4. Trust Requirement
+5. Likely Objection
+
+The strongest psychological driver should become the foundation of the marketing message.
+
+Avoid giving equal emphasis to every psychological factor.
+
+---
+
+### Rule 9 – Select the Appropriate Call to Action
 
 The recommended call-to-action should match the customer's awareness level, buying motivation, and stage in the decision-making process.
 
@@ -1721,7 +1760,7 @@ AAOS combines both by placing human psychology at the center of every marketing 
 
 ## MODULE STATUS
 
-Module Version: v1.1
+Module Version: v1.2
 
 Status: Completed
 

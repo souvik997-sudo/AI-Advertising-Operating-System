@@ -4,6 +4,24 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [v1.16.6] - Buyer Psychology Improvements
+
+### Improved
+
+- Added Bias Selection Guidelines for awareness-stage based cognitive bias selection.
+- Added AI rule for prioritizing psychological drivers before content generation.
+- Improved AI decision-making consistency by defining psychology prioritization order.
+
+### Validation Basis
+
+Repository Audit – Buyer Psychology
+
+### Status
+
+Buyer Psychology upgraded from v1.1 → v1.2
+
+---
+
 ## [v1.16.5] - Copywriting Framework Improvements
 
 ### Improved
