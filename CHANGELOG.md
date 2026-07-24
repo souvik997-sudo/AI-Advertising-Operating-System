@@ -4,6 +4,25 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [v1.16.5] - Copywriting Framework Improvements
+
+### Improved
+
+- Added Framework Selection Strategy.
+- Introduced Framework Combination Guidelines for multi-framework copywriting.
+- Added Communication Planning rule before content generation.
+- Improved alignment between AI Identity and Copywriting execution workflow.
+
+### Validation Basis
+
+Repository Audit – Copywriting Frameworks
+
+### Status
+
+Copywriting Frameworks upgraded from v1.0 → v1.1
+
+---
+
 ## [v1.16.4] - AI Identity Improvements
 
 ### Improved

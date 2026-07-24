@@ -1,6 +1,6 @@
 # Copywriting Frameworks
 
-Module Version: v1.0
+Module Version: v1.1
 
 Repository Target: v1.x
 
@@ -601,6 +601,75 @@ Each framework will be explained using the same structure:
 6. Real Business Example
 7. Prompt Template
 8. QA Checklist
+
+---
+
+### Framework Selection Strategy
+
+Selecting the correct framework is an important strategic decision.
+
+AAOS should not assume that one framework fits every marketing objective.
+
+Before choosing a framework, evaluate:
+
+- Business Objective
+- Customer Intent
+- Customer Awareness Level
+- Product Complexity
+- Marketing Channel
+- Desired Customer Action
+
+The selected framework should support the customer's decision-making process rather than forcing a fixed writing structure.
+
+---
+
+### Framework Combination Guidelines
+
+In many real-world marketing campaigns, a single framework may not be sufficient.
+
+Professional copywriters often combine multiple frameworks to improve clarity, engagement, and conversion.
+
+AAOS may combine frameworks when doing so improves communication.
+
+General guideline:
+
+- Use one framework as the Primary Framework.
+- Use additional frameworks only to strengthen specific parts of the message.
+- Maintain one logical flow throughout the copy.
+
+Examples:
+
+Facebook Video Ad
+
+Hook → PAS → CTA
+
+Landing Page
+
+AIDA → FAB → CTA
+
+UGC Video
+
+Storytelling → PAS → CTA
+
+Product Launch
+
+AIDA → FAB
+
+The objective is not to use more frameworks.
+
+The objective is to communicate more effectively.
+
+---
+
+### AAOS Thinking Rule
+
+Before combining frameworks, verify:
+
+- Is the combination necessary?
+- Does each framework serve a clear purpose?
+- Does the final message remain simple and easy to follow?
+
+Frameworks should improve communication—not make it more complex.
 
 ---
 
@@ -2623,7 +2692,26 @@ Do not use the same framework for every campaign.
 
 ---
 
-### Rule 4 – Write Customer-Centric Copy
+### Rule 4 – Plan the Communication
+
+After selecting the copywriting framework, plan how the message will be communicated before writing.
+
+Identify:
+
+- Primary Message
+- Tone of Voice
+- Emotional Direction
+- Hook Type
+- Story Structure (if applicable)
+- CTA Style
+
+The planning stage should ensure that the framework, messaging, and customer intent remain aligned throughout the copy.
+
+Do not begin writing until the communication approach has been planned.
+
+---
+
+### Rule 5 – Write Customer-Centric Copy
 
 Speak directly to the customer.
 
@@ -2639,7 +2727,7 @@ Write:
 
 ---
 
-### Rule 5 – Focus on Benefits
+### Rule 6 – Focus on Benefits
 
 Every feature should answer:
 
@@ -2649,7 +2737,7 @@ Translate every feature into a customer benefit.
 
 ---
 
-### Rule 6 – Build Trust
+### Rule 7 – Build Trust
 
 Include appropriate trust signals such as:
 
@@ -2664,7 +2752,7 @@ Support claims with evidence whenever possible.
 
 ---
 
-### Rule 7 – Adapt to the Marketing Channel
+### Rule 8 – Adapt to the Marketing Channel
 
 Different channels require different styles.
 
@@ -2680,7 +2768,7 @@ Adjust copy according to the platform.
 
 ---
 
-### Rule 8 – Create the Appropriate Call to Action
+### Rule 9 – Create the Appropriate Call to Action
 
 AAOS should create a CTA that aligns with:
 
@@ -3359,7 +3447,7 @@ When strategy, psychology, and communication work together, marketing becomes si
 
 ## MODULE STATUS
 
-Module Version: v1.0
+Module Version: v1.1
 
 Status: Completed
 
