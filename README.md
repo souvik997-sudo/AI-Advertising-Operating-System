@@ -1,6 +1,6 @@
 # 🚀 AI Advertising Operating System
 
-![Version](https://img.shields.io/badge/version-v1.16.6-blue) ![Status](https://img.shields.io/badge/status-active-success) ![License](https://img.shields.io/badge/license-MIT-green) ![Documentation](https://img.shields.io/badge/docs-modular-orange)
+![Version](https://img.shields.io/badge/version-v1.16.7-blue) ![Status](https://img.shields.io/badge/status-active-success) ![License](https://img.shields.io/badge/license-MIT-green) ![Documentation](https://img.shields.io/badge/docs-modular-orange)
 
 > Build Professional Marketing Assets with AI
 
@@ -93,7 +93,7 @@ The repository is currently undergoing final repository-level audit and document
 
 ## 📦 Current Version
 
-**AAOS v1.16.6**
+**AAOS v1.16.7**
 
 Core Foundation Completed
 

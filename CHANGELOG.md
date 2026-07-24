@@ -4,6 +4,24 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [v1.16.7] - Humanization Improvements
+
+### Improved
+
+- Added Meaning Preservation verification to the Humanization Framework.
+- Added Strategic Intent preservation rule to strengthen module boundaries.
+- Improved workflow consistency between Humanization and other AAOS modules.
+
+### Validation Basis
+
+Repository Audit – Humanization
+
+### Status
+
+Humanization upgraded from v1.0 → v1.1
+
+---
+
 ## [v1.16.6] - Buyer Psychology Improvements
 
 ### Improved

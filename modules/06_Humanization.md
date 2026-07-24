@@ -1,6 +1,6 @@
 # Humanization
 
-Module Version: v1.0
+Module Version: v1.1
 
 Repository Target: v2.0
 
@@ -1254,7 +1254,22 @@ The content should be easy to read from beginning to end.
 
 ---
 
-## Step 6 — Final Human Review
+## Step 6 — Verify Meaning Preservation
+
+Compare the humanized version with the original draft.
+
+Verify that:
+
+* No factual information has changed.
+* No unsupported claims have been introduced.
+* No important details have been removed.
+* The original intent remains unchanged.
+
+Humanization should improve communication without changing the underlying message.
+
+---
+
+## Step 7 — Final Human Review
 
 Before publishing, verify:
 
@@ -1392,6 +1407,24 @@ Every sentence should provide value.
 Remove unnecessary words, repeated ideas, and overly detailed explanations.
 
 Clear communication is more effective than lengthy communication.
+
+---
+
+## Rule 9 — Preserve Strategic Intent
+
+Humanization should improve how the message is communicated, not what the message communicates.
+
+AAOS should never change:
+
+- Marketing strategy
+- Buyer psychology
+- Brand positioning
+- Core value proposition
+- Business objective
+
+These decisions belong to their respective modules.
+
+Humanization is responsible only for improving language, readability, tone, and natural communication.
 
 ---
 
@@ -1717,7 +1750,7 @@ Humanized Content
 
 ## MODULE STATUS
 
-Module Version: v1.0
+Module Version: v1.1
 
 Status: Completed
 
