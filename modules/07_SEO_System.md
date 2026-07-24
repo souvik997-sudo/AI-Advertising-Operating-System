@@ -1,6 +1,6 @@
 # SEO System
 
-Module Version: v1.0
+Module Version: v1.1
 
 Repository Target: v2.0
 
@@ -2309,7 +2309,21 @@ The first draft should prioritize solving the user's problem.
 
 ---
 
-## Step 6 — Humanization
+## Step 6 — Verify Content Accuracy
+
+Before humanization or SEO optimization, verify:
+
+* Factual accuracy
+* Source reliability (when applicable)
+* Statistical correctness
+* Claim support
+* Content freshness
+
+SEO should never optimize inaccurate or misleading information.
+
+---
+
+## Step 7 — Humanization
 
 Review the draft to:
 
@@ -2323,7 +2337,7 @@ SEO content should always read naturally.
 
 ---
 
-## Step 7 — SEO Optimization
+## Step 8 — SEO Optimization
 
 Optimize:
 
@@ -2340,7 +2354,7 @@ Optimization should improve discoverability without reducing readability.
 
 ---
 
-## Step 8 — Quality Assurance
+## Step 9 — Quality Assurance
 
 Before publishing, verify:
 
@@ -2354,7 +2368,7 @@ Only high-quality content should be published.
 
 ---
 
-## Step 9 — Publish & Monitor
+## Step 10 — Publish & Monitor
 
 After publishing:
 
@@ -2528,6 +2542,22 @@ Content should be reviewed and updated whenever:
 * Search intent shifts
 
 Fresh, accurate content provides long-term value.
+
+---
+
+## Rule 9 — Preserve Business & Marketing Strategy
+
+SEO optimization should improve discoverability without changing:
+
+- Business objectives
+- Brand positioning
+- Buyer psychology
+- Marketing strategy
+- Core messaging
+
+These decisions belong to their respective AAOS modules.
+
+SEO should optimize presentation, structure, and discoverability—not redefine strategic decisions.
 
 ---
 
@@ -2742,7 +2772,7 @@ SEO improves discoverability while preserving brand strategy, customer psycholog
 
 ## MODULE STATUS
 
-Module Version: v1.0
+Module Version: v1.1
 
 Status: Completed
 
